@@ -31,3 +31,4 @@ jobs:
           git config --local user.name "whlit"
           git add .
           git commit -m "auto update by node-spider"
+          git push origin main
