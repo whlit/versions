@@ -70,7 +70,7 @@ def push(version, lts, os, arch, file_type):
                     })
 
 
-for data in datas:
+for data in datas[0:10]:
     version = data['version'].replace('v', '')
     if version.startswith('0.'):
         continue
@@ -96,12 +96,13 @@ for data in datas:
                 arch = strs[1]
                 push(version, lts, os, arch, 'tar.gz')
                 push(version, lts, os, arch, 'tar.xz')
-        elif name.startswith('macos'):
+        elif name.startswith('osx'):
             strs = name.split('-')
             if len(strs) == 3:
                 file_type = strs[2]
+                arch = strs[1]
                 if file_type == 'pkg':
-                    push(version, lts, None, None, 'pkg')
+                    push(version, lts, 'darwin', 'any', 'pkg')
                 else:
                     push(version, lts, 'darwin', arch, 'tar.gz')
                     push(version, lts, 'darwin', arch, 'tar.xz')
