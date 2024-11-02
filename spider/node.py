@@ -69,8 +69,7 @@ def push(version, lts, os, arch, file_type):
                     'url': 'https://nodejs.org/dist/v' + version + '/' + file_name
                     })
 
-
-for data in datas[0:10]:
+for data in datas:
     version = data['version'].replace('v', '')
     if version.startswith('0.'):
         continue
