@@ -40,17 +40,17 @@ def get_file_name(version, os, arch, file_type):
 
 def push(version, lts, os, arch, file_type):
     file_name = get_file_name(version, os, arch, file_type)
-    
+
     if version in versions:
         for x in versions[version]:
             if x['file_name'] == file_name:
                 return
-        
+
     updated['all'] = True
     updated[os + '-' + arch] = True
 
     global sums
-    if sums == None: 
+    if sums == None:
         sums = get_sums(version)
         time.sleep(1)
 
@@ -59,19 +59,21 @@ def push(version, lts, os, arch, file_type):
 
     versions[version].append({
                     'version': version,
-                    'lts': lts, 
-                    'os': os, 
-                    'arch': arch, 
+                    'lts': lts,
+                    'os': os,
+                    'arch': arch,
                     'file_name': file_name,
-                    'file_type': file_type, 
+                    'file_type': file_type,
                     'sum': sums[file_name],
                     'sum_type': 'sha256',
                     'url': 'https://nodejs.org/dist/v' + version + '/' + file_name
                     })
-    
+
 
 for data in datas:
     version = data['version'].replace('v', '')
+    if version.startswith('0.'):
+        continue
     lts =  True if data['lts'] else False
     sums = None
     for name in data['files']:
@@ -103,10 +105,10 @@ for data in datas:
                 else:
                     push(version, lts, 'darwin', arch, 'tar.gz')
                     push(version, lts, 'darwin', arch, 'tar.xz')
-    
+
 
 for x in updated:
-    if x == 'all': 
+    if x == 'all':
         with open('node-all.version.json', 'w') as f:
             json.dump(versions, f, indent=2)
         continue
