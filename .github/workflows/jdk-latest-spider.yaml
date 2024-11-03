@@ -1,8 +1,8 @@
-name: jdk-spider
+name: jdk-latest-spider
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,12 +27,12 @@ jobs:
 
       - name: Run Spider
         run: |
-          python spider/jdk.py
+          python spider/jdk-latest.py
 
       - name: Commit files
         run: |
           git config --local user.email "whlit.cola@gmail.com"
           git config --local user.name "whlit"
           git add .
-          git commit -m "auto update by jdk-spider"
+          git commit -m "auto update by jdk-latest-spider"
           git push origin main
