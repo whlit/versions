@@ -1,0 +1,4549 @@
+{
+  "23.1.0": [],
+  "23.0.0": [],
+  "22.11.0": [],
+  "22.10.0": [],
+  "22.9.0": [],
+  "22.8.0": [],
+  "22.7.0": [],
+  "22.6.0": [],
+  "22.5.1": [],
+  "22.5.0": [],
+  "22.4.1": [],
+  "22.4.0": [],
+  "22.3.0": [],
+  "22.2.0": [],
+  "22.1.0": [],
+  "22.0.0": [],
+  "21.7.3": [],
+  "21.7.2": [],
+  "21.7.1": [],
+  "21.7.0": [],
+  "21.6.2": [],
+  "21.6.1": [],
+  "21.6.0": [],
+  "21.5.0": [],
+  "21.4.0": [],
+  "21.3.0": [],
+  "21.2.0": [],
+  "21.1.0": [],
+  "21.0.0": [],
+  "20.18.0": [],
+  "20.17.0": [],
+  "20.16.0": [],
+  "20.15.1": [],
+  "20.15.0": [],
+  "20.14.0": [],
+  "20.13.1": [],
+  "20.13.0": [],
+  "20.12.2": [],
+  "20.12.1": [],
+  "20.12.0": [],
+  "20.11.1": [],
+  "20.11.0": [],
+  "20.10.0": [],
+  "20.9.0": [],
+  "20.8.1": [],
+  "20.8.0": [],
+  "20.7.0": [],
+  "20.6.1": [],
+  "20.6.0": [],
+  "20.5.1": [],
+  "20.5.0": [],
+  "20.4.0": [],
+  "20.3.1": [],
+  "20.3.0": [],
+  "20.2.0": [],
+  "20.1.0": [],
+  "20.0.0": [],
+  "19.9.0": [],
+  "19.8.1": [],
+  "19.8.0": [],
+  "19.7.0": [],
+  "19.6.1": [],
+  "19.6.0": [],
+  "19.5.0": [],
+  "19.4.0": [],
+  "19.3.0": [],
+  "19.2.0": [],
+  "19.1.0": [],
+  "19.0.1": [],
+  "19.0.0": [],
+  "18.20.4": [],
+  "18.20.3": [],
+  "18.20.2": [],
+  "18.20.1": [],
+  "18.20.0": [],
+  "18.19.1": [],
+  "18.19.0": [],
+  "18.18.2": [],
+  "18.18.1": [],
+  "18.18.0": [],
+  "18.17.1": [],
+  "18.17.0": [],
+  "18.16.1": [],
+  "18.16.0": [],
+  "18.15.0": [],
+  "18.14.2": [],
+  "18.14.1": [],
+  "18.14.0": [],
+  "18.13.0": [],
+  "18.12.1": [],
+  "18.12.0": [],
+  "18.11.0": [],
+  "18.10.0": [],
+  "18.9.1": [],
+  "18.9.0": [],
+  "18.8.0": [],
+  "18.7.0": [],
+  "18.6.0": [],
+  "18.5.0": [],
+  "18.4.0": [],
+  "18.3.0": [],
+  "18.2.0": [],
+  "18.1.0": [],
+  "18.0.0": [],
+  "17.9.1": [],
+  "17.9.0": [],
+  "17.8.0": [],
+  "17.7.2": [],
+  "17.7.1": [],
+  "17.7.0": [],
+  "17.6.0": [],
+  "17.5.0": [],
+  "17.4.0": [],
+  "17.3.1": [],
+  "17.3.0": [],
+  "17.2.0": [],
+  "17.1.0": [],
+  "17.0.1": [],
+  "17.0.0": [],
+  "16.20.2": [],
+  "16.20.1": [],
+  "16.20.0": [],
+  "16.19.1": [],
+  "16.19.0": [],
+  "16.18.1": [],
+  "16.18.0": [],
+  "16.17.1": [],
+  "16.17.0": [],
+  "16.16.0": [],
+  "16.15.1": [],
+  "16.15.0": [],
+  "16.14.2": [],
+  "16.14.1": [],
+  "16.14.0": [],
+  "16.13.2": [],
+  "16.13.1": [],
+  "16.13.0": [],
+  "16.12.0": [],
+  "16.11.1": [],
+  "16.11.0": [],
+  "16.10.0": [],
+  "16.9.1": [],
+  "16.9.0": [],
+  "16.8.0": [],
+  "16.7.0": [],
+  "16.6.2": [],
+  "16.6.1": [],
+  "16.6.0": [],
+  "16.5.0": [],
+  "16.4.2": [],
+  "16.4.1": [],
+  "16.4.0": [],
+  "16.3.0": [],
+  "16.2.0": [],
+  "16.1.0": [],
+  "16.0.0": [],
+  "15.14.0": [],
+  "15.13.0": [],
+  "15.12.0": [],
+  "15.11.0": [],
+  "15.10.0": [],
+  "15.9.0": [],
+  "15.8.0": [],
+  "15.7.0": [],
+  "15.6.0": [],
+  "15.5.1": [],
+  "15.5.0": [],
+  "15.4.0": [],
+  "15.3.0": [],
+  "15.2.1": [],
+  "15.2.0": [],
+  "15.1.0": [],
+  "15.0.1": [],
+  "15.0.0": [],
+  "14.21.3": [],
+  "14.21.2": [],
+  "14.21.1": [],
+  "14.21.0": [],
+  "14.20.1": [],
+  "14.20.0": [],
+  "14.19.3": [],
+  "14.19.2": [],
+  "14.19.1": [],
+  "14.19.0": [],
+  "14.18.3": [],
+  "14.18.2": [],
+  "14.18.1": [],
+  "14.18.0": [],
+  "14.17.6": [],
+  "14.17.5": [],
+  "14.17.4": [],
+  "14.17.3": [],
+  "14.17.2": [],
+  "14.17.1": [],
+  "14.17.0": [],
+  "14.16.1": [],
+  "14.16.0": [],
+  "14.15.5": [],
+  "14.15.4": [],
+  "14.15.3": [],
+  "14.15.2": [],
+  "14.15.1": [],
+  "14.15.0": [],
+  "14.14.0": [],
+  "14.13.1": [],
+  "14.13.0": [],
+  "14.12.0": [],
+  "14.11.0": [],
+  "14.10.1": [],
+  "14.10.0": [],
+  "14.9.0": [],
+  "14.8.0": [],
+  "14.7.0": [],
+  "14.6.0": [],
+  "14.5.0": [],
+  "14.4.0": [],
+  "14.3.0": [],
+  "14.2.0": [],
+  "14.1.0": [],
+  "14.0.0": [],
+  "13.14.0": [],
+  "13.13.0": [],
+  "13.12.0": [],
+  "13.11.0": [],
+  "13.10.1": [],
+  "13.10.0": [],
+  "13.9.0": [],
+  "13.8.0": [],
+  "13.7.0": [],
+  "13.6.0": [],
+  "13.5.0": [],
+  "13.4.0": [],
+  "13.3.0": [],
+  "13.2.0": [],
+  "13.1.0": [],
+  "13.0.1": [],
+  "13.0.0": [],
+  "12.22.12": [],
+  "12.22.11": [],
+  "12.22.10": [],
+  "12.22.9": [],
+  "12.22.8": [],
+  "12.22.7": [],
+  "12.22.6": [],
+  "12.22.5": [],
+  "12.22.4": [],
+  "12.22.3": [],
+  "12.22.2": [],
+  "12.22.1": [],
+  "12.22.0": [],
+  "12.21.0": [],
+  "12.20.2": [],
+  "12.20.1": [],
+  "12.20.0": [],
+  "12.19.1": [],
+  "12.19.0": [],
+  "12.18.4": [],
+  "12.18.3": [],
+  "12.18.2": [],
+  "12.18.1": [],
+  "12.18.0": [],
+  "12.17.0": [],
+  "12.16.3": [],
+  "12.16.2": [],
+  "12.16.1": [],
+  "12.16.0": [],
+  "12.15.0": [],
+  "12.14.1": [],
+  "12.14.0": [],
+  "12.13.1": [],
+  "12.13.0": [],
+  "12.12.0": [],
+  "12.11.1": [],
+  "12.11.0": [],
+  "12.10.0": [],
+  "12.9.1": [],
+  "12.9.0": [],
+  "12.8.1": [],
+  "12.8.0": [],
+  "12.7.0": [],
+  "12.6.0": [],
+  "12.5.0": [],
+  "12.4.0": [],
+  "12.3.1": [],
+  "12.3.0": [],
+  "12.2.0": [],
+  "12.1.0": [],
+  "12.0.0": [],
+  "11.15.0": [],
+  "11.14.0": [],
+  "11.13.0": [],
+  "11.12.0": [],
+  "11.11.0": [],
+  "11.10.1": [],
+  "11.10.0": [],
+  "11.9.0": [],
+  "11.8.0": [],
+  "11.7.0": [],
+  "11.6.0": [],
+  "11.5.0": [],
+  "11.4.0": [],
+  "11.3.0": [],
+  "11.2.0": [],
+  "11.1.0": [],
+  "11.0.0": [],
+  "10.24.1": [],
+  "10.24.0": [],
+  "10.23.3": [],
+  "10.23.2": [],
+  "10.23.1": [],
+  "10.23.0": [],
+  "10.22.1": [],
+  "10.22.0": [],
+  "10.21.0": [],
+  "10.20.1": [],
+  "10.20.0": [],
+  "10.19.0": [],
+  "10.18.1": [],
+  "10.18.0": [],
+  "10.17.0": [],
+  "10.16.3": [],
+  "10.16.2": [],
+  "10.16.1": [],
+  "10.16.0": [],
+  "10.15.3": [],
+  "10.15.2": [],
+  "10.15.1": [],
+  "10.15.0": [],
+  "10.14.2": [],
+  "10.14.1": [],
+  "10.14.0": [],
+  "10.13.0": [],
+  "10.12.0": [],
+  "10.11.0": [],
+  "10.10.0": [],
+  "10.9.0": [],
+  "10.8.0": [],
+  "10.7.0": [],
+  "10.6.0": [],
+  "10.5.0": [],
+  "10.4.1": [],
+  "10.4.0": [],
+  "10.3.0": [],
+  "10.2.1": [],
+  "10.2.0": [],
+  "10.1.0": [],
+  "10.0.0": [],
+  "9.11.2": [
+    {
+      "version": "9.11.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "166cc28bd9c8217c533b2921edd5e980b14f1d670d828e9d40c1d5b37f51496d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.2/node-v9.11.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.11.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b4ba2b95e6a8a22dcfd7f402f25710719e67af144d32a003b538d05a57626b00",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.2/node-v9.11.2-linux-x86.tar.xz"
+    }
+  ],
+  "9.11.1": [
+    {
+      "version": "9.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c15307591aad4b65e984a3c25f39f5d102524190c1859a3fb7de166ac5e2641c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.1/node-v9.11.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "14c1e80ee16a315300bc54b0219d5a0a472c8e6fcd305c091f76c257e0b65a32",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.1/node-v9.11.1-linux-x86.tar.xz"
+    }
+  ],
+  "9.11.0": [
+    {
+      "version": "9.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6bfd006777720502a41bb1af9455c6ea56686757ab197da9b675db9a4a49902e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.0/node-v9.11.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.11.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3ec2790bb43048672d499d32ae5e38cf3e360d67acf55350dff7f2ab3557dc0c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.11.0/node-v9.11.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.10.1": [
+    {
+      "version": "9.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.10.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "71a0d45076aa9f7c0f4e1c81e04d9214377acbab641d151c45e6b203ae1c31b7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.10.1/node-v9.10.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.10.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6eec985c05d01b0b2da58302ebc0854e74a0e3dd4b7d73caeac631b7184058e5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.10.1/node-v9.10.1-linux-x86.tar.xz"
+    }
+  ],
+  "9.10.0": [
+    {
+      "version": "9.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.10.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c0113bc0ff5d48a5b2827ada0fa70ee9296f27b043ff4cec1f805374f7fe88f2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.10.0/node-v9.10.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.10.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1e96a62e76dd93d2a1f49d164b5e3bcfb5722844ef5ac15158c299f73cd446e3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.10.0/node-v9.10.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.9.0": [
+    {
+      "version": "9.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9e29073aadc19be24cd46648eb99d60b3f0d42534d7ba85c152ac33be90685ac",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.9.0/node-v9.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "8b1f399b1fd258f28a3c6ec7dbab93cfd7c88c6f305d182f796934bac1ae63c3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.9.0/node-v9.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.8.0": [
+    {
+      "version": "9.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d1093306679b90c7c870364ef8cc5880c1595743d223f9f20ea616d9940b02ea",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.8.0/node-v9.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "93757d8f9d60d902de6efd8f96cdf4b57bdd12808711a9cf1491f40773ace861",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.8.0/node-v9.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.7.1": [
+    {
+      "version": "9.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.7.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "04a35842fc600a58268fa65bd776b2a9e46528bb2dc619e2f32069411607abab",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.7.1/node-v9.7.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.7.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2f005975746c4b95a7529845ea14e22936ee2432cfa02bfa0db0eeae932b3472",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.7.1/node-v9.7.1-linux-x86.tar.xz"
+    }
+  ],
+  "9.7.0": [
+    {
+      "version": "9.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cfcfc7aa24286abb110e195596737c160a295538ec68d3411158ea4ed2c56afa",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.7.0/node-v9.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d55ed20036040148195f44fd9704b55f57f6ff87b2d0ef5e608baf03981ec889",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.7.0/node-v9.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.6.1": [
+    {
+      "version": "9.6.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.6.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6558bf0bad8333afc8ce00a8c3c6f5f62c7a39814f861ac96e42f57ab8c7161d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.6.1/node-v9.6.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.6.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.6.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f5da57eb9330a55450d1d33821d0ef8537da2d3ff0251cb1943859f4ad3add38",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.6.1/node-v9.6.1-linux-x86.tar.xz"
+    }
+  ],
+  "9.6.0": [
+    {
+      "version": "9.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2d7be0f3c307d8c1513429b0e88d66ae616df8c814d6204936cc17d18f34301e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.6.0/node-v9.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0e7b6f763b6c0668ed18ed50d1d5247d931d5f3cd096fb7a9d550e3cf651f752",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.6.0/node-v9.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.5.0": [
+    {
+      "version": "9.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d262b88071a2d5e6e0123914275353cec61e296e9b91925f3ef4a498b92dcc81",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.5.0/node-v9.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "672e9d9aa7e8edb5529069e9787c1dec290963e600d08fdfbe404b8f8ac39a44",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.5.0/node-v9.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.4.0": [
+    {
+      "version": "9.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7201e5d9d90b33696d5e9b2619f98288a559f54ebb1989c29c52e54706242c12",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.4.0/node-v9.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "97c00aa4e62752ca4a32e889860b72d388fddb792d6bef5b2f67ca5ba37447f5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.4.0/node-v9.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.3.0": [
+    {
+      "version": "9.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5a01619bb5c086d9a0a7e060801e1d03f44552a15d0c23144257ba1e233f5fb0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.3.0/node-v9.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e3a8cd4ecd3c9e322bb282c765990df4584659c3f0447c61430ab7b48f638351",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.3.0/node-v9.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.2.1": [
+    {
+      "version": "9.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.2.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ac374441ea085e7cf82f244ac8206d4e1b338aacfb5c4532fa8f36f22b04e2b9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.2.1/node-v9.2.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.2.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b65604ea39f03de0c0ba7ab7656bfb67661ea2b4b860c202be69ed4d037fa099",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.2.1/node-v9.2.1-linux-x86.tar.xz"
+    }
+  ],
+  "9.2.0": [
+    {
+      "version": "9.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "84579415724cd607d177cd493881b409be08203198abbb26834e06b0b4462b59",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.2.0/node-v9.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "54f34cd65298753e6835702d22c2006648e06120e057c84261980cdc022627f6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.2.0/node-v9.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.1.0": [
+    {
+      "version": "9.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f2b0783f8be2d104e436e05b5f8477f4250f8af7cf785320ba6721546017d2d9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.1.0/node-v9.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3ba6004a276aee384ee6fbf5cb5c0465c00733299adbe477afdbb1d76767aa36",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.1.0/node-v9.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "9.0.0": [
+    {
+      "version": "9.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3fdddbdd5a154c1578f186ae41d92ecd363764c2ae112ee0c45cc5e25a872e2a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.0.0/node-v9.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "9.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v9.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1d4f2e0db1efa0f9850f272327243ee17aa5bef2e46807bb1adf2e5ba2b56c59",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v9.0.0/node-v9.0.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.17.0": [
+    {
+      "version": "8.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.17.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1170ce85555ac17d58b7a5354f06fa5cb1bcaf31f15926c82b314d20552a5fee",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.17.0/node-v8.17.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.17.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e92a26ab60245c99c1dd5bcea1793abbef1aba751d6ce6a222daf08abe4e8020",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.17.0/node-v8.17.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.16.2": [
+    {
+      "version": "8.16.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "938cc9651ce38091eba8c72ef2b235339fe3bed3980c04d1429f01412c68546c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.2/node-v8.16.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.16.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3c1be98f792e41ab2a26bf03ed061ec2f98977218662f91daa394f8a23b94127",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.2/node-v8.16.2-linux-x86.tar.xz"
+    }
+  ],
+  "8.16.1": [
+    {
+      "version": "8.16.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a7f60fc6f41bedd2a387bc99067df11d53161fa235b8c90c6b5e73b0dff9af8e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.1/node-v8.16.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.16.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ad19074012d957e8e524b3ef2ebad8cf36bdf58f86505e0ec2c131c1004ea9bb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.1/node-v8.16.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.16.0": [
+    {
+      "version": "8.16.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b616582589101df7fae465e052f016980c2a733ca1b2ee1a1d46ff2fe594a0e8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.0/node-v8.16.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.16.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.16.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b0f6de54151ab2c8ca64af15012dbf5f1902293e4d6efb8aac98de1eda1cb8af",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.16.0/node-v8.16.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.15.1": [
+    {
+      "version": "8.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.15.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d7cb82569278baf46cac88128c0677e0499b066cd2dfe0223af82162e2a17185",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.15.1/node-v8.15.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.15.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ca5b9ed2377fca5e66f66fa4e9ce4b0ffce6e065651d1c6398989b79d1d8c829",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.15.1/node-v8.15.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.15.0": [
+    {
+      "version": "8.15.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.15.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cb20139da17c6805af5e3e04b4414c8f92cf3369cd1dd7aca3a58e1ad6b806a9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.15.0/node-v8.15.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.15.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.15.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "c43e992e1967310091c8f700dbe537559849c7b5c8436f48aba161fa987645fc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.15.0/node-v8.15.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.14.1": [
+    {
+      "version": "8.14.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.14.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "12d4c2aaf2e0c7f70a5eb4ace10c5b77eaaf3a69a9b78f7ecacb71286dc3f235",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.14.1/node-v8.14.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.14.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.14.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f02bd71ec3df441c05f0d30edd326b442544ba2ad431dcb403ffa910ef608c59",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.14.1/node-v8.14.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.14.0": [
+    {
+      "version": "8.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.14.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2b867f310a7ef2ac082eb920276f710499c106db3aa90f8ef2ceb66489152182",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.14.0/node-v8.14.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.14.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1e73f218dcedb50d602a2c59ba1976073505f44e23ec72360be68c1a2587f672",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.14.0/node-v8.14.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.13.0": [
+    {
+      "version": "8.13.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.13.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a27c3de5b61322711b7167911f37513a4529da930e836f23827819ab5240e1dd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.13.0/node-v8.13.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.13.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.13.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "632021c49972d26501528e468b545cdb4e850616530886ce45d28b5d73a224d9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.13.0/node-v8.13.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.12.0": [
+    {
+      "version": "8.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.12.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "56ecffbd8a656991f71e4b53ab00af333c97453062cadc20a2103b933088d24d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.12.0/node-v8.12.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.12.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2f9820411c5d53a19daf85d575f01f99664d2aff1c85c281c7b12d8086b83b31",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.12.0/node-v8.12.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.11.4": [
+    {
+      "version": "8.11.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e9e6efc1fdcaa7283dc6e2428f8dc88260060ee46fb9e4683a09715c7e3354bf",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.4/node-v8.11.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.11.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "373d752ac5c10b7403d9a4c8d039457d6c32ada133c0d2ce9d82bc54dba6d551",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.4/node-v8.11.4-linux-x86.tar.xz"
+    }
+  ],
+  "8.11.3": [
+    {
+      "version": "8.11.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7fe0d547baaa6334c1b14cfad8f4dc707b58b3568659b7466894ff26030944e5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.3/node-v8.11.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.11.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "79fc372d8cb2d9d352bad00ae6630994fde802767fafff2dc411f37a3e84a5d3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.3/node-v8.11.3-linux-x86.tar.xz"
+    }
+  ],
+  "8.11.2": [
+    {
+      "version": "8.11.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7700e140e13f49c641dc2dc6874a6c8d0aba0969fa6b728a14887d4bef3b29a8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.2/node-v8.11.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.11.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b380090649229d0ccc7afb8a6b432d60dd012da5e40dca903c7ac2d15f33a7a1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.2/node-v8.11.2-linux-x86.tar.xz"
+    }
+  ],
+  "8.11.1": [
+    {
+      "version": "8.11.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "373e28cb9549fda7063b35eba84827fb0fda6c01856d0b310431eaea7d0c6d45",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.1/node-v8.11.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.11.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "cfe4f6115f9148b16e1b993a6fbbaf21aeecbb97849dd498b979d8511ff25e85",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.1/node-v8.11.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.11.0": [
+    {
+      "version": "8.11.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "036eecc0a5cd5a7be38305a823743b94c7945f3c4b3cf540650ba4504abc5129",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.0/node-v8.11.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.11.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.11.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e6bdd663706989b3bb004a84e3c45a227a3c7a00bc170c4fcf09f7ec8604a5c7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.11.0/node-v8.11.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.10.0": [
+    {
+      "version": "8.10.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.10.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5d663e19fad01095ce919765156894165d2850f2682de82139256be249c89641",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.10.0/node-v8.10.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.10.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.10.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "137d3ba8b4396e5ec432e354950e6cb908c2b5b87afcd43894349f30f9a4cc1a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.10.0/node-v8.10.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.9.4": [
+    {
+      "version": "8.9.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cc2f7a300353422ede336f5e72b71f0d6eac46732a31b7640648378830dd7513",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.4/node-v8.9.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.9.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "79f241f31eab5dfe2976fb0633c598dababd207ab0b8a163004f296cd7794a65",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.4/node-v8.9.4-linux-x86.tar.xz"
+    }
+  ],
+  "8.9.3": [
+    {
+      "version": "8.9.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2414b66425fb79d60f2ec6ba054de17b5253c1ee00fc25e491f8f02dbaae03a8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.3/node-v8.9.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.9.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "04dbc27bfd4ef06a0b364f4c15ab28268f90bf1310d8035481106397c108f600",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.3/node-v8.9.3-linux-x86.tar.xz"
+    }
+  ],
+  "8.9.2": [
+    {
+      "version": "8.9.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "dad907b7cf93f1c308c5d107c4312c3f7e4a0fae26e470bbc7f1e61e9bf485de",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.2/node-v8.9.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.9.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4d04b748a206f5cc2c368f8007237d2f55323f65d2b90680c7a82208ff757c98",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.2/node-v8.9.2-linux-x86.tar.xz"
+    }
+  ],
+  "8.9.1": [
+    {
+      "version": "8.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "830f5f4ff29c2b30089a19e1b71d52d02e965b4e1f08282a09616d99aae1a42b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.1/node-v8.9.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "74a6e140716b2d8a240ab0760fb8edc403d06edace42659bdf8fa6de15992cf0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.1/node-v8.9.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.9.0": [
+    {
+      "version": "8.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b4dfc4d93808280b1bb9946a89c1cca5dd242d68bd774994d7fb1de6bd91958b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.0/node-v8.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7bd958d48222b04f65fbb109334b75bec927ada0a223b6aa64c44c3e5d6d6d2b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.9.0/node-v8.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.8.1": [
+    {
+      "version": "8.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.8.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8d3b3919fb9b3ebc90ff25a27d27a4ce5ad3b2de44719a7e942763c6e973b02e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.8.1/node-v8.8.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.8.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "369d1a74a2e1f705d2ef3c045308b4887a6c0a8123a4b24299c967699b402167",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.8.1/node-v8.8.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.8.0": [
+    {
+      "version": "8.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6fcb04e49725378a109388610ac14142adaa001bcf292982077968406fb04a54",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.8.0/node-v8.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6257c617a12eb3a4c5381629c5a8a6166b20efd853ae09fdb1ac10c2c259cdd1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.8.0/node-v8.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.7.0": [
+    {
+      "version": "8.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "939d88df6f179050fcf93d417d2c094195eede60cae43897fe713e624d33b486",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.7.0/node-v8.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "c991f434d084cd16a2e29b627eb5bd4f7f7a222d341c8050582d3ef47ae83d85",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.7.0/node-v8.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.6.0": [
+    {
+      "version": "8.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "921d8dfe7185f2bc7c454533a1348256928c3be5d014c9799b6a33ec4d19f182",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.6.0/node-v8.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "101dad71205f4a380d264c933ae1a297ca7ddec19645d293c99a91fa3165c77b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.6.0/node-v8.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.5.0": [
+    {
+      "version": "8.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "00ea2be3a78b1694439254d9c7232ce79748d5ff3e0d9bb2ff1fcd090d502d63",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.5.0/node-v8.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b420254e8ec211bc28059176890d4dab83e2ee7e72965a6953aec9bf87b9db97",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.5.0/node-v8.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.4.0": [
+    {
+      "version": "8.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9880c5d4c0dc460643fdc5ac1e3092223a3d659e3528842572d75df8565c22fe",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.4.0/node-v8.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2c5568156e69eca245886c1c583aaab6c26803bc42508aff7271bbcf51710cef",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.4.0/node-v8.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.3.0": [
+    {
+      "version": "8.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "28bf07e34ae9cf5e26a3d133b80aaa70e6a8055c0d6dc45f293cdae8d1010d26",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.3.0/node-v8.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6da778af460b564c06d5d7696c6dae6fa3b892516b4ba7784323dd1a6c58b00d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.3.0/node-v8.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.2.1": [
+    {
+      "version": "8.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.2.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "79d1364e09434bdfe0e925b1e7c80691d92cdbc3ad7384ddeacc793eaa54721d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.2.1/node-v8.2.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.2.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4c2b25ce95eba27adea4f72713286d60b25e73d816a128c35110afaace3f3e2d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.2.1/node-v8.2.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.2.0": [
+    {
+      "version": "8.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "97ea77f2b8c209d01830754bb9eccfa30406cab3f12aeec3b50f48e137a291a9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.2.0/node-v8.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2aaeca8059bb75a26e26678466c12d1ad8c284c2f128fcd86a73df9b58f3cade",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.2.0/node-v8.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.1.4": [
+    {
+      "version": "8.1.4",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d0ab1676d4f3bf4b9f35c0429368959df0094627a8d32bbbf49bd685359a2443",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.4/node-v8.1.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.1.4",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "169b9497b4ac51c1914363c98d43a92781f323910eeca7b65244d2a23a897d60",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.4/node-v8.1.4-linux-x86.tar.xz"
+    }
+  ],
+  "8.1.3": [
+    {
+      "version": "8.1.3",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "38bc1b25fc3dea3984729d4457d8e29ea6f0be156ba2e2c2274d850ebda4b8bd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.3/node-v8.1.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.1.3",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "68d895c6662c017ddcd54b788bfc90c310520c23853339fc815b58ef1b39c06e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.3/node-v8.1.3-linux-x86.tar.xz"
+    }
+  ],
+  "8.1.2": [
+    {
+      "version": "8.1.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fe47b47201ef17a27ef01bd0efde882ce72eee9e11aebf692e33c429874ef373",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.2/node-v8.1.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.1.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d00a8d4057ae5ceb778d9fa62ffcb7ede7047d6de022d36416189517668f0655",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.2/node-v8.1.2-linux-x86.tar.xz"
+    }
+  ],
+  "8.1.1": [
+    {
+      "version": "8.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a1f6c650b9c2d69a1b4dfec4ea4ead39a62867c413c479cfe70fb3152206bea4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.1/node-v8.1.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2b912178ab071a7aff7862c0fc3eaafeb7580c15cf163d926cd1bc99990c696e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.1/node-v8.1.1-linux-x86.tar.xz"
+    }
+  ],
+  "8.1.0": [
+    {
+      "version": "8.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "26dfe0320634254c9e81a6535014a4860bed72c3c1dbd5b040405e4b3a872476",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.0/node-v8.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e352251100e571fa179cbdeffefc49d9ff6d943cd3efad83913b6ac61730cfd4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.1.0/node-v8.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "8.0.0": [
+    {
+      "version": "8.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e012b41f021cb0ff691d40085884623a82a5e79d4763ca3739487d3ba160a79d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.0.0/node-v8.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "8.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v8.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6d99916494a7e0110cbfe7ae79de4d553347763140bddeab4259a998e47d8ccc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v8.0.0/node-v8.0.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.10.1": [
+    {
+      "version": "7.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.10.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e6df274563cb9fd29c88d7905f3bd55f8eb52a728f6ec3dc6adf1f908ae07ce3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.10.1/node-v7.10.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.10.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f3594e32fa49144061a4276a7c834e3a26b6e3fad8e636b5481c18e50f8fffc3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.10.1/node-v7.10.1-linux-x86.tar.xz"
+    }
+  ],
+  "7.10.0": [
+    {
+      "version": "7.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.10.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ca37e75a605497b1f33d085353b1a8315b5a9b4de9463885bf62831f7f4511c1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.10.0/node-v7.10.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.10.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d9eaa35170eeeb07f3eaa9e5f03e68c5729071d65e4a3d933411136ec82c9edd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.10.0/node-v7.10.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.9.0": [
+    {
+      "version": "7.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cf0413a5119c8460215b932dd69449b33238538b0a86e4a7805747073a2be9aa",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.9.0/node-v7.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a1178015504b81d1a42d72feebf80e3e7c96f3ff64ef17157e22f886c7d29e64",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.9.0/node-v7.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.8.0": [
+    {
+      "version": "7.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "84d71d14ced742371c9ba538b3a9d9578f85c4359f7d50f6e9a48c61243c71ec",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.8.0/node-v7.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f91834b75909ab1af4c818ee5c7316e0fb1d6a4190fe07378c50ca81c910c116",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.8.0/node-v7.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.7.4": [
+    {
+      "version": "7.7.4",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6016d16e04519c97377069da8f97055d7b355cc23901468064244b37d7481c1e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.4/node-v7.7.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.7.4",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "39147203d1c923fab33ff2f4fba0228ad09aab30abacc33cd4c4e985819fa7f1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.4/node-v7.7.4-linux-x86.tar.xz"
+    }
+  ],
+  "7.7.3": [
+    {
+      "version": "7.7.3",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f93c9e1be556728884d480a8fa1393df57472d4202ceb5d52619536339147db5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.3/node-v7.7.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.7.3",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "00c9d8d1a86e2130dac76d8e5bf5af2bbc840de1c29a41625f7d93ba0401658e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.3/node-v7.7.3-linux-x86.tar.xz"
+    }
+  ],
+  "7.7.2": [
+    {
+      "version": "7.7.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ba4287cf7496ed9512be67e35140048462a91408680f2b54956bd5c0e8a45a3b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.2/node-v7.7.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.7.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4a18b8f720bbf9890506734722e6cd2e6b9a0246d0c74fa98f774eb367c51a36",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.2/node-v7.7.2-linux-x86.tar.xz"
+    }
+  ],
+  "7.7.1": [
+    {
+      "version": "7.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9a61259bfb85b5a1a9cb12ae607af94d00bee170de58f84d751993eb9728fda2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.1/node-v7.7.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6cf12d0c8e1da5882f8efcf7f8f6b72cd101fc54e34f18c357e0681fdd2c25f7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.1/node-v7.7.1-linux-x86.tar.xz"
+    }
+  ],
+  "7.7.0": [
+    {
+      "version": "7.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6be0d11303a2ae0179d2a6fff3d58d6f3b181f4c19ed67fe6e8138f73054cc1c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.0/node-v7.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "042a0a5cdb34b608e7d70e6464de4c53dc7ecd6aacdf74bbd60b9de0d9b2159f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.7.0/node-v7.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.6.0": [
+    {
+      "version": "7.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3fafdacd96b6edbedad9ae8201272dd622d4ac5fb0dce5235ec7f7eb498ec984",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.6.0/node-v7.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "18736a7d26c55f172abebad13254b913b1be17a0fa6dd7817415252a2f1aca84",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.6.0/node-v7.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.5.0": [
+    {
+      "version": "7.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "976dca95f2a06034c37415869472bbce288143d1660af4b79304caa063ac766f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.5.0/node-v7.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "28069d4ade798a940c7844e47b1220b062e31759d0205c233a4943a02fd7fce5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.5.0/node-v7.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.4.0": [
+    {
+      "version": "7.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f5168076800374ca88cca09f235d1fff1703ae12080d9578b213403e482f48e6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.4.0/node-v7.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4a9eca1751cb8d3ac6e24a7d7eb1f715a01d6e3e3c09215d5ccd903c9ead4a88",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.4.0/node-v7.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.3.0": [
+    {
+      "version": "7.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a552e4aa49b3f9bd938e4cc6607b41106462e365a375ae3777da5375d58ea0dd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.3.0/node-v7.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "90edc1e88c07ed63c1fb5acc86f0c9280821f2371d64d73c05cb6e3b41df10a8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.3.0/node-v7.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.2.1": [
+    {
+      "version": "7.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.2.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2f8b8730d39cb75f34ee065d9999a58b77e756b38833d0152fda49b57f697fd9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.2.1/node-v7.2.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.2.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "02763ac0ac1eeb777c95e2202beaf3d7de3cd2e541255ce0afcf75651c55abec",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.2.1/node-v7.2.1-linux-x86.tar.xz"
+    }
+  ],
+  "7.2.0": [
+    {
+      "version": "7.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d7a014d7828c198134f2f54b30a9781c51c7085a88d69ce1f59a59e6eb5b52d2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.2.0/node-v7.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "db0d6f8486100e953ea926b7d13a69ca9d8bb83552ec4a68f360b9d40dddf3ce",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.2.0/node-v7.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.1.0": [
+    {
+      "version": "7.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f6bcb57e7e693b25ad448faf18300bb9f823bc114aa0b050b7953978511e9a1d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.1.0/node-v7.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "310252fc6295a387e3172efad2efebbd9e32b3eba137d2ee314cbd7f3238e110",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.1.0/node-v7.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "7.0.0": [
+    {
+      "version": "7.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "96c61f58506725246ba246606c288809a5b7243f20ddfa464136978dd32d6917",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.0.0/node-v7.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "7.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v7.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "00526c2fbc4a84e2d00f0b90ae21618cfb8bb9ffd21d25d067bfc2a5ab37ca9c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v7.0.0/node-v7.0.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.17.1": [
+    {
+      "version": "6.17.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.17.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f506e24f741a14a64f3d6b660a0faecac1001fef98509382ef231e716efc49a1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.17.1/node-v6.17.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.17.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.17.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "45bdc0ae20c8d2a4a140f5cb6c0bc7b9812ccf19c95d72bc89a40bb3403c5954",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.17.1/node-v6.17.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.17.0": [
+    {
+      "version": "6.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.17.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5e0ac63b07c5dcf34c78d25400f1e6a3b6f41eae94e0a6a0571f60369d2e5534",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.17.0/node-v6.17.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.17.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a09c05f8ea60406f44ef4a140d182c353c5679f693c08a5247811deac678f6eb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.17.0/node-v6.17.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.16.0": [
+    {
+      "version": "6.16.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.16.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "93e47d1bc0dcbe98288247302c65708104d882cc61fe7d0ce2d68a78cdd555db",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.16.0/node-v6.16.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.16.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.16.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d35a33dcf043d7b30228d423e3a295be7aa9d4fb07f647acf2442cd53d9edcb1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.16.0/node-v6.16.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.15.1": [
+    {
+      "version": "6.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.15.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8790767b3f6bcd99df81d3e486482799ebeba87bc5352b5b3b7623caf51900df",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.15.1/node-v6.15.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.15.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "659576fd9c2de75b4ccc210a815495ed3be0aa979ce2e6f9e12a25dd3c415029",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.15.1/node-v6.15.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.15.0": [
+    {
+      "version": "6.15.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.15.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "63fd6a6f13b5cd7f2f7ff196db80e10e6c584647c492ec4b5a1f9fb7ee4b7add",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.15.0/node-v6.15.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.15.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.15.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "cad7faa4d1ba7dde0a14dcb0e72478e9474040c48abb8af8e9416f6e7f7f4c52",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.15.0/node-v6.15.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.14.4": [
+    {
+      "version": "6.14.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d394ea61a51ba3c070838f8696a38f9e47be55af6978e7a074addb742ba0cddc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.4/node-v6.14.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.14.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ba508f7cad8fab34ef3d72c64b32e06dc7c65a911e14eaf985beeae90975bb06",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.4/node-v6.14.4-linux-x86.tar.xz"
+    }
+  ],
+  "6.14.3": [
+    {
+      "version": "6.14.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "da6999ee6e7a6c17e36684bf0447faca61e115669abe98b71c2610f7c49b6601",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.3/node-v6.14.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.14.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3d84907b764df8ab5912b5e514d55311763f65fa5369ff7c451558a747c78983",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.3/node-v6.14.3-linux-x86.tar.xz"
+    }
+  ],
+  "6.14.2": [
+    {
+      "version": "6.14.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "89541c09865bcc0fa026dbce5093d553abd0f9f903d9a9d07b1a4ccfb6a88782",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.2/node-v6.14.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.14.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "997e7b77155d6bc07a9a39f03cd0c046206ee9140d98b72101105ce0cba76615",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.2/node-v6.14.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.14.1": [
+    {
+      "version": "6.14.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d46d38b9c128a468bb6a49dde1d7cdfff5c4ffd2b33976077432e42b3adccf66",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.1/node-v6.14.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.14.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4bc4e5a533c74484ce4340c76ec5fe079443341920b6c2cd5312e0a0d90203f3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.1/node-v6.14.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.14.0": [
+    {
+      "version": "6.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f460b02a2046f68f0db32405094879a45d2447a2aa3e6c18668ce4ea63a8d99c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.0/node-v6.14.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.14.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d0de10751f19b862882c08d2118e9d5c725e3b4500bdee354c3b41ca5415593e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.14.0/node-v6.14.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.13.1": [
+    {
+      "version": "6.13.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.13.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "236b603b1c114b404cea05f5eacddc5620b4b2aa36475e841808b856efdb298a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.13.1/node-v6.13.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.13.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.13.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "95f18d6814a31fcf90abcee4ed2984c0c23611791924692f348e48c4e5472401",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.13.1/node-v6.13.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.13.0": [
+    {
+      "version": "6.13.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.13.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ecfd9d28f5c94dfd22e2699e663a05fd51e330c8731b48e0f5b5d53b66becb1a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.13.0/node-v6.13.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.13.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.13.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ac67bde4d87d4d1df7659e5e984c7667a97cdd3adbf1bd90688c4df575465d9a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.13.0/node-v6.13.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.12.3": [
+    {
+      "version": "6.12.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a60e400b496d8e7ee219d96ea9b6c296431f2cd6d84cb1fbe70da47c2720c73c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.3/node-v6.12.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.12.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e3b7cd999b1f57cf836bff55bbf7709774a8a916879ecfcecf59bc3fdc4c5ab7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.3/node-v6.12.3-linux-x86.tar.xz"
+    }
+  ],
+  "6.12.2": [
+    {
+      "version": "6.12.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "32feecfde5522fcedd7ad92edb0cb4538fbddfa466cda9cf5310a63eaab83ac0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.2/node-v6.12.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.12.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "dc021d1591b2fa4ce3413f5ab7307fc6ef555ae7ab788b0dea24388f84a0c6c1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.2/node-v6.12.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.12.1": [
+    {
+      "version": "6.12.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c83ed23843eaa26cc9a7d088922a87bb92ca3ee8bcadf95f0177f0362cdfacd4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.1/node-v6.12.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.12.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7671886da0a8b74476d4bba3285437d2ab8d54e1cd3cb4085a355a8d184463cf",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.1/node-v6.12.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.12.0": [
+    {
+      "version": "6.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "765fed47750c711a02c508e98b0f13ad42ddcfd33d1205939a671a806aed004a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.0/node-v6.12.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.12.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "85b2ae7fe8dcb107381f6f6f95f19f19c6edbc1f6b3c6e7ff4035e554128213b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.12.0/node-v6.12.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.5": [
+    {
+      "version": "6.11.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.5-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8594a9087f66efbccc1ef4a6eee1484ab14edac2b379b87affeee29fcbbd6d36",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.5/node-v6.11.5-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.5-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6d8f3e0fd49f44d75c10b21c0bcb92a524faf7cbab8b740e0b9a2f8b3efe4a63",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.5/node-v6.11.5-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.4": [
+    {
+      "version": "6.11.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7d289b722eb2f0210e228c8af521b30686108c67315687a8f942e0d8f7303e94",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.4/node-v6.11.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "8d596073472915713c6368776e97b165fabd6e94ee6813128dbc403c066dcc2e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.4/node-v6.11.4-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.3": [
+    {
+      "version": "6.11.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9c82c884cbe971f5e69303077aacedd76cc76ff684d5c4ab3daa7e8881a15c95",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.3/node-v6.11.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "9afabd3b547bc96345898242cf81553738bf4e4f63a7e40de852a46ab109e390",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.3/node-v6.11.3-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.2": [
+    {
+      "version": "6.11.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8fc3878009af0892330fbf1337d6bb0627016baff6581d2fea6ec21225be5149",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.2/node-v6.11.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "93b1a4dae0249a191e98a4841d860531c378ee2451cbdb6a2ac913304de3c3ae",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.2/node-v6.11.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.1": [
+    {
+      "version": "6.11.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6471fbb402e2e26086e125abb6dfe51d1f1aaee4c7cc769539490de6bca635c3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.1/node-v6.11.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5bab3ae4e437b94dfe6116fab5e0ad30eb9ef91d728f8daa9518ced28910f2af",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.1/node-v6.11.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.11.0": [
+    {
+      "version": "6.11.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "790cae8d5055aa174f2121d2ebb31bc08620d82fb5b7b9707df0859d2b24d869",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.0/node-v6.11.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.11.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.11.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b409d26f5d4146bd2c0b872168cf85a9774c9a103aa0f78aab7161c745b1ea74",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.11.0/node-v6.11.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.10.3": [
+    {
+      "version": "6.10.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "42767df2dff5b9834764f6ec4970741b9b601ac654a3ce39718bc1320273b721",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.3/node-v6.10.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.10.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0cd9bd4c68ed8aa062961bbe1f914cd62c004fd5d53dbec5800eb067bdd33807",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.3/node-v6.10.3-linux-x86.tar.xz"
+    }
+  ],
+  "6.10.2": [
+    {
+      "version": "6.10.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6721221fab4e3b3a1be6573900b9e368c7a74ac1c1c3ae982e49c5583e8962e3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.2/node-v6.10.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.10.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d2179b2d14a399973298c1f4598871058f4cca23c77ea3aca098fa6ff809d55c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.2/node-v6.10.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.10.1": [
+    {
+      "version": "6.10.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "463c32dd47fe51e3eb694bfb019e17a9e1fe83f3292fb02c05103e20494323b9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.1/node-v6.10.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.10.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1e8be5c912cb31e7221836d3f988432e63a1564b2213a673259367f9f7222b1e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.1/node-v6.10.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.10.0": [
+    {
+      "version": "6.10.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e2e0fea44df5770f209bb80b8ec0269832958b67756445884e5e1abf20505eff",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.0/node-v6.10.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.10.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.10.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "684b1121730af2d1373c157608329c5234decd57f2f335051ad734c250b28f6f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.10.0/node-v6.10.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.5": [
+    {
+      "version": "6.9.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.5-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5926601f73cfb5e417d7644624c8f597eebf43b392f7d02e3b4260093e74c3dd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.5/node-v6.9.5-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.5-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a31a9612b5b11d9cf4aad05c406388760bde7b2bf0969a0e580b52cfbbf0bc09",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.5/node-v6.9.5-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.4": [
+    {
+      "version": "6.9.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ee488c534938efcfd941c210b0c389686513ad9a5beea954d6c4a5788f5af57f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.4/node-v6.9.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4a9d2c4472015926a06402cec8089aae33e57fd7f649fa0e1a74160757d771f9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.4/node-v6.9.4-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.3": [
+    {
+      "version": "6.9.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fd25af7ac2728d2321417dfaa408c2f29a8fc1a230f9dbda1a43a2345e6be338",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.3/node-v6.9.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5fd85f7e99bff5e3fa23293bb379ff8f0063c6dbf9bc6caa7bcb160edd38d76b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.3/node-v6.9.3-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.2": [
+    {
+      "version": "6.9.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9794a5af57f408635b4215ede49b52993ef6ac3fd33ed5188b05082455d5a439",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.2/node-v6.9.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "9dae6ddbafcefd271c3df6e01633422dc7495479269fb1358e4c540929ef8835",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.2/node-v6.9.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.1": [
+    {
+      "version": "6.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d2f4cb3f7e784a8c1c1b6477db613d67635d69cbf9ca80c17b87c9e85378d3bd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.1/node-v6.9.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f9b2ca03016e45bc35d2441a63a73db94d3e7b92350f15577d796467b9f7efb0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.1/node-v6.9.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.9.0": [
+    {
+      "version": "6.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5520dc47e11b377064ce99a60e640dfdf9abc29916bcd110307474463af9efb1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.0/node-v6.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b15ed03aa7d113b6803e7e7ec7adebd310d08e6c6c807d9a2776da7421d502e6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.9.0/node-v6.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.8.1": [
+    {
+      "version": "6.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.8.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1247639f19a3e035bc1ec13bc546b0aea651b94836d0d814a5fe52f379c471e5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.8.1/node-v6.8.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.8.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0cbc3ace4d6fdf69f9d5db8a6f2f7f2e6fdb91e98889648af3381c2bca019479",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.8.1/node-v6.8.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.8.0": [
+    {
+      "version": "6.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d79eccb95911d3d3cf742d059e2d2f7669db33ef8f7f1f38f023c0e553f26d30",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.8.0/node-v6.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "30eecdcd99eaa8c2a4fc4c5d2c979878aeaa480b2f937c2b7c34efd1ec1b5de4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.8.0/node-v6.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.7.0": [
+    {
+      "version": "6.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fa94c93a4a3600d68e003a399f5cf5e109c2d10505b4d9456373c25953eb9bf5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.7.0/node-v6.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e89a77020bd579186adbc46f6a668d3524f980c5fc75f63e1d5b5362423bcebb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.7.0/node-v6.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.6.0": [
+    {
+      "version": "6.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "05f3bfdfe8e1911e66b4bf645a439480212767e71664b8c97f0cba46671e8160",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.6.0/node-v6.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e6fcca4783491c7b5866e7f969e93b66f47380e9cc92c08607d7683cfa200775",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.6.0/node-v6.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.5.0": [
+    {
+      "version": "6.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "12d5b79b8b914c2439b6aa542b47f28c0d6dc9c5438eeda629f26021eb839dac",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.5.0/node-v6.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "192c71b5d821471b424846eb1fa1ce40432b5e7e4afc3e5d07d9a91bf264923f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.5.0/node-v6.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.4.0": [
+    {
+      "version": "6.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3630f172fee9c30ef95df3972ae9b2b234273ad504f245e0db363797fa2c08f4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.4.0/node-v6.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "26d8de42de0599d33e893522f9ca389eacc6afc2c28f3fdd91505c3ceafed0d0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.4.0/node-v6.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.3.1": [
+    {
+      "version": "6.3.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.3.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "23f07c6467f69c7e572e71a712bbc9c78be14ccad32f694edd52bc45b272a638",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.3.1/node-v6.3.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.3.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.3.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2144c4288e9227fb3223d0c6158dc91b8eedc195045682bf28b333f2340043d5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.3.1/node-v6.3.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.3.0": [
+    {
+      "version": "6.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9302affb9844ec9a51e774169072bff3421c0232f746b3d504ba6c13c749ff9f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.3.0/node-v6.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "504dc0ad16f8f5d9147df757eb47838a4ae159d50f3efe73539d3b761267f213",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.3.0/node-v6.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.2.2": [
+    {
+      "version": "6.2.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "71a3ec010acaa3c5d26429b6670f4895cd494199ffa07b1773e63619559c32c1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.2/node-v6.2.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.2.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "c00150ed1e4971394136d4ff086fb726f592b0615fa8f7aa64d14d2e338be2b8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.2/node-v6.2.2-linux-x86.tar.xz"
+    }
+  ],
+  "6.2.1": [
+    {
+      "version": "6.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f5656c288c1dfc760a23000d8dc1eb3d0ff484a7798e5f28718a728ae96e9125",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.1/node-v6.2.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "9d46df7c687f212107a39a667fb6b0da9734c71c3513ff8db21f521a033270f1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.1/node-v6.2.1-linux-x86.tar.xz"
+    }
+  ],
+  "6.2.0": [
+    {
+      "version": "6.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "47c3d613362afd9c64e6468fba0d3f6407ead7d3ea6447deb297c6551dd9d0d4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.0/node-v6.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6aaf649e9798fdc40c03aa27f63715cfe4c33916f8081607067bdfc16a2a2d9a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.2.0/node-v6.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.1.0": [
+    {
+      "version": "6.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "07d6f0b11b98c876f2d029722696da6cc9b93a2ce6b34abb7a517e0afb04fb34",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.1.0/node-v6.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "41b34eef859fb0d39498bc900778f5e692fe4367b7d1588df3ae1f1f98bc4330",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.1.0/node-v6.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "6.0.0": [
+    {
+      "version": "6.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "51321999e9706d9c24ea3689a03d049ad96657933228d3ed25d7710bc5d9e9bc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.0.0/node-v6.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "6.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v6.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5b1cbe9a5af935619b7d4a36d09cc3b73ea2605a1bd3ab9121920caba6f95a5e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v6.0.0/node-v6.0.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.12.0": [
+    {
+      "version": "5.12.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.12.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1ee1ef4e9f8bfb2976f35ca10658f3828cae10ef462d3fee7c3f159a3e21365b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.12.0/node-v5.12.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.12.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.12.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6a83c52fa00c72cbc90a94dc392636fa4a5f1543311a4838c6ad87f703d67200",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.12.0/node-v5.12.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.11.1": [
+    {
+      "version": "5.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.11.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5c8269b21400327eaae94f52d220127a90eca40ab7574f9da07811c48d25570f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.11.1/node-v5.11.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.11.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "01bcebec40d2030ebfd87fec82249fe1e2919bedcbc4998ee0b1c0365a33e7b4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.11.1/node-v5.11.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.11.0": [
+    {
+      "version": "5.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.11.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f167a644eb6bf94f9a289d28d8140a6a497b02190571b02c7919458e12431ce0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.11.0/node-v5.11.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.11.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b462a02a0e80c4eb35736a0c2e15c882c443bcceec51fd937bc979aa86efbf6d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.11.0/node-v5.11.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.10.1": [
+    {
+      "version": "5.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.10.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a4c17570bd03424cd57affd10a4ef7d3b76167d3646656236bc78b86bc622a88",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.10.1/node-v5.10.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.10.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.10.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d2fd77706d6b122f978ac68eba540e3ad8efb93909b56a1fe944af81b74b552e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.10.1/node-v5.10.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.10.0": [
+    {
+      "version": "5.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.10.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e884f070542f49f577fd9785f09cf7734e6c2107d23b6c1b58453d43183c5ec0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.10.0/node-v5.10.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.10.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "fa3d63bfc2e6497b8ce5c5d7d6cde69e36669b246f2fe6ad0811ce76bf1d70d6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.10.0/node-v5.10.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.9.1": [
+    {
+      "version": "5.9.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.9.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "749eb56ae38ee0cb4ac659d6de50954a4e57bd2796fda6bc75725f7b98f21887",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.9.1/node-v5.9.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.9.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.9.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "67d9243af1a5660b2c21e83661dab0f77d2c130cc5d1ffd4eb62e0fae0f6b62b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.9.1/node-v5.9.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.9.0": [
+    {
+      "version": "5.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fca2df390ff964951cc2d18150d17dfe474e5b59864415976b8bad9452f725eb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.9.0/node-v5.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "43b0564c86812e629c6ede7316cf49e1b0a5e61d04f4e5dd2bc600c3265b4352",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.9.0/node-v5.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.8.0": [
+    {
+      "version": "5.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b302ce9d5d156857576d892cfe8108363b30c20bd3133011fb2050d56bb238e8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.8.0/node-v5.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6b324b7568d01ef273223d36d11e1323cbdb43f7fea89a945c132a4163f9fdf6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.8.0/node-v5.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.7.1": [
+    {
+      "version": "5.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.7.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "4382b7366f3448d42f09d63f7dfccf45bf67f8be94d2bfe7203bdc79d0ae64e8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.7.1/node-v5.7.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.7.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.7.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6a9063fd23bf4e14d966f18b3cf092192f2a05daf8e6253b92adc2be422959e1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.7.1/node-v5.7.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.7.0": [
+    {
+      "version": "5.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "09776060a502118765144284c7ad32bd6a737e681819e8349489b9a015a45bbc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.7.0/node-v5.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.7.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "8a3e03c24e3fc03a2996d725d9b6676c5e54ce4a5923fc43daf1821adc4957e8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.7.0/node-v5.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.6.0": [
+    {
+      "version": "5.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f6fc3391f48a3fc2d077dc0e1673fc3934eb2b9465cbeab334e3967d1503ba49",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.6.0/node-v5.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a22fe4ab92958e40fda35ec2bc3a0a10b2c56e1ccbc1a0dea8b642e39725fb71",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.6.0/node-v5.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.5.0": [
+    {
+      "version": "5.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e384f8beb392cd5df882cd3401e449371190bc139010d391888c2f3346fb5107",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.5.0/node-v5.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.5.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7e4bd588e165aede4df22ea743548c61cee79faed4fd034b4e08e6b429576dfb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.5.0/node-v5.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.4.1": [
+    {
+      "version": "5.4.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.4.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "184790d2ec8f95a75e7e746b3007e848aeba91be14ad7cec415b425df0df92e5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.4.1/node-v5.4.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.4.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.4.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a18707f7ac559563220e3319f251a2a5479b8445538f757df3a6c2dead007f1b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.4.1/node-v5.4.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.4.0": [
+    {
+      "version": "5.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8c3d8afb79d9ba5f381ed549521ca8183975dfad2d50290686657b8ce4304a4c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.4.0/node-v5.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5e06288b4a816d0d32686d40734745cf04259d54392e41bd1853d5a84bffa324",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.4.0/node-v5.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.3.0": [
+    {
+      "version": "5.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5e1b2e0aa5277e6dded7bc3cba452035a9695b696e974b02eadcba76070ca7eb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.3.0/node-v5.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6f46d13e0c6e94f1b31fece79eef880804de04b2316e04ba9fd6a4dcfd9ae666",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.3.0/node-v5.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.2.0": [
+    {
+      "version": "5.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "963e3b4e23245db09581901ead2901bc2d516ddc69b7043fcb0cc76263d50152",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.2.0/node-v5.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0ae2106989f24e300625afca946639b54b1f1c801b48275ab1ec46cbf863ad9f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.2.0/node-v5.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.1.1": [
+    {
+      "version": "5.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.1.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "30099a0f305899aacdfd974873807b6bd8b6971c0a26209220a6e4cd88c08d70",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.1.1/node-v5.1.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.1.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e00bf38d9e24b4631ea0ff089ffeea39f37512900ca9e50628e716ecb0083184",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.1.1/node-v5.1.1-linux-x86.tar.xz"
+    }
+  ],
+  "5.1.0": [
+    {
+      "version": "5.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f08c2cadb965a4f85700e1b3a8645faf3192e8fefe5c740b4c581c0d6110ced1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.1.0/node-v5.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "886f50560ea91d23bceabbcd2e738e4524b5599f966d9fac78bf25eea8162dc4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.1.0/node-v5.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "5.0.0": [
+    {
+      "version": "5.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6484c4cac1724f2818354e3f2a8ede66308617b648cd3db624596b8cd58b5f6b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.0.0/node-v5.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "5.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v5.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "46a56d8c00a791f46666dd9d2401b7c26ee7ac8455762fbb106c1497867c9c4b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v5.0.0/node-v5.0.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.9.1": [
+    {
+      "version": "4.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.9.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cc4b5e938734fc2718f25934a4e51e0cfcd1d052045f187d0a0f4b8632313270",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.9.1/node-v4.9.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.9.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.9.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0e659f81b611bc1f6d113060980ebec3b90d98acca99af675dd85bf7814c94c4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.9.1/node-v4.9.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.9.0": [
+    {
+      "version": "4.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.9.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2a2aa1df78b150c034db237873d47e5f539276d2fc676360cc73003dd7c27fb8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.9.0/node-v4.9.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.9.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.9.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "854058c44845273d858560238b579ab06ede35b0d3c938ffce87b9037d7a0ba6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.9.0/node-v4.9.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.7": [
+    {
+      "version": "4.8.7",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.7-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d68a0237077e37f65283458228d932e2e28cc03404fef10222f498cee839ca58",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.7/node-v4.8.7-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.7",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.7-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "e58f863ad8d36ac1927b96553f52d69058d702bb3ecdf238d304215918430f71",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.7/node-v4.8.7-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.6": [
+    {
+      "version": "4.8.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.6-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "208c747602f32313c3eeecab7e93491868c0e7041d309d9fb48f69ac52e7da7c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.6/node-v4.8.6-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.6-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b0c9a933abda460a4fb7145b8a649cd52ce4f20563598a9e0c94a9e9c6d4603b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.6/node-v4.8.6-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.5": [
+    {
+      "version": "4.8.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.5-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "472e257f7ca5868902ee0670e90e86a59655074cba848b87cd9787052c106552",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.5/node-v4.8.5-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.5-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f6392b06f1abbbbaebbc67b8815b719ea7a23e5d09d448b9d741e21084b4a95d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.5/node-v4.8.5-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.4": [
+    {
+      "version": "4.8.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "53f377f91aad1719539ba7fb591587b3ff8db25dd22d5f23647753cf60184044",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.4/node-v4.8.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "49ceb4e295837b182a61afd03b9aee353734aba646e98686d928bba2cfe502ce",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.4/node-v4.8.4-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.3": [
+    {
+      "version": "4.8.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0138e4199863a482611d0df517a318b17f1ca9df21bd8c1136030947fd8155b5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.3/node-v4.8.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f4db97d419791ccc03b3430f94027db25fe0893d55a9faa8565f4426db226438",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.3/node-v4.8.3-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.2": [
+    {
+      "version": "4.8.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "08d7b0db8ca5ad5579c7391efedc38d69ceac6de2bc3f6bb0d14fa0fe7ee5907",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.2/node-v4.8.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "69b20ac1d234f936bb9841262de177dd451cb5c8640005832242350dcd022486",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.2/node-v4.8.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.1": [
+    {
+      "version": "4.8.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "771e13b17e3d4f5406dae9ff20d91b30357fac1f7a2344460f03af1b220cfc18",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.1/node-v4.8.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "a4723cdd00a34ffbf54827ee66f6c668caf1840aa2b32f20509ed59366e2f29c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.1/node-v4.8.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.8.0": [
+    {
+      "version": "4.8.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "20b3018ee2e0a5bedc5aa357607ceb9bfaeb215dc48f878a0a92b78288637eb7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.0/node-v4.8.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.8.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.8.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "cd5e5e35398dc0fb347fbfefbf167b653d2b304bbd6d33b634bbe96b1c381f94",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.8.0/node-v4.8.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.7.3": [
+    {
+      "version": "4.7.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7cca3b061ff2791c46303655fdd57a85223bc2382a44a39b90edff43434e34c6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.3/node-v4.7.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.7.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "8e6a2351f4876fb141755379ea9c23dc825f931d130c68c749d705dbcb7be1ca",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.3/node-v4.7.3-linux-x86.tar.xz"
+    }
+  ],
+  "4.7.2": [
+    {
+      "version": "4.7.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "129ebaaca2e3c09513a8c77fbc99c3eca146366eaf8f56d34398e8794ca61daa",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.2/node-v4.7.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.7.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "745e01408b5a5ac2cf167fdcb9f7c700e9eb08a8eccafa1ab05cb265ec1d0427",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.2/node-v4.7.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.7.1": [
+    {
+      "version": "4.7.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "69292d3f44363a2e1671dd0342bc054f6b533b6fdfeba8a946efbbec945721b8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.1/node-v4.7.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.7.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "964bd168e95bf3abd9671dd45dd853d6e19e3769ec284fb35aac8e561908c8b8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.1/node-v4.7.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.7.0": [
+    {
+      "version": "4.7.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1544091040e4fda22e3d9519115f3719e9f3958467c35cb213211db98d145cab",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.0/node-v4.7.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.7.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.7.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d2650879dc8d85032d10f51cd81a15216af200f9263eb962d4652a8ed9e711a9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.7.0/node-v4.7.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.6.2": [
+    {
+      "version": "4.6.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6f992d823873eebb6cb99c96f5ac4f0dd8a205824bb4a54beb93eb60f7ca22eb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.2/node-v4.6.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.6.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1a6e5e2c671637182c66b5c26c576fe228055a9ddaf16f1492c56a155fa3a810",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.2/node-v4.6.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.6.1": [
+    {
+      "version": "4.6.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "16e0216d35ed1f81ac9a40081fa6f9b28e63dcbb38b316956dc1badd8b4bcfa7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.1/node-v4.6.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.6.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ddbfd6729538da959c4444181b1860dd6bfbee927c5f0c3b9007881006f19f58",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.1/node-v4.6.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.6.0": [
+    {
+      "version": "4.6.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9aab75618de0dca640d747aa25073cbb5a01342dd8aa177df8112e26a39541f4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.0/node-v4.6.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.6.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.6.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "8994ee2c180a97fc4280bfb390444a4bcb2629290aa8243e7ab6271efab593f4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.6.0/node-v4.6.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.5.0": [
+    {
+      "version": "4.5.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.5.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a11ef26fa700eff8ea7acfa491fd362dd362590da2967335d87932e7036a06fd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.5.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.5.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "0f5e51d913867eaf71332cd20fd9a98aeb3576b8a22a52e8e1cd97c89cf51feb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.5.0/node-v4.5.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.7": [
+    {
+      "version": "4.4.7",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.7-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "604c4f85ef00a13c172465c9672a2a0f13524921e255eeb75242afb42af6d814",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.7/node-v4.4.7-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.7",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.7-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d2750b7efc6c218e9d543acb1639e3b499f8d720a292f0514744bb69def8cd7d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.7/node-v4.4.7-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.6": [
+    {
+      "version": "4.4.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.6-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "86b7d4374b27ecb8d2f63b371147c0f7f7cf8b80f37ff740f42e2f074184329e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.6/node-v4.4.6-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.6-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "22d039fa55ecdb3644b49fd3ca5a9d9eb101ee07681f11afa63bbb60150bc791",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.6/node-v4.4.6-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.5": [
+    {
+      "version": "4.4.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.5-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "447b17542981c20f6792a20c31eb946c786e2cbd3bd1459f85c2cd0eb400e009",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.5/node-v4.4.5-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.5-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "354afb7fac8cb8dc3b926a4adb0901dd6ac42cb605f988f05f60f0bb8553a2c4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.5/node-v4.4.5-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.4": [
+    {
+      "version": "4.4.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "401fcef7908b3620bd28300bac06ad4fe774c95e10167c8617dde18befd78fcd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.4/node-v4.4.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7c0771b0153dd1c6609197b7b56840085df5d0752862fe4e98569d8d7bcb8682",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.4/node-v4.4.4-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.3": [
+    {
+      "version": "4.4.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ffdbb81573d77a2bf14415fc1c0d65b110cfc2ba5a20dcdf8b62015519acd079",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.3/node-v4.4.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "93bcf48a9e5c6fdcd030ccfa0bde626466daaf0d8924a98f235e89f517addb76",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.3/node-v4.4.3-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.2": [
+    {
+      "version": "4.4.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0c2bdf6fed204c6b9bddd7f839f49010cf9b484986f820e20d4f7abb01d8ee9d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.2/node-v4.4.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3787dc1a9dd6f65a32f9cc435c6c7d04bc3580ac03ce38246734bfdcdef94ea9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.2/node-v4.4.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.1": [
+    {
+      "version": "4.4.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "200a3f800110ee5342dd80498a3365dbb704f5e214d26447dcd9dfcf2a08b6d2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.1/node-v4.4.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1267b0602e7f7f0c1ab53c841dc71d56dd70c4883396c2e1dc6a1108ab47a622",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.1/node-v4.4.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.4.0": [
+    {
+      "version": "4.4.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "53eb070a459838fb5bff9edc8260b6d0007409d36b8f2917bc1e523e92d6d99f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.0/node-v4.4.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.4.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.4.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "200cb6ba462e860039407bd3205e8d3a8ffae5fa7060dc0ef906d7c86e01b85c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.4.0/node-v4.4.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.3.2": [
+    {
+      "version": "4.3.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3c668a2128db3982987c596c028f9ec1d08c6abf63502e24826d40e552f80a8c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.2/node-v4.3.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.3.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ea45ccb7cf334789727dc5a1d1dfb0fa325e88de0b4a06d211dad6cb57c36e33",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.2/node-v4.3.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.3.1": [
+    {
+      "version": "4.3.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b0ac5a9ec4c03b8e119498addd70c3d3ab030abe8d9ca1f120627e6ee2673acc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.1/node-v4.3.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.3.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ff7c223cc1119a9ba8c32cdc7ef7c1a00b666ecb1e82d35259706e320c8a99bc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.1/node-v4.3.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.3.0": [
+    {
+      "version": "4.3.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6972ed77c36f026498a0fde6b237fbc554325fa3a7426ee17ce563bdc08caa69",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.0/node-v4.3.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.3.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.3.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2054242f13a6bdb43ff33238dff20aeb5ef06e73a22b9e55b0a01d94c6f8dd9f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.3.0/node-v4.3.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.6": [
+    {
+      "version": "4.2.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.6-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a96ce235e67e994aa5adec8255e13d4fbccd9c5b09b5e9554347dac2b1c5c8a1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.6/node-v4.2.6-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.6-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3530eced1fa40393ff9e9c412879924e98dee6a5a57347e6d4f764b0d110944a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.6/node-v4.2.6-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.5": [
+    {
+      "version": "4.2.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.5-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "64e1564c0302503c98d70824b940c6679bfe38da74fa7bb387ee0f4665969031",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.5/node-v4.2.5-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.5",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.5-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "90a4aa5279963939d8d445702659d6222e0c797db376ada123f12651e3891d50",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.5/node-v4.2.5-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.4": [
+    {
+      "version": "4.2.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.4-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "39c0d90eb65f38f24a4cd2939212b655ea0e8685b92b7de6f407d0df5d6c261c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.4/node-v4.2.4-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.4",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.4-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f2d17bf370329293716ac5840b8839e2c161d23dd8343391489cefc82da79834",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.4/node-v4.2.4-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.3": [
+    {
+      "version": "4.2.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.3-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fd30b15327348520dc840bb95a1441d0495e7a843d5a7ec102f012aedc1b3a75",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.3/node-v4.2.3-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.3-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6706cb10ea2252ddd167bcedb77e9884eee3ce2a683a9e21ec417e9084a9187a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.3/node-v4.2.3-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.2": [
+    {
+      "version": "4.2.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7fe7d716cf52db39fa0590885e2f39a0bdee9ecbba230621f042c8154e8100fe",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.2/node-v4.2.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5b8e8a25faad1d4600c695df9887b6925eff8a9bb9151576f845fb3ab7e01fd2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.2/node-v4.2.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.1": [
+    {
+      "version": "4.2.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "97b5ccea7044073c87a21bcc4b0762f4a6bd77db9cc958206f684ecdfeb89b1f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.1/node-v4.2.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2a7a16e6066ddd724400634ba80266d6994036d0772545bcedc81c80d2e84e2b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.1/node-v4.2.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.2.0": [
+    {
+      "version": "4.2.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "bc5e0791c23d897ea6c83976dd14eec8ac33f74188806012992aca335c4e9214",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.0/node-v4.2.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.2.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.2.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "aff372b9e6f7ccfef16c55cda5c9666847322e24c8bc574e6081f8b20ef1fe0a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.2.0/node-v4.2.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.1.2": [
+    {
+      "version": "4.1.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.2-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "843599c40d3aabb1f60e33144647e6ead92bcfcefa7efca8396651ab92b5f3b9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.2/node-v4.1.2-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.1.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.2-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4429573a7d26b4103c92f06a4a1384a0ad9476baffdfb081434f95248e1cfe41",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.2/node-v4.1.2-linux-x86.tar.xz"
+    }
+  ],
+  "4.1.1": [
+    {
+      "version": "4.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.1-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3f9836b8a7e6e3d6591af6ef59e6055255439420518c3f77e0e65832a8486be1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.1/node-v4.1.1-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.1.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.1-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "dc2813fcf233d5fd8a375839757a0225748cf65f3d1027cab6188cd9e99897cf",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.1/node-v4.1.1-linux-x86.tar.xz"
+    }
+  ],
+  "4.1.0": [
+    {
+      "version": "4.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2ceaf5e66993da50e4514ddc5c270dc15ee712d00c29a2108655d9d259b3b9bb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.0/node-v4.1.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.1.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.1.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "ac21e4c3628acfcd7df14cb4127691a4c55b9c7dbd5b1cba73c592f848e61cac",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.1.0/node-v4.1.0-linux-x86.tar.xz"
+    }
+  ],
+  "4.0.0": [
+    {
+      "version": "4.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.0.0-linux-x86.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "444b0c2e38602699103e4adb76c9f15b76c405f58b1308751cdc194041a39b93",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.0.0/node-v4.0.0-linux-x86.tar.gz"
+    },
+    {
+      "version": "4.0.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x86",
+      "file_name": "node-v4.0.0-linux-x86.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6fe4ab43eae74c1cb376169f4f161bddef04ff8a693a772875de651fafa4252b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v4.0.0/node-v4.0.0-linux-x86.tar.xz"
+    }
+  ]
+}
