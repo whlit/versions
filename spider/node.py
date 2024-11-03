@@ -11,6 +11,8 @@ response = requests.get('https://nodejs.org/dist/index.json', headers=headers)
 datas = json.loads(response.text)
 
 versions_file_dir = 'versions/node/'
+if not os.path.exists(versions_file_dir):
+    os.makedirs(versions_file_dir)
 
 def get_sums(version):
     url = 'https://nodejs.org/dist/v' + version + '/SHASUMS256.txt'
