@@ -10,6 +10,8 @@ response = requests.get('https://nodejs.org/dist/index.json', headers=headers)
 
 datas = json.loads(response.text)
 
+versions_file_dir = 'versions/node/'
+
 def get_sums(version):
     url = 'https://nodejs.org/dist/v' + version + '/SHASUMS256.txt'
     print('request:  ' + url)
@@ -22,8 +24,8 @@ def get_sums(version):
     return res
 
 versions = {}
-if os.path.exists('node-all.version.json'):
-    versions = json.loads(open('node-all.version.json', 'r').read())
+if os.path.exists(versions_file_dir + 'node-all.version.json'):
+    versions = json.loads(open(versions_file_dir + 'node-all.version.json', 'r').read())
 sums = None
 updated = {}
 
@@ -109,12 +111,12 @@ for data in datas:
 
 for x in updated:
     if x == 'all':
-        with open('node-all.version.json', 'w') as f:
+        with open(versions_file_dir + 'node-all.version.json', 'w') as f:
             json.dump(versions, f, indent=2)
         continue
     versions2 = {}
     for version in versions:
         versions2[version] = [v for v in versions[version] if (v['os'] + '-' + v['arch']) == x]
-    with open('node-' + x + '.version.json', 'w') as f:
+    with open(versions_file_dir + 'node-' + x + '.version.json', 'w') as f:
         json.dump(versions2, f, indent=2)
 
