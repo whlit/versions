@@ -30,8 +30,4 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "whlit.cola@gmail.com"
-          git config --local user.name "whlit"
-          git add .
-          git commit -m "auto update by jdk-spider"
-          git push origin main
+          ./commit.sh jdk-spider
