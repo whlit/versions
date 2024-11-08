@@ -1,0 +1,171 @@
+{
+  "jdk8u432-b06": [
+    {
+      "version": "jdk8u432-b06",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u432b06.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7165154e4ca21e4e80ec221f88cf2084ffa53f8873ac4a17ba66ac78e7643e2c",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jdk_x64_solaris_hotspot_8u432b06.tar.gz",
+      "size": 111614187
+    }
+  ],
+  "jdk8u422-b05.1": [],
+  "jdk8u422-b05": [
+    {
+      "version": "jdk8u422-b05",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u422b05.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7f82d260a1593bd11d77c2b71483da5e26ac4a0da7bd40a53441d9714c8b0d16",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u422-b05/OpenJDK8U-jdk_x64_solaris_hotspot_8u422b05.tar.gz",
+      "size": 111494343
+    }
+  ],
+  "jdk8u412-b08": [
+    {
+      "version": "jdk8u412-b08",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u412b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "766422186b97583be376b6f84c83e3ddf1c8523b516917a23757c36ddac701e1",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u412b08.tar.gz",
+      "size": 111578171
+    }
+  ],
+  "jdk8u402-b06": [
+    {
+      "version": "jdk8u402-b06",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u402b06.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0f527242550732355dcddbee8873a772942b0897ee931c611c8aa72da5b56945",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u402-b06/OpenJDK8U-jdk_x64_solaris_hotspot_8u402b06.tar.gz",
+      "size": 112216295
+    }
+  ],
+  "jdk8u392-b08": [
+    {
+      "version": "jdk8u392-b08",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u392b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a4567ba3cec99b32458149f737739b9bbe57a8d187b8ec74c368c639f2f14226",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u392-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u392b08.tar.gz",
+      "size": 112243107
+    }
+  ],
+  "jdk8u382-b05": [
+    {
+      "version": "jdk8u382-b05",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u382b05.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b0410bc475e7d3ad5ed1923a35357887c1498d53b68d36f99a8f94c120a6a30b",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u382-b05/OpenJDK8U-jdk_x64_solaris_hotspot_8u382b05.tar.gz",
+      "size": 112220686
+    }
+  ],
+  "jdk8u372-b07": [
+    {
+      "version": "jdk8u372-b07",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u372b07.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f2f389b92e05e31355668b0afc7021313a6522365679ffbbac84bc0217f223a2",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u372-b07/OpenJDK8U-jdk_x64_solaris_hotspot_8u372b07.tar.gz",
+      "size": 112123640
+    }
+  ],
+  "jdk8u362-b09": [
+    {
+      "version": "jdk8u362-b09",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u362b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9304d1afae52d6cbc8bf6e5985bd58cf0ae7804202efb5079d37747ef492ab33",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jdk_x64_solaris_hotspot_8u362b09.tar.gz",
+      "size": 112146949
+    }
+  ],
+  "jdk8u352-b08": [
+    {
+      "version": "jdk8u352-b08",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u352b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d053c2d5b3c7d4fd0a20af96232c3e657682e3d9bce3e7aba9d06a7bfb540b38",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u352-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u352b08.tar.gz",
+      "size": 112128126
+    }
+  ],
+  "jdk-11.0.25+9": [],
+  "jdk-11.0.24+8": [],
+  "jdk-11.0.23+9": [],
+  "jdk-11.0.22+7.1": [],
+  "jdk-11.0.22+7": [],
+  "jdk-11.0.21+9": [],
+  "jdk-11.0.20.1+1": [],
+  "jdk-11.0.20+8": [],
+  "jdk-11.0.19+7": [],
+  "jdk-16.0.2+7": [],
+  "jdk-17.0.13+11": [],
+  "jdk-17.0.12+7": [],
+  "jdk-17.0.11+9": [],
+  "jdk-17.0.10+7": [],
+  "jdk-17.0.9+9.1": [],
+  "jdk-17.0.9+9": [],
+  "jdk-17.0.8.1+1": [],
+  "jdk-17.0.8+7": [],
+  "jdk-17.0.7+7": [],
+  "jdk-17.0.6+10": [],
+  "jdk-18.0.2.1+1": [],
+  "jdk-18.0.2+9": [],
+  "jdk-18.0.1+10": [],
+  "jdk-18+36": [],
+  "jdk-19.0.2+7": [],
+  "jdk-19.0.1+10": [],
+  "jdk-19+36": [],
+  "jdk-20.0.2+9": [],
+  "jdk-20.0.1+9": [],
+  "jdk-20+36": [],
+  "jdk-21.0.5+11": [],
+  "jdk-21.0.4+7": [],
+  "jdk-21.0.3+9": [],
+  "jdk-21.0.2+13": [],
+  "jdk-21.0.1+12": [],
+  "jdk-21+35": [],
+  "jdk-22.0.2+9": [],
+  "jdk-22.0.1+8": [],
+  "jdk-22.0.1.1+1": [],
+  "jdk-22+36": [],
+  "jdk-23.0.1+11": [],
+  "jdk-23+37": []
+}
