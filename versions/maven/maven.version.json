@@ -1,0 +1,444 @@
+{
+  "3.8.8": [
+    {
+      "version": "3.8.8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.8.8-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "332088670d14fa9ff346e6858ca0acca304666596fec86eea89253bd496d3c90deae2be5091be199f48e09d46cec817c6419d5161fb4ee37871503f472765d00",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.8.8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.8.8-bin.zip",
+      "file_type": "zip",
+      "sum": "aa7d431c07714c410e53502b630f91fc22d2664d5974a413471a2bd4fca9c31f98fbc397d613b7c3e31d3615a9f18487867975b1332462baf7d6ca58ef3628f9",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.4": [
+    {
+      "version": "3.9.4",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.4-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "deaa39e16b2cf20f8cd7d232a1306344f04020e1f0fb28d35492606f647a60fe729cc40d3cba33e093a17aed41bd161fe1240556d0f1b80e773abd408686217e",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.4",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.4-bin.zip",
+      "file_type": "zip",
+      "sum": "755e7b757ea011621d704b9d2bee8fc344b77c13117077caa71abea560f20926a2bc8c96f990ed298f2dfc14bdba376566ee11c66c547f2594579f9cb3c50e1c",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.5": [
+    {
+      "version": "3.9.5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.5-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "4810523ba025104106567d8a15a8aa19db35068c8c8be19e30b219a1d7e83bcab96124bf86dc424b1cd3c5edba25d69ec0b31751c136f88975d15406cab3842b",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.5-bin.zip",
+      "file_type": "zip",
+      "sum": "ca59380b839c6bea8f464a08bb7873a1cab91007b95876ba9ed8a9a2b03ceac893e661d218ba3d4af3ccf46d26600fc4c59fccabba9d7b2cc4adcd8aecc1df2a",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.6": [
+    {
+      "version": "3.9.6",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.6-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "706f01b20dec0305a822ab614d51f32b07ee11d0218175e55450242e49d2156386483b506b3a4e8a03ac8611bae96395fd5eec15f50d3013d5deed6d1ee18224",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.6",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.6-bin.zip",
+      "file_type": "zip",
+      "sum": "0eb0432004a91ebf399314ad33e5aaffec3d3b29279f2f143b2f43ade26f4db7bd1c0f08e436e9445ac6dc4a564a2945d13072a160ae54a930e90581284d6461",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.7": [
+    {
+      "version": "3.9.7",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.7-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f64913f89756264f2686e241f3f4486eca5d0dfdbb97077b0efc389cad376053824d58caa35c39648453ca58639f85335f9be9c8f217bfdb0c2d5ff2a9428fac",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.7/binaries/apache-maven-3.9.7-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.7",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.7-bin.zip",
+      "file_type": "zip",
+      "sum": "f194c80487a8838e1b1d8dd262ecf8c6e577fd1082c562ba063763f7c22ee50264221c837b941276d453b3b4f0265dd47fdb18344a2cb744d96e0353b480123f",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.7/binaries/apache-maven-3.9.7-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.8": [
+    {
+      "version": "3.9.8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.8-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7d171def9b85846bf757a2cec94b7529371068a0670df14682447224e57983528e97a6d1b850327e4ca02b139abaab7fcb93c4315119e6f0ffb3f0cbc0d0b9a2",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.8/binaries/apache-maven-3.9.8-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.8-bin.zip",
+      "file_type": "zip",
+      "sum": "e5a034a255b5f940d2baa0db1b64bed6ccbc1f568da6b79e37acd92817809c273158f52b2e0e2b942020efc203202f1338f2580590c8fd0ee4fca9bc08679577",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.8/binaries/apache-maven-3.9.8-bin.zip",
+      "size": 0
+    }
+  ],
+  "3.9.9": [
+    {
+      "version": "3.9.9",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.9-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a555254d6b53d267965a3404ecb14e53c3827c09c3b94b5678835887ab404556bfaf78dcfe03ba76fa2508649dca8531c74bca4d5846513522404d48e8c4ac8b",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.9",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.9-bin.zip",
+      "file_type": "zip",
+      "sum": "8beac8d11ef208f1e2a8df0682b9448a9a363d2ad13ca74af43705549e72e74c9378823bf689287801cbbfc2f6ea9596201d19ccacfdfb682ee8a2ff4c4418ba",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.9/binaries/apache-maven-3.9.9-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-10": [
+    {
+      "version": "4.0.0-alpha-10",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-10-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a5333eb5cbe9438973ecc7d2d6935b37b0c77d347e32a8a3f96cb15e67c8d0a988ef0cd5ad0d3181d3b3cb897e096ab91ddea0a7dd72fc847d365837316a2240",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-10/binaries/apache-maven-4.0.0-alpha-10-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-10",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-10-bin.zip",
+      "file_type": "zip",
+      "sum": "7fbbf3d06bc7b0dfa5b170d72b31ce7fa0d57547b09118f10f3777199fd322791e3901560590572d38d6b1af05a7adcc2403a425450222e68c791a97bc2da921",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-10/binaries/apache-maven-4.0.0-alpha-10-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-12": [
+    {
+      "version": "4.0.0-alpha-12",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-12-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "199c2a0a644a56c22d971cd98b7719bdeda05b34bb34013768100eace6c73017621a769698093cd185af2536f5e7f260be0d5dd7247086e0e163a75284f6b827",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-12/binaries/apache-maven-4.0.0-alpha-12-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-12",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-12-bin.zip",
+      "file_type": "zip",
+      "sum": "1fa87af26b82e0f840c247fa51aaa0a1f85dc8ba023cbda00805e5ced8c2be0cc78e37b839ab911dad45df78e0325078154cb5f0c595e07ad7d3babf984d9c5a",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-12/binaries/apache-maven-4.0.0-alpha-12-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-13": [
+    {
+      "version": "4.0.0-alpha-13",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-13-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "29c181ae18f72c2c8ff738e6aedaecf6faaa4cebd737b11b7e8f3a05d341468e93a5685fa26f3b8299bbe6ddda3b9652c9c4df135af6f146eebad5dd6b6c47ed",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-13/binaries/apache-maven-4.0.0-alpha-13-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-13",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-13-bin.zip",
+      "file_type": "zip",
+      "sum": "a8dca1efc49f79ffedfc7a283d121b488b44e9b5e3334381a378fe8fa8c1769b31dc34e8b763966f67e8be4a95853380892177de096f30970b1b525f5f2e6caa",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-13/binaries/apache-maven-4.0.0-alpha-13-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-5": [
+    {
+      "version": "4.0.0-alpha-5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-5-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b5ceab2d66ba1a428675f8db6ee96c723a3cc109cc14a2d708e57508090ba243868eca07f33c82ca3cf339eea0dbde8ef2e307b8b41ec7d5f5fc794d96849f0a",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-5/binaries/apache-maven-4.0.0-alpha-5-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-5-bin.zip",
+      "file_type": "zip",
+      "sum": "b49122dd2bc878cee1869f5052cc3dda91b970711d4b10cd19ba1e5842060009e425309c9ad6530cf465bcc36abb6a66543c7e08d47f35fe090d6433382c6aa5",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-5/binaries/apache-maven-4.0.0-alpha-5-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-7": [
+    {
+      "version": "4.0.0-alpha-7",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-7-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9959e537712167094a7909006168404c16b0788862311ef65840f57777b8d3afc519e63262b064db7361bc6ef77940bed14ead5e0a59d135bcdeea83be4d9893",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-7/binaries/apache-maven-4.0.0-alpha-7-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-7",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-7-bin.zip",
+      "file_type": "zip",
+      "sum": "ec47b84cbf5dd85a8081d218bf105d4664e298d906c28f11192bf563f30087a4d898f872fc73230391579f8aa84e70bddb0ae2eabc42b53a2c574d5793ceb1a2",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-7/binaries/apache-maven-4.0.0-alpha-7-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-8": [
+    {
+      "version": "4.0.0-alpha-8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-8-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7646b5bbaa0b81e600076055134ba88d5bd02d7a0ae03829b7e217aad9e47c25a3edbf4b091562d4bc9d93b5a50e84449a679f18052dc4f97d0314a8bc9dd961",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-8/binaries/apache-maven-4.0.0-alpha-8-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-8",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-8-bin.zip",
+      "file_type": "zip",
+      "sum": "6aa9486e2d880b691580e0071347022b6426f0a6b2c6549879b6a848a4494c70ff8dff25ffe8de2edd82583d7119bf359156ece0f9ef18f1c99ff3db776461f3",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-8/binaries/apache-maven-4.0.0-alpha-8-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-alpha-9": [
+    {
+      "version": "4.0.0-alpha-9",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-9-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b370e267d8fd8164bb5180c43f37d960fd0fbba1bdbc5a421ce5e489380e0847ee7b9a6c58384cc36a96698d84b4d635baab44e4c471710a79e4422f4ccbf208",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-9/binaries/apache-maven-4.0.0-alpha-9-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-alpha-9",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-alpha-9-bin.zip",
+      "file_type": "zip",
+      "sum": "b82c3cba11b3acb000358c3958d314c6c879a7689c9ea945daf1956c2199d8328eaae9ee4df94b95c1b9cce247d74c30172ca4209a2637da0b9b074bad1a3045",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-alpha-9/binaries/apache-maven-4.0.0-alpha-9-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-beta-3": [
+    {
+      "version": "4.0.0-beta-3",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-3-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9df71ce42689e1942c9f134b91f93e29be29b521d898c25015dd4edf45249ea4a20000623bbffba7bb585e223e563fa6292241dda7b9034b9822bdfcb29bb269",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-3/binaries/apache-maven-4.0.0-beta-3-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-beta-3",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-3-bin.zip",
+      "file_type": "zip",
+      "sum": "49d656042813ead127613da3c85e063c41ef5a25b54ec783d90b51fbc1ad7401f0c0d4c860536d6baea180ab533c84d52c8e38b0c6ab52cc699105ead0418ab4",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-3/binaries/apache-maven-4.0.0-beta-3-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-beta-4": [
+    {
+      "version": "4.0.0-beta-4",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-4-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "dc4610670c9c1cfaca0e6e8dae045087e5e97bb772d75c1c17f66d4839737dbc6a5c91b7e0178f3551f31269a2814897fc468cc241a6aaf7065625594c8e738f",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-4/binaries/apache-maven-4.0.0-beta-4-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-beta-4",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-4-bin.zip",
+      "file_type": "zip",
+      "sum": "109f5e4450b4cc3f9141a7693f48d3e8f6322199db45727745386717eea39cbbc0a78404d53b36bd951a1e3a5923a026a93e8bdb8851d9044f4151568957ec4b",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-4/binaries/apache-maven-4.0.0-beta-4-bin.zip",
+      "size": 0
+    }
+  ],
+  "4.0.0-beta-5": [
+    {
+      "version": "4.0.0-beta-5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-5-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e1b1a99203f478baa978d220be73ed4ae18c88bd615a6e2ef52e825b746b90c72e6f8a52d0f806f7a111f2663e2ed3ad887124ff7dcbad5a14d3d16894340d00",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-5/binaries/apache-maven-4.0.0-beta-5-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-beta-5",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-beta-5-bin.zip",
+      "file_type": "zip",
+      "sum": "11b176efe990df237990bde31ec558fbd7d713acefbebb81dfea9086c954cf9dc6fb080ff00c18bf7dd154d1130e98adc621212fbf58936d6111c555a1380a00",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-5/binaries/apache-maven-4.0.0-beta-5-bin.zip",
+      "size": 0
+    }
+  ]
+}
