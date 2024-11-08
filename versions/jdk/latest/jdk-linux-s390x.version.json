@@ -1,0 +1,116 @@
+{
+  "8": [],
+  "11": [
+    {
+      "version": "jdk-11.0.25+9",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.25_9.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5fb661da82943f42a14bed94beda6d4dd3188987bd13b77e8b6f907054a73e9d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.25%2B9/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.25_9.tar.gz",
+      "size": 168412246
+    }
+  ],
+  "16": [
+    {
+      "version": "jdk-16.0.2+7",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK16U-jdk_s390x_linux_hotspot_16.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fa3ab64ae26727196323105714ac50589ed2782a4c92a29730f7aa886c15807e",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_s390x_linux_hotspot_16.0.2_7.tar.gz",
+      "size": 178977714
+    }
+  ],
+  "17": [
+    {
+      "version": "jdk-17.0.13+11",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK17U-jdk_s390x_linux_hotspot_17.0.13_11.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1f824d7369dfd570dc561e2a56035fdcd2970c97cbd355f6deb6ed0e7c6bcb79",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_s390x_linux_hotspot_17.0.13_11.tar.gz",
+      "size": 180179247
+    }
+  ],
+  "18": [
+    {
+      "version": "jdk-18.0.2.1+1",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK18U-jdk_s390x_linux_hotspot_18.0.2.1_1.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "06d0f71e59b0d7112303a2eb95b1c3701054c868100837e642c6204ea71c0e2f",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_s390x_linux_hotspot_18.0.2.1_1.tar.gz",
+      "size": 180397118
+    }
+  ],
+  "19": [
+    {
+      "version": "jdk-19.0.2+7",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK19U-jdk_s390x_linux_hotspot_19.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f2512f9a8e9847dd5d3557c39b485a8e7a1ef37b601dcbcb748d22e49f44815c",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_s390x_linux_hotspot_19.0.2_7.tar.gz",
+      "size": 187583626
+    }
+  ],
+  "20": [],
+  "21": [
+    {
+      "version": "jdk-21.0.5+11",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.5_11.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "51a7ca42cc2e8cb5f3e7a326c28912ee84ff0791a1ca66650a8c53af07510a7c",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.5_11.tar.gz",
+      "size": 194385383
+    }
+  ],
+  "22": [
+    {
+      "version": "jdk-22.0.2+9",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK22U-jdk_s390x_linux_hotspot_22.0.2_9.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "46527cfc560552f05c0462520d69d438f144a3dc8206687952387c910cdd4c40",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_s390x_linux_hotspot_22.0.2_9.tar.gz",
+      "size": 193187045
+    }
+  ],
+  "23": [
+    {
+      "version": "jdk-23.0.1+11",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK23U-jdk_s390x_linux_hotspot_23.0.1_11.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "39419d72082faea6d2501223f1cbf6a9128bc23000adfb7b7ee7acfce422509c",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk_s390x_linux_hotspot_23.0.1_11.tar.gz",
+      "size": 201826363
+    }
+  ]
+}

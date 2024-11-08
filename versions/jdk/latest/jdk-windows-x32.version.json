@@ -1,0 +1,162 @@
+{
+  "8": [
+    {
+      "version": "jdk8u432-b06",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u432b06.msi",
+      "file_type": "msi",
+      "sum": "83efc58a52a3ada3fd22993e96a8fbf4b91c5cd39d34ffa88dacee27e11f6b3e",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jdk_x86-32_windows_hotspot_8u432b06.msi",
+      "size": 89743360
+    },
+    {
+      "version": "jdk8u432-b06",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u432b06.zip",
+      "file_type": "zip",
+      "sum": "12ba2778fd8b00ad0eaca426056977d326b0515de896ea9bdb930a49866265df",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jdk_x86-32_windows_hotspot_8u432b06.zip",
+      "size": 108055370
+    }
+  ],
+  "11": [
+    {
+      "version": "jdk-11.0.25+9",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.25_9.msi",
+      "file_type": "msi",
+      "sum": "45a9eb9ac07e2f765a43de099657c73e33ae044c9c06d8af3ddb436463711280",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.25%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.25_9.msi",
+      "size": 157196288
+    },
+    {
+      "version": "jdk-11.0.25+9",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.25_9.zip",
+      "file_type": "zip",
+      "sum": "88176a939c68c4952b915bbbf52a9cebc2464c7b8bcecd54bdeca3b5f128b8ee",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.25%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.25_9.zip",
+      "size": 178987159
+    }
+  ],
+  "16": [
+    {
+      "version": "jdk-16.0.2+7",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK16U-jdk_x86-32_windows_hotspot_16.0.2_7.msi",
+      "file_type": "msi",
+      "sum": "5f988fe7360e769918831c0842f8aa4b3f71103b32cdb67ded57750fcb42ecdc",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x86-32_windows_hotspot_16.0.2_7.msi",
+      "size": 163936768
+    },
+    {
+      "version": "jdk-16.0.2+7",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK16U-jdk_x86-32_windows_hotspot_16.0.2_7.zip",
+      "file_type": "zip",
+      "sum": "eb2d1bed9b69b43024bff26fc8966f9c8c23c5e499a52104c956fb84c62a28d4",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x86-32_windows_hotspot_16.0.2_7.zip",
+      "size": 183116369
+    }
+  ],
+  "17": [
+    {
+      "version": "jdk-17.0.13+11",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.13_11.msi",
+      "file_type": "msi",
+      "sum": "4a3cbdf14926f0ed18a7c318866b2dc4550eb0e32d87592baf58b1c6f14931a6",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.13_11.msi",
+      "size": 164925440
+    },
+    {
+      "version": "jdk-17.0.13+11",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.13_11.zip",
+      "file_type": "zip",
+      "sum": "04874767c1c82f0aee20fd558770fbf2e7aca7c3c19e1df0a8dd3d0ab4b668a2",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.13_11.zip",
+      "size": 186640615
+    }
+  ],
+  "18": [
+    {
+      "version": "jdk-18.0.2.1+1",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.msi",
+      "file_type": "msi",
+      "sum": "42c8472b2806210ac021212ec6c2115476a0a0444d5910b35d077e854f1aed13",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.msi",
+      "size": 166297600
+    },
+    {
+      "version": "jdk-18.0.2.1+1",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.zip",
+      "file_type": "zip",
+      "sum": "2b3dfe42fe94946d2eced5da9354ae093de06c28797924e9597da37969cc5861",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jdk_x86-32_windows_hotspot_18.0.2.1_1.zip",
+      "size": 186271355
+    }
+  ],
+  "19": [
+    {
+      "version": "jdk-19.0.2+7",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.msi",
+      "file_type": "msi",
+      "sum": "3663195c70afa2b05c8f0297bbf131b02f109159cf9e537afa8f5c7acc1294e7",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.msi",
+      "size": 170475520
+    },
+    {
+      "version": "jdk-19.0.2+7",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.zip",
+      "file_type": "zip",
+      "sum": "48a35009f4a3cf3ccb3006e0a72da57c1aaf3b98a635d0d8e55fc2237da3e08a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jdk_x86-32_windows_hotspot_19.0.2_7.zip",
+      "size": 192393349
+    }
+  ],
+  "20": [],
+  "21": [],
+  "22": [],
+  "23": []
+}
