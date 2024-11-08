@@ -3,7 +3,7 @@ import time
 import requests
 import json
 
-from spider.version import toVersion
+from version import toVersion
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0'
@@ -32,7 +32,7 @@ def push(version, lts, os, arch, checksum, size, url, file_name, major):
     v = str(major)
     if v in versions:
         for x in versions[v]:
-            if x['checksum'] == checksum:
+            if x['sum'] == checksum:
                 return
     else:
         versions[v] = []
