@@ -1,7 +1,6 @@
 import json
 import os
 import time
-from nbformat import versions
 import requests
 from lxml import etree
 
