@@ -10962,5 +10962,31 @@
   "4.1.2": [],
   "4.1.1": [],
   "4.1.0": [],
-  "4.0.0": []
+  "4.0.0": [],
+  "23.2.0": [
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v23.2.0-linux-s390x.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d9f602acfacdfad261062a1e5fac90aa29e82da0221cb809af24041e5d7e3b8c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-linux-s390x.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v23.2.0-linux-s390x.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7b7f79f934d4ac4e00e8b421159ee3c83be6c5f28b6ee9f0c753a85f8fa0df43",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-linux-s390x.tar.xz",
+      "size": 0
+    }
+  ]
 }

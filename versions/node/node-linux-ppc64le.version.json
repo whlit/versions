@@ -12020,5 +12020,31 @@
   "4.1.2": [],
   "4.1.1": [],
   "4.1.0": [],
-  "4.0.0": []
+  "4.0.0": [],
+  "23.2.0": [
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v23.2.0-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "eafde03bccadf18e848f327a1d4766f935e3c1df05c5bb88fd20a3574d68ea1c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v23.2.0-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2f875cec3661bb464ec4d1718bacce36d29b99ba86f7bad50617d88d596d5321",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-linux-ppc64le.tar.xz",
+      "size": 0
+    }
+  ]
 }

@@ -4108,5 +4108,31 @@
   "4.1.2": [],
   "4.1.1": [],
   "4.1.0": [],
-  "4.0.0": []
+  "4.0.0": [],
+  "23.2.0": [
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v23.2.0-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0a4c1379f81b02cb724b7f69b7e2fdf8a4765d98710ae8e05c4ee2da85a54f94",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v23.2.0-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "95b51f1f70cddf5b0b4c1386edf1c788837b216ab7770cad89ac51963946d698",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-darwin-arm64.tar.xz",
+      "size": 0
+    }
+  ]
 }

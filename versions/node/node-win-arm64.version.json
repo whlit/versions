@@ -1854,5 +1854,31 @@
   "4.1.2": [],
   "4.1.1": [],
   "4.1.0": [],
-  "4.0.0": []
+  "4.0.0": [],
+  "23.2.0": [
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v23.2.0-win-arm64.7z",
+      "file_type": "7z",
+      "sum": "d15c79d34460104f9666f6da8a0b9fd3a223670b17bad90fb40d0d61764f9b6d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-win-arm64.7z",
+      "size": 0
+    },
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v23.2.0-win-arm64.zip",
+      "file_type": "zip",
+      "sum": "e6977b48b5f39ea91c83bec0d21c60c476b214bd1e2276f1bf0d81b18d08b7bd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0-win-arm64.zip",
+      "size": 0
+    }
+  ]
 }

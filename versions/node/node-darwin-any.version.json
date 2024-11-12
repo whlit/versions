@@ -6784,5 +6784,19 @@
       "sum_type": "sha256",
       "url": "https://nodejs.org/dist/v4.0.0/node-v4.0.0.pkg"
     }
+  ],
+  "23.2.0": [
+    {
+      "version": "23.2.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v23.2.0.pkg",
+      "file_type": "pkg",
+      "sum": "433af0c46f4e417c7591de96b0b694e523da5b19ec8d3644416d880c9bf4411f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0.pkg",
+      "size": 0
+    }
   ]
 }
