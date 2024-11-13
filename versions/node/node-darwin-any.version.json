@@ -6798,5 +6798,19 @@
       "url": "https://nodejs.org/dist/v23.2.0/node-v23.2.0.pkg",
       "size": 0
     }
+  ],
+  "18.20.5": [
+    {
+      "version": "18.20.5",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v18.20.5.pkg",
+      "file_type": "pkg",
+      "sum": "5f1adee2851f91fc4d6c4363f3e095b0b1ec29334cb2f7397af538784d732461",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v18.20.5/node-v18.20.5.pkg",
+      "size": 0
+    }
   ]
 }
