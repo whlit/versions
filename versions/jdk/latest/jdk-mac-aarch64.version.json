@@ -159,28 +159,28 @@
   ],
   "22": [
     {
-      "version": "jdk-22.0.2+9",
+      "version": "jdk-22.0.1+8",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.2_9.pkg",
+      "file_name": "OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.1_8.pkg",
       "file_type": "pkg",
-      "sum": "c42b09179de5ffe8aab0121583ab140b62d0fb2f8c0e5fbce04d12bedccf22c5",
+      "sum": "c55c87836bc3fa1a813b68afeb9b83506a4f830ff603e9392758ec6d02749d7b",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.2_9.pkg",
-      "size": 190601774
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.1_8.pkg",
+      "size": 190570144
     },
     {
-      "version": "jdk-22.0.2+9",
+      "version": "jdk-22.0.1+8",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.2_9.tar.gz",
+      "file_name": "OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.1_8.tar.gz",
       "file_type": "tar.gz",
-      "sum": "6f7bd166c46094cf48018b018b161eae838a01dddce9d6fc5800eed353d37b84",
+      "sum": "80d6fa75e87280202ae7660139870fe50f07fca9dc6c4fbd3f2837cbd70ec902",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.2_9.tar.gz",
-      "size": 190244281
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_aarch64_mac_hotspot_22.0.1_8.tar.gz",
+      "size": 190213165
     }
   ],
   "23": [
