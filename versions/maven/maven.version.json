@@ -440,5 +440,31 @@
       "url": "https://downloads.apache.org/maven/maven-4/4.0.0-beta-5/binaries/apache-maven-4.0.0-beta-5-bin.zip",
       "size": 0
     }
+  ],
+  "4.0.0-rc-1": [
+    {
+      "version": "4.0.0-rc-1",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-rc-1-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5aa8b80e4e6f603148ac13ef0f1e0f1890f2fc2962ea293828499be1ce6315ad4758de940c209a60962e9b3e550fda8c3adc794d43ecdc0110c1b000d8e00a5e",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-rc-1",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-rc-1-bin.zip",
+      "file_type": "zip",
+      "sum": "b514b93d23e727eb3efaf49df7ebee50b4103047d6bf1acec10265382f7aeba99265ac8a0586e4c68ef9bb3440884dff24feb369322911d44cae157643d99f3f",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.zip",
+      "size": 0
+    }
   ]
 }
