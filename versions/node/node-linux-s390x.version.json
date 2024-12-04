@@ -11066,5 +11066,31 @@
       "url": "https://nodejs.org/dist/v20.18.1/node-v20.18.1-linux-s390x.tar.xz",
       "size": 0
     }
+  ],
+  "22.12.0": [
+    {
+      "version": "22.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v22.12.0-linux-s390x.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "63dd2e20cb50e2145c06f8f55b5682753691965b20fa08797a969a15b751ac8e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-linux-s390x.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.12.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v22.12.0-linux-s390x.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "9b517f8006eb4b451d40c461cbe64f93c6455566dbe2613387ab02412bc06d35",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-linux-s390x.tar.xz",
+      "size": 0
+    }
   ]
 }

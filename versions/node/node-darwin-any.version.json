@@ -6840,5 +6840,19 @@
       "url": "https://nodejs.org/dist/v20.18.1/node-v20.18.1.pkg",
       "size": 0
     }
+  ],
+  "22.12.0": [
+    {
+      "version": "22.12.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.12.0.pkg",
+      "file_type": "pkg",
+      "sum": "94068d6877faa376f0b00aa775b490d59ea9accc8dbc5616efaff400f670fee1",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0.pkg",
+      "size": 0
+    }
   ]
 }
