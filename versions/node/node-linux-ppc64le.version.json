@@ -12150,5 +12150,31 @@
       "url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0-linux-ppc64le.tar.xz",
       "size": 0
     }
+  ],
+  "23.4.0": [
+    {
+      "version": "23.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v23.4.0-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "26f7a2c1c89b960fd21aed5512a55dc5f3a1aa12964663496708107ac86d7c59",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.4.0/node-v23.4.0-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.4.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v23.4.0-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "64d6c11a6d97f1fc05ca775b043458f183f922f2148e2337ac9f65c14eac6ec4",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.4.0/node-v23.4.0-linux-ppc64le.tar.xz",
+      "size": 0
+    }
   ]
 }

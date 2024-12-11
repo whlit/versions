@@ -6854,5 +6854,19 @@
       "url": "https://nodejs.org/dist/v22.12.0/node-v22.12.0.pkg",
       "size": 0
     }
+  ],
+  "23.4.0": [
+    {
+      "version": "23.4.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v23.4.0.pkg",
+      "file_type": "pkg",
+      "sum": "357cb7d64c1c5106d3f9475e586834de8db7fbccb4b06da58b59a01963eb15c9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.4.0/node-v23.4.0.pkg",
+      "size": 0
+    }
   ]
 }
