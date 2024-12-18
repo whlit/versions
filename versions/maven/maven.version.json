@@ -466,5 +466,31 @@
       "url": "https://downloads.apache.org/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.zip",
       "size": 0
     }
+  ],
+  "4.0.0-rc-2": [
+    {
+      "version": "4.0.0-rc-2",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-rc-2-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3875f0387334d1a3941f344f654be30d9687c997faa599d7144f312d0a14d3d23fe35828223f93a57bf2682f8e6e2ad601a9c3dc28a8488acee13d1ad4e53dfe\n",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-rc-2/binaries/apache-maven-4.0.0-rc-2-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "4.0.0-rc-2",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-4.0.0-rc-2-bin.zip",
+      "file_type": "zip",
+      "sum": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n</body></html>\n",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-4/4.0.0-rc-2/binaries/apache-maven-4.0.0-rc-2-bin.zip",
+      "size": 0
+    }
   ]
 }
