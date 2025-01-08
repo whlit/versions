@@ -6882,5 +6882,33 @@
       "url": "https://nodejs.org/dist/v23.5.0/node-v23.5.0.pkg",
       "size": 0
     }
+  ],
+  "23.6.0": [
+    {
+      "version": "23.6.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v23.6.0.pkg",
+      "file_type": "pkg",
+      "sum": "cfe71d64ded340cae85cc734645a4aacab2355186ec3a45f43953f2af71ad859",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.6.0/node-v23.6.0.pkg",
+      "size": 0
+    }
+  ],
+  "22.13.0": [
+    {
+      "version": "22.13.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.13.0.pkg",
+      "file_type": "pkg",
+      "sum": "c56028a0df18075ba3302cf1cc75ce2dde39676b251ddc3e9524e61bf9de8a0b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.13.0/node-v22.13.0.pkg",
+      "size": 0
+    }
   ]
 }

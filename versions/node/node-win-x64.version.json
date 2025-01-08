@@ -23392,5 +23392,105 @@
       "url": "https://nodejs.org/dist/v23.5.0/node-v23.5.0-win-x64.zip",
       "size": 0
     }
+  ],
+  "23.6.0": [
+    {
+      "version": "23.6.0",
+      "lts": false,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v23.6.0-win-x64.7z",
+      "file_type": "7z",
+      "sum": "f68d5ac65b8b5607eb5cc613c7b70c5bae09cad827e5a9c35beacfbeace92911",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-x64.7z",
+      "size": 0
+    },
+    {
+      "version": "23.6.0",
+      "lts": false,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "win-x64/node.exe",
+      "file_type": "exe",
+      "sum": "6436502ba62375ca9bc30840428145bc9e34f21d80129d2684c9e42277b10067",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.6.0/win-x64/node.exe",
+      "size": 0
+    },
+    {
+      "version": "23.6.0",
+      "lts": false,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v23.6.0-x64.msi",
+      "file_type": "msi",
+      "sum": "d6113ec6743a5da957c9cd47189942c5e7d5a2304d1e12e3cdf255f1cfb84d43",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-x64.msi",
+      "size": 0
+    },
+    {
+      "version": "23.6.0",
+      "lts": false,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v23.6.0-win-x64.zip",
+      "file_type": "zip",
+      "sum": "9daeb5894273b820fb3bf2485aa433ff9653feb2c1a3daebd1a06b0e4fbe4309",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.6.0/node-v23.6.0-win-x64.zip",
+      "size": 0
+    }
+  ],
+  "22.13.0": [
+    {
+      "version": "22.13.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v22.13.0-win-x64.7z",
+      "file_type": "7z",
+      "sum": "a81087ab40a4336908b7cfd3473b9571549b045f38fcdb7181cca979ceadd018",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.13.0/node-v22.13.0-win-x64.7z",
+      "size": 0
+    },
+    {
+      "version": "22.13.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "win-x64/node.exe",
+      "file_type": "exe",
+      "sum": "364dbc8442f8d5c04fd4226bcfcf8e60d3268627eb1d7be214a91bb7d74cdbb9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.13.0/win-x64/node.exe",
+      "size": 0
+    },
+    {
+      "version": "22.13.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v22.13.0-x64.msi",
+      "file_type": "msi",
+      "sum": "5c5a0c9a1d2ca9fd342691312d859d26c78b83538720938c243a3269ce64b7af",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.13.0/node-v22.13.0-x64.msi",
+      "size": 0
+    },
+    {
+      "version": "22.13.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x64",
+      "file_name": "node-v22.13.0-win-x64.zip",
+      "file_type": "zip",
+      "sum": "b0feb09ebf41328628e7383f7a092fb7342ce1e05c867a90cf8f1379205a8429",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.13.0/node-v22.13.0-win-x64.zip",
+      "size": 0
+    }
   ]
 }
