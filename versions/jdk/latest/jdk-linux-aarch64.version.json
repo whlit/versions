@@ -113,16 +113,16 @@
   ],
   "22": [
     {
-      "version": "jdk-22.0.1+8",
+      "version": "jdk-22.0.2+9",
       "lts": false,
       "os": "linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK22U-jdk_aarch64_linux_hotspot_22.0.1_8.tar.gz",
+      "file_name": "OpenJDK22U-jdk_aarch64_linux_hotspot_22.0.2_9.tar.gz",
       "file_type": "tar.gz",
-      "sum": "d8488fa1e4e8c1e318cef4c0fc3842a7f15a4cf52b27054663bb94471f54b3fa",
+      "sum": "dac62747b5158c4bf4c4636432e3bdb9dea47f80f0c9d1d007f19bd5483b7d29",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_aarch64_linux_hotspot_22.0.1_8.tar.gz",
-      "size": 204033727
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_aarch64_linux_hotspot_22.0.2_9.tar.gz",
+      "size": 203779552
     }
   ],
   "23": [

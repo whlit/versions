@@ -209,28 +209,28 @@
   ],
   "22": [
     {
-      "version": "jdk-22.0.1+8",
+      "version": "jdk-22.0.2+9",
       "lts": false,
       "os": "windows",
       "arch": "x64",
-      "file_name": "OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.msi",
+      "file_name": "OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.msi",
       "file_type": "msi",
-      "sum": "89387f079e372b70a57c6a2f778a4020144cb19ae44f49b066c83d9410938e2f",
+      "sum": "d961cb2e612223e94b0506c61e1360d11b8961eab822ff12fa9b8921c4627a25",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.msi",
-      "size": 180178944
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.msi",
+      "size": 179064832
     },
     {
-      "version": "jdk-22.0.1+8",
+      "version": "jdk-22.0.2+9",
       "lts": false,
       "os": "windows",
       "arch": "x64",
-      "file_name": "OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.zip",
+      "file_name": "OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.zip",
       "file_type": "zip",
-      "sum": "4cf9d3c7ed8ec72a8adcca290d90fdd775100a38670410e674b05233a0c8288e",
+      "sum": "bf61e74c3dbd2da27d6415a804813c5ade87f9c838acca1edfa08ce9155bd82b",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.1%2B8/OpenJDK22U-jdk_x64_windows_hotspot_22.0.1_8.zip",
-      "size": 203356730
+      "url": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jdk_x64_windows_hotspot_22.0.2_9.zip",
+      "size": 202761552
     }
   ],
   "23": [
