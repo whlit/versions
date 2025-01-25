@@ -375,5 +375,23 @@
       "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk_ppc64_aix_hotspot_23_37.tar.gz",
       "size": 193184044
     }
-  ]
+  ],
+  "jdk-21.0.6+7": [
+    {
+      "version": "jdk-21.0.6+7",
+      "lts": true,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.6_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7e6c113ca5ad0e95ad36c0eba851669ea5c572d38c9adadaca9be26a83a2f4c7",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.6_7.tar.gz",
+      "size": 201283820
+    }
+  ],
+  "jdk8u442-b06": [],
+  "jdk-11.0.26+4": [],
+  "jdk-17.0.14+7": [],
+  "jdk-23.0.2+7": []
 }

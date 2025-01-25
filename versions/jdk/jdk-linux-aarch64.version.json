@@ -675,7 +675,20 @@
       "size": 212317019
     }
   ],
-  "jdk-21.0.6+7": [],
+  "jdk-21.0.6+7": [
+    {
+      "version": "jdk-21.0.6+7",
+      "lts": true,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.6_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "04fe1273f624187d927f1b466e8cdb630d70786db07bee7599bfa5153060afd3",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.6_7.tar.gz",
+      "size": 205040588
+    }
+  ],
   "jdk8u442-b06": [
     {
       "version": "jdk8u442-b06",
@@ -704,6 +717,32 @@
       "size": 192142736
     }
   ],
-  "jdk-17.0.14+7": [],
-  "jdk-23.0.2+7": []
+  "jdk-17.0.14+7": [
+    {
+      "version": "jdk-17.0.14+7",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.14_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "62efc3e83fc9bcd08db7c4f02977328cb3559a54519078d8337314cf025d19b7",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.14_7.tar.gz",
+      "size": 190683604
+    }
+  ],
+  "jdk-23.0.2+7": [
+    {
+      "version": "jdk-23.0.2+7",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK23U-jdk_aarch64_linux_hotspot_23.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "fb43ae1202402842559cb6223886ec1663b90ffbec48479abbcb92c92c9012eb",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_aarch64_linux_hotspot_23.0.2_7.tar.gz",
+      "size": 212427948
+    }
+  ]
 }

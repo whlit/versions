@@ -636,8 +636,34 @@
       "size": 213921752
     }
   ],
-  "jdk-21.0.6+7": [],
-  "jdk8u442-b06": [],
+  "jdk-21.0.6+7": [
+    {
+      "version": "jdk-21.0.6+7",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.6_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "163724b70b86d5a8461f85092165a9cc5a098ed900fee90d1b0c0be9607ae3d2",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.6_7.tar.gz",
+      "size": 206647402
+    }
+  ],
+  "jdk8u442-b06": [
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u442b06.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7eac77deb8fc6c6130f9445c9a68af0bcc40bf6736b5672ef5c3d737c025e84d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u442b06.tar.gz",
+      "size": 100593548
+    }
+  ],
   "jdk-11.0.26+4": [
     {
       "version": "jdk-11.0.26+4",
