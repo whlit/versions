@@ -127,16 +127,16 @@
   ],
   "23": [
     {
-      "version": "jdk-23.0.1+11",
+      "version": "jdk-23.0.2+7",
       "lts": false,
       "os": "linux",
       "arch": "ppc64le",
-      "file_name": "OpenJDK23U-jdk_ppc64le_linux_hotspot_23.0.1_11.tar.gz",
+      "file_name": "OpenJDK23U-jdk_ppc64le_linux_hotspot_23.0.2_7.tar.gz",
       "file_type": "tar.gz",
-      "sum": "1885ab141fe7b8ed6beb77b814b1c1c99fd54713399bf917edb6a4020545adde",
+      "sum": "548fd82af4eb0802fe20b0b61a4664a69c7f03cd963540908f30dbf73636dafe",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk_ppc64le_linux_hotspot_23.0.1_11.tar.gz",
-      "size": 213965373
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_ppc64le_linux_hotspot_23.0.2_7.tar.gz",
+      "size": 213999020
     }
   ]
 }
