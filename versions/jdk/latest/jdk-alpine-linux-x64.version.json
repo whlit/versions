@@ -15,16 +15,16 @@
   ],
   "11": [
     {
-      "version": "jdk-11.0.25+9",
+      "version": "jdk-11.0.26+4",
       "lts": false,
       "os": "alpine-linux",
       "arch": "x64",
-      "file_name": "OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.25_9.tar.gz",
+      "file_name": "OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.26_4.tar.gz",
       "file_type": "tar.gz",
-      "sum": "0a431310ccccc36c85b1274b5d31e368fdc8cf62cb7c2ed98d7b59eb5a13dc82",
+      "sum": "2e1f667395cdb1e872bd7320e3eda96c0f0978e29e574e75f9cdf61160e8974a",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.25%2B9/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.25_9.tar.gz",
-      "size": 194039813
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.26_4.tar.gz",
+      "size": 194045123
     }
   ],
   "16": [
