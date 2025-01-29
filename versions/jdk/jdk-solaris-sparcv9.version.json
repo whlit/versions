@@ -167,5 +167,23 @@
   "jdk-22.0.1.1+1": [],
   "jdk-22+36": [],
   "jdk-23.0.1+11": [],
-  "jdk-23+37": []
+  "jdk-23+37": [],
+  "jdk-21.0.6+7": [],
+  "jdk8u442-b06": [
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "solaris",
+      "arch": "sparcv9",
+      "file_name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u442b06.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "58d9cafab56b5a0d0ec844b91c2c574528af28dae012bd63b702fb1d2437be4d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u442b06.tar.gz",
+      "size": 115315103
+    }
+  ],
+  "jdk-11.0.26+4": [],
+  "jdk-17.0.14+7": [],
+  "jdk-23.0.2+7": []
 }
