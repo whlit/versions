@@ -8421,6 +8421,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u442b06.tar.gz",
       "size": 115315103
+    },
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-sbom_x64_solaris_hotspot_8u442b06.json",
+      "file_type": "json",
+      "sum": "90f4abe3c0a7474c3d305f54d35459b416e4526e08dd1f6f1b2b2f44c07687cc",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-sbom_x64_solaris_hotspot_8u442b06.json",
+      "size": 18250
     }
   ],
   "jdk-11.0.26+4": [
@@ -8555,6 +8567,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_x64_alpine-linux_hotspot_11.0.26_4.tar.gz",
       "size": 194045123
+    },
+    {
+      "version": "jdk-11.0.26+4",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.26_4.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0da13d990da34ecc666399cf0efa72a4b4e295f05c0686ea25a4a173a6f4414b",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.26_4.tar.gz",
+      "size": 168426359
     }
   ],
   "jdk-17.0.14+7": [
@@ -8737,6 +8761,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.14_7.tar.gz",
       "size": 185634486
+    },
+    {
+      "version": "jdk-17.0.14+7",
+      "lts": false,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.14_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3a82bcde391fba1a1983867955f8bb00ac2c80f6c59f9d4f2c107a7298d94d55",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.14_7.tar.gz",
+      "size": 183198103
     }
   ],
   "jdk-23.0.2+7": [
@@ -8859,6 +8895,42 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_riscv64_linux_hotspot_23.0.2_7.tar.gz",
       "size": 210406539
+    },
+    {
+      "version": "jdk-23.0.2+7",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK23U-jdk_x64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2c05c6dfea23a83fdbfaf5b03cc3cfd8d998c8069e930e0e585a39d4a99f3d99",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_x64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "size": 214700062
+    },
+    {
+      "version": "jdk-23.0.2+7",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK23U-jdk_aarch64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b55c5c881a2fed17ec5a59feaa33d9263703b399d1bfae3a5eaed3f140aa4570",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_aarch64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "size": 212459148
+    },
+    {
+      "version": "jdk-23.0.2+7",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK23U-jdk_s390x_linux_hotspot_23.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "591ccf4d27016315700cc9cc979f7cf343900b6bee1b0b45c93f2c5f946e5aac",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_s390x_linux_hotspot_23.0.2_7.tar.gz",
+      "size": 201862982
     }
   ]
 }

@@ -167,5 +167,23 @@
   "jdk-22.0.1.1+1": [],
   "jdk-22+36": [],
   "jdk-23.0.1+11": [],
-  "jdk-23+37": []
+  "jdk-23+37": [],
+  "jdk-21.0.6+7": [],
+  "jdk8u442-b06": [
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-sbom_x64_solaris_hotspot_8u442b06.json",
+      "file_type": "json",
+      "sum": "90f4abe3c0a7474c3d305f54d35459b416e4526e08dd1f6f1b2b2f44c07687cc",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-sbom_x64_solaris_hotspot_8u442b06.json",
+      "size": 18250
+    }
+  ],
+  "jdk-11.0.26+4": [],
+  "jdk-17.0.14+7": [],
+  "jdk-23.0.2+7": []
 }

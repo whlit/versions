@@ -211,5 +211,18 @@
   "jdk8u442-b06": [],
   "jdk-11.0.26+4": [],
   "jdk-17.0.14+7": [],
-  "jdk-23.0.2+7": []
+  "jdk-23.0.2+7": [
+    {
+      "version": "jdk-23.0.2+7",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK23U-jdk_aarch64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b55c5c881a2fed17ec5a59feaa33d9263703b399d1bfae3a5eaed3f140aa4570",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_aarch64_alpine-linux_hotspot_23.0.2_7.tar.gz",
+      "size": 212459148
+    }
+  ]
 }
