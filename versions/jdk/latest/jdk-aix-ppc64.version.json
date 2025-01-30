@@ -30,16 +30,16 @@
   "16": [],
   "17": [
     {
-      "version": "jdk-17.0.13+11",
+      "version": "jdk-17.0.14+7",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.13_11.tar.gz",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.14_7.tar.gz",
       "file_type": "tar.gz",
-      "sum": "46e9bbda7f9d5b8738fcfac61b89f594fe3f0354574eee19c735e51df846e81f",
+      "sum": "3a82bcde391fba1a1983867955f8bb00ac2c80f6c59f9d4f2c107a7298d94d55",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.13%2B11/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.13_11.tar.gz",
-      "size": 183181369
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.14_7.tar.gz",
+      "size": 183198103
     }
   ],
   "18": [],
