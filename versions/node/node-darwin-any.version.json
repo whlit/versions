@@ -6966,5 +6966,19 @@
       "url": "https://nodejs.org/dist/v18.20.6/node-v18.20.6.pkg",
       "size": 0
     }
+  ],
+  "23.7.0": [
+    {
+      "version": "23.7.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v23.7.0.pkg",
+      "file_type": "pkg",
+      "sum": "28e948860cbe6c28f2389b4056e726d859485847253c9f7758cce9f565a5ba41",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.7.0/node-v23.7.0.pkg",
+      "size": 0
+    }
   ]
 }
