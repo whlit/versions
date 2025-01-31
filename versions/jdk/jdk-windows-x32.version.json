@@ -927,8 +927,58 @@
   "jdk-23.0.1+11": [],
   "jdk-23+37": [],
   "jdk-21.0.6+7": [],
-  "jdk8u442-b06": [],
-  "jdk-11.0.26+4": [],
+  "jdk8u442-b06": [
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u442b06.msi",
+      "file_type": "msi",
+      "sum": "df2f02fb0182776ac0798029683785f9e863db3d15c16a4603d7d0e5636d59cd",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_x86-32_windows_hotspot_8u442b06.msi",
+      "size": 89370624
+    },
+    {
+      "version": "jdk8u442-b06",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u442b06.zip",
+      "file_type": "zip",
+      "sum": "6050fb448819029cb3ce72204c61f6897369b0a19c69787c146b8f4b28359ed5",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_x86-32_windows_hotspot_8u442b06.zip",
+      "size": 107341276
+    }
+  ],
+  "jdk-11.0.26+4": [
+    {
+      "version": "jdk-11.0.26+4",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.26_4.msi",
+      "file_type": "msi",
+      "sum": "6f6b397f51dd90055857fe63337bc89b544235a2fa25edad548358b8b514b43d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.26_4.msi",
+      "size": 156618752
+    },
+    {
+      "version": "jdk-11.0.26+4",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.26_4.zip",
+      "file_type": "zip",
+      "sum": "a0dff6153242717018fb7e9483d097c32d8b4b4ff0ee5e3183ff73d743c55c9a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.26_4.zip",
+      "size": 178182327
+    }
+  ],
   "jdk-17.0.14+7": [
     {
       "version": "jdk-17.0.14+7",
