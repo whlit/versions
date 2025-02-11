@@ -12890,5 +12890,31 @@
       "url": "https://nodejs.org/dist/v23.7.0/node-v23.7.0-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "20.18.3": [
+    {
+      "version": "20.18.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v20.18.3-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9fc3952da39b20d1fcfdb777b198cc035485afbbb1004b4df93f35245d61151e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.18.3/node-v20.18.3-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "20.18.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v20.18.3-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "595bcc9a28e6d1ee5fc7277b5c3cb029275b98ec0524e162a0c566c992a7ee5c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.18.3/node-v20.18.3-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
