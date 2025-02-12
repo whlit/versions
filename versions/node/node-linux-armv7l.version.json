@@ -12893,5 +12893,31 @@
       "url": "https://nodejs.org/dist/v20.18.3/node-v20.18.3-linux-armv7l.tar.xz",
       "size": 0
     }
+  ],
+  "22.14.0": [
+    {
+      "version": "22.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.14.0-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1cadf5aee7d71b6f0921235faec05e42d908ba5e8a76959f0697968fe0741204",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.14.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.14.0-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "32804b6d7fca03e668765e91ea892dd329ff928d02e6c61d4b3b3c4afac178c6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-linux-armv7l.tar.xz",
+      "size": 0
+    }
   ]
 }
