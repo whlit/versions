@@ -7008,5 +7008,19 @@
       "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0.pkg",
       "size": 0
     }
+  ],
+  "23.8.0": [
+    {
+      "version": "23.8.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v23.8.0.pkg",
+      "file_type": "pkg",
+      "sum": "172e4c4e57983a94f6398fc29cafbb8aa1003526bf937742cd89df7e9b42b7c5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.8.0/node-v23.8.0.pkg",
+      "size": 0
+    }
   ]
 }

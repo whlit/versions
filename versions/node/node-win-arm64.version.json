@@ -2220,5 +2220,31 @@
       "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-arm64.zip",
       "size": 0
     }
+  ],
+  "23.8.0": [
+    {
+      "version": "23.8.0",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v23.8.0-win-arm64.7z",
+      "file_type": "7z",
+      "sum": "df941b65ae8a3b2975741487707f3c656519136000fb481753eb2ed053480324",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-win-arm64.7z",
+      "size": 0
+    },
+    {
+      "version": "23.8.0",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v23.8.0-win-arm64.zip",
+      "file_type": "zip",
+      "sum": "13b44af66a6bf2938a6a6a8d96ea17e164852ece1b293d552bb45deb1acb1ba9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-win-arm64.zip",
+      "size": 0
+    }
   ]
 }

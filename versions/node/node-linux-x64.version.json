@@ -12942,5 +12942,31 @@
       "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "23.8.0": [
+    {
+      "version": "23.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v23.8.0-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f6d98bbdd0a4078c1e422a6a1d8bf07ad693a4dd793bb5772990456faeca6e95",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v23.8.0-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "78d24ff80a52f7dd3a94542d7598163624fcda7be1d4777bc9161d8c8d15267f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.8.0/node-v23.8.0-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
