@@ -13020,5 +13020,57 @@
       "url": "https://nodejs.org/dist/v23.9.0/node-v23.9.0-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "23.10.0": [
+    {
+      "version": "23.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v23.10.0-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "26f85defcb75e3f8f00c6ad429f9a5b2fb1766e955045fe97e31b11c44315f2d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.10.0/node-v23.10.0-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.10.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v23.10.0-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "c0ab11362d0d671469b3a0bfcc6fb484fee5747ca96f93a3917d9ba34f12f535",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.10.0/node-v23.10.0-linux-x64.tar.xz",
+      "size": 0
+    }
+  ],
+  "20.19.0": [
+    {
+      "version": "20.19.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v20.19.0-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8a4dbcdd8bccef3132d21e8543940557e55dcf44f00f0a99ba8a062f4552e722",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.0/node-v20.19.0-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "20.19.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v20.19.0-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "b4e336584d62abefad31baecff7af167268be9bb7dd11f1297112e6eed3ca0d5",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.0/node-v20.19.0-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
