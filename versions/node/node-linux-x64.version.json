@@ -13072,5 +13072,31 @@
       "url": "https://nodejs.org/dist/v20.19.0/node-v20.19.0-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "18.20.8": [
+    {
+      "version": "18.20.8",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v18.20.8-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "27a9f3f14d5e99ad05a07ed3524ba3ee92f8ff8b6db5ff80b00f9feb5ec8097a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "18.20.8",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v18.20.8-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5467ee62d6af1411d46b6a10e3fb5cacc92734dbcef465fea14e7b90993001c9",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
