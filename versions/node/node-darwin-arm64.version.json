@@ -4680,5 +4680,31 @@
       "url": "https://nodejs.org/dist/v18.20.8/node-v18.20.8-darwin-arm64.tar.xz",
       "size": 0
     }
+  ],
+  "23.11.0": [
+    {
+      "version": "23.11.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v23.11.0-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "635990b46610238e3c008cd01480c296e0c2bfe7ec59ea9a8cd789d5ac621bb0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.11.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v23.11.0-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "d020d7703959f65e289fc8fc51e216e87793dd297cd40f410f6e2fc18d321c11",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-darwin-arm64.tar.xz",
+      "size": 0
+    }
   ]
 }

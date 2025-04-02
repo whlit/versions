@@ -13098,5 +13098,31 @@
       "url": "https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-arm64.tar.xz",
       "size": 0
     }
+  ],
+  "23.11.0": [
+    {
+      "version": "23.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v23.11.0-linux-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "12b29a87a7ccd7e1b97392d1e1533470d596578dad900430cff403e404fe72a7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-linux-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.11.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v23.11.0-linux-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "85915f885fe7eab2be4a6e3de840cb83db4fc53749274d31383a0e1721a883c6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-linux-arm64.tar.xz",
+      "size": 0
+    }
   ]
 }
