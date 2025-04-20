@@ -43,16 +43,16 @@
   ],
   "17": [
     {
-      "version": "jdk-17.0.14+7",
+      "version": "jdk-17.0.15+6",
       "lts": false,
       "os": "linux",
       "arch": "arm",
-      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.14_7.tar.gz",
+      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
       "file_type": "tar.gz",
-      "sum": "f43986385403c0f08bd3512c9d11a51c49044a7c8a0a39cf4e2e3731ca0db229",
+      "sum": "8a3c859355f898c119d154e4caf867263e0e4c8065a91d63ae10666c19bc1108",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk_arm_linux_hotspot_17.0.14_7.tar.gz",
-      "size": 188878882
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
+      "size": 188980452
     }
   ],
   "18": [
