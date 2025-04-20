@@ -9052,5 +9052,313 @@
       "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_ppc64_aix_hotspot_23.0.2_7.tar.gz",
       "size": 193253542
     }
+  ],
+  "jdk8u452-b09": [
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d8a1aecea0913b7a1e0d737ba6f7ea99059b3f6fd17813d4a24e8b3fc3aee278",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_aarch64_linux_hotspot_8u452b09.tar.gz",
+      "size": 102203321
+    },
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_mac_hotspot_8u452b09.pkg",
+      "file_type": "pkg",
+      "sum": "ab1128cd6ee128779ba8c49e62a1bd652781af83838b3d2b2dcd6d6305832c0e",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x64_mac_hotspot_8u452b09.pkg",
+      "size": 109759890
+    },
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_mac_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2df9adf6f68ea9768a7c38ab6cccc85a018739f47f65fb102b1da5f74f6794f9",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x64_mac_hotspot_8u452b09.tar.gz",
+      "size": 109566787
+    },
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_linux_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9448308a21841960a591b47927cf2d44fdc4c0533a5f8111a4b243a6bafb5d27",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x64_linux_hotspot_8u452b09.tar.gz",
+      "size": 103082903
+    }
+  ],
+  "jdk-11.0.27+6": [
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_linux_hotspot_11.0.27_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "dc6136eaa8c1898cbf8973bb1e203e1f653f4c9166be0f5bebe0b02c5f3b5ae3",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_x64_linux_hotspot_11.0.27_6.tar.gz",
+      "size": 195348986
+    },
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.27_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "4decd2e5caf4667144091cf723458b14148dc990730b3ecb34bba5eb1aa4ad5d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.27_6.tar.gz",
+      "size": 192149738
+    },
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.27_6.msi",
+      "file_type": "msi",
+      "sum": "b34003048c6c3341ff0911663dc5d80822ffdb895b2fe4b6640ae39afa89b4ad",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_x64_windows_hotspot_11.0.27_6.msi",
+      "size": 175083520
+    },
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.27_6.zip",
+      "file_type": "zip",
+      "sum": "8503478995c81926db7154e3fbf3fce3ea214b1062c0a3391db52b0798640f5c",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_x64_windows_hotspot_11.0.27_6.zip",
+      "size": 199236422
+    }
+  ],
+  "jdk-17.0.15+6": [
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "aarch64",
+      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.15_6.pkg",
+      "file_type": "pkg",
+      "sum": "95f743c1bd7baf7f7d306ed76169f748a4bafe910e305c6097a093e2bcad126e",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.15_6.pkg",
+      "size": 185815758
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "aarch64",
+      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1a2fa2bb9ea059cf2c1ab3e296a98e006fb6fdad2bd19ce52df48794eaa1836a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.15_6.tar.gz",
+      "size": 185382473
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0db0d6cbe33238f33aa52837b1dc8fc6067b34d206b3e0f9243c7f8c9b9539a5",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_aarch64_linux_hotspot_17.0.15_6.tar.gz",
+      "size": 190761534
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_linux_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9616877c733c9249328ea9bd83a5c8c30e0f9a7af180cac8ffda9034161c2df2",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_linux_hotspot_17.0.15_6.tar.gz",
+      "size": 192015151
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.msi",
+      "file_type": "msi",
+      "sum": "f3cbf808924aa62280475821c1ec9c0b671f6f2c542408a6a21f6b84957daabd",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.msi",
+      "size": 168296448
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.zip",
+      "file_type": "zip",
+      "sum": "118cf8d586ee3200e2d2e6e49717db4fb1a22005700fbf85f06166046ec74863",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_6.zip",
+      "size": 190481132
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm",
+      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8a3c859355f898c119d154e4caf867263e0e4c8065a91d63ae10666c19bc1108",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
+      "size": 188980452
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_mac_hotspot_17.0.15_6.pkg",
+      "file_type": "pkg",
+      "sum": "28a0712a65a2862ba2a2e51fd8f479f12c0921acfbfc6dba08f6ed6c69a2902a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_mac_hotspot_17.0.15_6.pkg",
+      "size": 180440186
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_mac_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "424d7f758a272718887bd93f4d8b63e560c0797a884e036c4b3dbf5d2cdfa1cd",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x64_mac_hotspot_17.0.15_6.tar.gz",
+      "size": 180100463
+    }
+  ],
+  "jdk-21.0.7+6": [
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "mac",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg",
+      "file_type": "pkg",
+      "sum": "a0adf1cf67999d4c7d9154c8b1ae4c0400b4c1bf8bea0768b6256a3dc694dac6",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg",
+      "size": 200206388
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "mac",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "6fcb25f3f71a5ff245dec4ebe8bd5c643f179a5cd0a61c08e58a8c65914d2f97",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+      "size": 199692905
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg",
+      "file_type": "pkg",
+      "sum": "b241a9f766a3033a544210cbfab68660bdea2f2883995262450fc0ff499db13b",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg",
+      "size": 194312188
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "8e6d876f60bc8b7866e91222ba9f27a78e5102d7a4ce4a6e915f95fe539b66ed",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz",
+      "size": 193920354
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "974d3acef0b7193f541acb61b76e81670890551366625d4f6ca01b91ac152ce0",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz",
+      "size": 206919519
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "31dba70ba928c78c20d62049ac000f79f7a7ab11f9d9c11e703f52d60aa64f93",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+      "size": 205115692
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "216edbccab2d677639c90d2cb09dfa39c257788a62b8b83d879528c447b9ad33",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+      "size": 194464350
+    },
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "79ecc4b213d21ae5c389bea13c6ed23ca4804a45b7b076983356c28105580013",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+      "size": 207113831
+    }
   ]
 }

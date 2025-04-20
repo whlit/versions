@@ -536,5 +536,22 @@
       "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_s390x_linux_hotspot_23.0.2_7.tar.gz",
       "size": 201862982
     }
+  ],
+  "jdk8u452-b09": [],
+  "jdk-11.0.27+6": [],
+  "jdk-17.0.15+6": [],
+  "jdk-21.0.7+6": [
+    {
+      "version": "jdk-21.0.7+6",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "216edbccab2d677639c90d2cb09dfa39c257788a62b8b83d879528c447b9ad33",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+      "size": 194464350
+    }
   ]
 }
