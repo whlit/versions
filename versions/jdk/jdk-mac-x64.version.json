@@ -1432,7 +1432,32 @@
       "size": 109566787
     }
   ],
-  "jdk-11.0.27+6": [],
+  "jdk-11.0.27+6": [
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_mac_hotspot_11.0.27_6.pkg",
+      "file_type": "pkg",
+      "sum": "507458dc4bf0840a78b164ae5f664a4a6e68871b46847e5ef31f86559e172011",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_x64_mac_hotspot_11.0.27_6.pkg",
+      "size": 188174161
+    },
+    {
+      "version": "jdk-11.0.27+6",
+      "lts": false,
+      "os": "mac",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_mac_hotspot_11.0.27_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "805d225d46eab5702bf2f654856d846f426bebf6f143e5f06c8b1397855252e5",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jdk_x64_mac_hotspot_11.0.27_6.tar.gz",
+      "size": 187806165
+    }
+  ],
   "jdk-17.0.15+6": [
     {
       "version": "jdk-17.0.15+6",
