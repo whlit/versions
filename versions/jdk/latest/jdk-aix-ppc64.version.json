@@ -1,16 +1,16 @@
 {
   "8": [
     {
-      "version": "jdk8u442-b06",
+      "version": "jdk8u452-b09",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u442b06.tar.gz",
+      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u452b09.tar.gz",
       "file_type": "tar.gz",
-      "sum": "4f221dc4e4ab7fbabb8719d499a6857b7155141864f9b03c730bc422a1e83b4f",
+      "sum": "688358d3198979516ec9ad3a818e161a61d74f4519978defd046bffac857f902",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_ppc64_aix_hotspot_8u442b06.tar.gz",
-      "size": 105199754
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_ppc64_aix_hotspot_8u452b09.tar.gz",
+      "size": 105213671
     }
   ],
   "11": [
