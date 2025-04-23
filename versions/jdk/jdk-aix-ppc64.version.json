@@ -445,5 +445,22 @@
       "url": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk_ppc64_aix_hotspot_23.0.2_7.tar.gz",
       "size": 193253542
     }
-  ]
+  ],
+  "jdk8u452-b09": [
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "688358d3198979516ec9ad3a818e161a61d74f4519978defd046bffac857f902",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_ppc64_aix_hotspot_8u452b09.tar.gz",
+      "size": 105213671
+    }
+  ],
+  "jdk-11.0.27+6": [],
+  "jdk-17.0.15+6": [],
+  "jdk-21.0.7+6": []
 }
