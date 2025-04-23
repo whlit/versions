@@ -4706,5 +4706,31 @@
       "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0-darwin-arm64.tar.xz",
       "size": 0
     }
+  ],
+  "20.19.1": [
+    {
+      "version": "20.19.1",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v20.19.1-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d3746fee0e00e3a7fedf50633f8e04adb6873b1fe9b5b50c37dff16f64a4f2c7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.1/node-v20.19.1-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "20.19.1",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v20.19.1-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "15f6afc9465cbd63dd2ff2d7b40cc1c8ffed1ec105c79e34e2fd0e4145f8f335",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.1/node-v20.19.1-darwin-arm64.tar.xz",
+      "size": 0
+    }
   ]
 }

@@ -7106,5 +7106,19 @@
       "url": "https://nodejs.org/dist/v23.11.0/node-v23.11.0.pkg",
       "size": 0
     }
+  ],
+  "20.19.1": [
+    {
+      "version": "20.19.1",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v20.19.1.pkg",
+      "file_type": "pkg",
+      "sum": "dc156f0207b93c68c3d880d74f70ea4466aeff4c59c63792d2dfb57edde4a310",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.1/node-v20.19.1.pkg",
+      "size": 0
+    }
   ]
 }
