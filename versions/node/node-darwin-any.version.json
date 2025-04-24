@@ -7120,5 +7120,19 @@
       "url": "https://nodejs.org/dist/v20.19.1/node-v20.19.1.pkg",
       "size": 0
     }
+  ],
+  "22.15.0": [
+    {
+      "version": "22.15.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.15.0.pkg",
+      "file_type": "pkg",
+      "sum": "0bc096a279cd7cbc57bf3a6c6570f3ca03b3ab684d1878a1425919e9b6b76317",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.15.0/node-v22.15.0.pkg",
+      "size": 0
+    }
   ]
 }
