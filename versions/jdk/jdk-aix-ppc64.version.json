@@ -474,7 +474,20 @@
       "size": 182645872
     }
   ],
-  "jdk-17.0.15+6": [],
+  "jdk-17.0.15+6": [
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5b6135d5287b5df20ec133a68ccbbc8022fcbe7daef6a715300c13ae77ec8305",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.15_6.tar.gz",
+      "size": 183289399
+    }
+  ],
   "jdk-21.0.7+6": [
     {
       "version": "jdk-21.0.7+6",

@@ -9173,6 +9173,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b09.zip",
       "size": 107346930
+    },
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "be8abae7586c328ceb3252aefed9e51c29be91616968c0130b41e7e57c846f0f",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u452b09.tar.gz",
+      "size": 100986827
     }
   ],
   "jdk-11.0.27+6": [
@@ -9537,6 +9549,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.zip",
       "size": 185938214
+    },
+    {
+      "version": "jdk-17.0.15+6",
+      "lts": false,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.15_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5b6135d5287b5df20ec133a68ccbbc8022fcbe7daef6a715300c13ae77ec8305",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.15_6.tar.gz",
+      "size": 183289399
     }
   ],
   "jdk-21.0.7+6": [
