@@ -25,18 +25,6 @@
       "size": 115315103
     },
     {
-      "version": "jdk8u442-b06",
-      "lts": false,
-      "os": "linux",
-      "arch": "arm",
-      "file_name": "OpenJDK8U-jdk_arm_linux_hotspot_8u442b06.tar.gz",
-      "file_type": "tar.gz",
-      "sum": "c555750ee41799d30553bd9744c1ab9b8e6b2a2ea83195619a11ef30cc4154f4",
-      "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jdk_arm_linux_hotspot_8u442b06.tar.gz",
-      "size": 98388162
-    },
-    {
       "version": "jdk8u452-b09",
       "lts": false,
       "os": "linux",
@@ -167,6 +155,18 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u452b09.tar.gz",
       "size": 100986827
+    },
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm",
+      "file_name": "OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a467f86d0dc4c9077edeac5eeae0622a556399180628eee6969c745afb1deaf0",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
+      "size": 98397468
     }
   ],
   "11": [
