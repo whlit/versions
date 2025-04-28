@@ -537,7 +537,20 @@
     }
   ],
   "jdk-23.0.2+7": [],
-  "jdk8u452-b09": [],
+  "jdk8u452-b09": [
+    {
+      "version": "jdk8u452-b09",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm",
+      "file_name": "OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a467f86d0dc4c9077edeac5eeae0622a556399180628eee6969c745afb1deaf0",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
+      "size": 98397468
+    }
+  ],
   "jdk-11.0.27+6": [
     {
       "version": "jdk-11.0.27+6",
