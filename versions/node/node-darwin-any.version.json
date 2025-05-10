@@ -7148,5 +7148,19 @@
       "url": "https://nodejs.org/dist/v24.0.0/node-v24.0.0.pkg",
       "size": 0
     }
+  ],
+  "24.0.1": [
+    {
+      "version": "24.0.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.0.1.pkg",
+      "file_type": "pkg",
+      "sum": "e1580db46b085b3ebfc7f87489f7340e3ab4d26bb58be516be2a19e92bea73fa",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.0.1/node-v24.0.1.pkg",
+      "size": 0
+    }
   ]
 }
