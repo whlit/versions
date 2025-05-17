@@ -13153,5 +13153,86 @@
       "url": "https://nodejs.org/dist/v22.15.0/node-v22.15.0-linux-armv7l.tar.xz",
       "size": 0
     }
+  ],
+  "24.0.0": [],
+  "24.0.1": [],
+  "24.0.2": [],
+  "23.11.1": [
+    {
+      "version": "23.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v23.11.1-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ead02a21e6f7144f588150f4684268502e467d9f76017ec5befb983caad9d0dd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.1/node-v23.11.1-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "23.11.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v23.11.1-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "4dd49f33d9f2f9f18fea549ceabb33a15101f0435692c477cff4381f5c23a554",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v23.11.1/node-v23.11.1-linux-armv7l.tar.xz",
+      "size": 0
+    }
+  ],
+  "22.15.1": [
+    {
+      "version": "22.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.15.1-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "346426e2bca62c98fb12213c39e80b0e349d7620238f74b7208d12e18fde87fd",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.15.1/node-v22.15.1-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.15.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.15.1-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6947386b4c8373b625c6a49b5571bf2226dac7c7b560a9a561a1f81bf71a25ef",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.15.1/node-v22.15.1-linux-armv7l.tar.xz",
+      "size": 0
+    }
+  ],
+  "20.19.2": [
+    {
+      "version": "20.19.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v20.19.2-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "aed2de774737d76a81254cbcd12ae5e9239f24efec0456b9608f150d27d58fe7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.2/node-v20.19.2-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "20.19.2",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v20.19.2-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "43adc6c3f57582f0ed206b8401816d1846c39996793f02ccf61e905294bfdc58",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.2/node-v20.19.2-linux-armv7l.tar.xz",
+      "size": 0
+    }
   ]
 }
