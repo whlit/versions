@@ -1,27 +1,27 @@
 {
-  "3.8.8": [
+  "3.8.9": [
     {
-      "version": "3.8.8",
+      "version": "3.8.9",
       "lts": false,
       "os": "any",
       "arch": "any",
-      "file_name": "apache-maven-3.8.8-bin.tar.gz",
+      "file_name": "apache-maven-3.8.9-bin.tar.gz",
       "file_type": "tar.gz",
-      "sum": "332088670d14fa9ff346e6858ca0acca304666596fec86eea89253bd496d3c90deae2be5091be199f48e09d46cec817c6419d5161fb4ee37871503f472765d00",
+      "sum": "4a490b7f331a0e7869b61da24600241e445339f2801ed94e32f835b63ed78597ad05ef8c1cce2501b4c2c3dcde30030eb395cd5756be739c20ac687ad6f82f0e",
       "sum_type": "sha512",
-      "url": "https://downloads.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.tar.gz",
+      "url": "https://downloads.apache.org/maven/maven-3/3.8.9/binaries/apache-maven-3.8.9-bin.tar.gz",
       "size": 0
     },
     {
-      "version": "3.8.8",
+      "version": "3.8.9",
       "lts": false,
       "os": "any",
       "arch": "any",
-      "file_name": "apache-maven-3.8.8-bin.zip",
+      "file_name": "apache-maven-3.8.9-bin.zip",
       "file_type": "zip",
-      "sum": "aa7d431c07714c410e53502b630f91fc22d2664d5974a413471a2bd4fca9c31f98fbc397d613b7c3e31d3615a9f18487867975b1332462baf7d6ca58ef3628f9",
+      "sum": "12e61ed2ea918410f1517aacf7959e9ee33fd033597d7b28367e98409481b939a8fd0be77d7f7cd48b94dc2f8e5bac8f861e7cf99723dd106e3216451d15165e",
       "sum_type": "sha512",
-      "url": "https://downloads.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.zip",
+      "url": "https://downloads.apache.org/maven/maven-3/3.8.9/binaries/apache-maven-3.8.9-bin.zip",
       "size": 0
     }
   ],
