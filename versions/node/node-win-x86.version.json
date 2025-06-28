@@ -23683,5 +23683,107 @@
       "url": "https://nodejs.org/dist/v22.16.0/node-v22.16.0-win-x86.zip",
       "size": 0
     }
+  ],
+  "24.2.0": [],
+  "24.3.0": [],
+  "22.17.0": [
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.17.0-win-x86.7z",
+      "file_type": "7z",
+      "sum": "4f9aa2d620c4ccd90ca895644807e8114ab8d28919271f105434669d4f2c671e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-win-x86.7z",
+      "size": 0
+    },
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "win-x86/node.exe",
+      "file_type": "exe",
+      "sum": "fbc2e68bb7b1efd24769ebdf914a98dd2752f5dfd459526a197259c9ddbbc60f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/win-x86/node.exe",
+      "size": 0
+    },
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.17.0-x86.msi",
+      "file_type": "msi",
+      "sum": "10f125469f972aa73ef9bd5ec5d5e017b3f71aa4cbc73c1eb1a0cd6a9de47884",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-x86.msi",
+      "size": 0
+    },
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.17.0-win-x86.zip",
+      "file_type": "zip",
+      "sum": "7817aab24c310a52f12063a8c1748c80c7bd02666f4869c090cbc4edefa24b62",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-win-x86.zip",
+      "size": 0
+    }
+  ],
+  "20.19.3": [
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v20.19.3-win-x86.7z",
+      "file_type": "7z",
+      "sum": "2aa04389edcb45acd3a1609ad73e6b250f67dcf5e60283415e856ba198a84c5c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3-win-x86.7z",
+      "size": 0
+    },
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "win-x86/node.exe",
+      "file_type": "exe",
+      "sum": "c233d2d9cfa277e9a0679b597a34d33046752e75ba8b581c80e46086ef3fad93",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/win-x86/node.exe",
+      "size": 0
+    },
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v20.19.3-x86.msi",
+      "file_type": "msi",
+      "sum": "6791da9a6a037be56324f43d85ba4a9a11a9ae4b9d70fb95cb4dc1b41ead45ab",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3-x86.msi",
+      "size": 0
+    },
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v20.19.3-win-x86.zip",
+      "file_type": "zip",
+      "sum": "0add136861250792abb445f8d4705b2b5220a339a8cd2e72944e393d453f43fc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3-win-x86.zip",
+      "size": 0
+    }
   ]
 }

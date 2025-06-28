@@ -12904,5 +12904,83 @@
       "url": "https://nodejs.org/dist/v24.2.0/node-v24.2.0-linux-ppc64le.tar.xz",
       "size": 0
     }
+  ],
+  "24.3.0": [
+    {
+      "version": "24.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v24.3.0-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2f3979aa58e30b78205a319f2bcb4c21f849d1f4a31acb753c63a0508046e87f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.3.0/node-v24.3.0-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "24.3.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v24.3.0-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "88a3f44fed8105bd74eee678933cfcf2c1c4ea0828b60e76a9c6ca687195a889",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.3.0/node-v24.3.0-linux-ppc64le.tar.xz",
+      "size": 0
+    }
+  ],
+  "22.17.0": [
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v22.17.0-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c3a49ac3d56404290a66afdd9b149d87201fa1dc52740c21cf70b182cf8dfc4c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.17.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v22.17.0-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3670b7a8517b4abd0d3069c24117a7072fd2bf156e62315d9a43999b5ba0f318",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.0/node-v22.17.0-linux-ppc64le.tar.xz",
+      "size": 0
+    }
+  ],
+  "20.19.3": [
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v20.19.3-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b38c429376c4aeee09e0e3ba3294db9e2683e896747b0050aa84ed3401706389",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "20.19.3",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v20.19.3-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3f72821fce859e9ed7c28d1d9486a7be42615b6e72012dc38851cca0c76ffd5a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3-linux-ppc64le.tar.xz",
+      "size": 0
+    }
   ]
 }
