@@ -7302,5 +7302,19 @@
       "url": "https://nodejs.org/dist/v20.19.3/node-v20.19.3.pkg",
       "size": 0
     }
+  ],
+  "24.4.0": [
+    {
+      "version": "24.4.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.4.0.pkg",
+      "file_type": "pkg",
+      "sum": "bff7a6239d9c5a809f4fe4e8585144ccc930533d88f8ef2935afa0d5aa86c244",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.4.0/node-v24.4.0.pkg",
+      "size": 0
+    }
   ]
 }
