@@ -800,5 +800,21 @@
       "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz",
       "size": 205115692
     }
+  ],
+  "jdk-11.0.28+6": [],
+  "jdk-17.0.16+8": [],
+  "jdk-21.0.8+9": [
+    {
+      "version": "jdk-21.0.8+9",
+      "lts": true,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.8_9.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e5c41a1ab0865ea5de9b4529bf8526005f1d4593090845387d14fe450ce39c33",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.8_9.tar.gz",
+      "size": 205275133
+    }
   ]
 }
