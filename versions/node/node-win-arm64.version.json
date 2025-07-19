@@ -2742,5 +2742,83 @@
       "url": "https://nodejs.org/dist/v24.4.0/node-v24.4.0-win-arm64.zip",
       "size": 0
     }
+  ],
+  "24.4.1": [
+    {
+      "version": "24.4.1",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v24.4.1-win-arm64.7z",
+      "file_type": "7z",
+      "sum": "a9e19728d981b03fd0ef075d6df0dc28c9d543f4b2ea6cad5cb1e3dff5c01e11",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.4.1/node-v24.4.1-win-arm64.7z",
+      "size": 0
+    },
+    {
+      "version": "24.4.1",
+      "lts": false,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v24.4.1-win-arm64.zip",
+      "file_type": "zip",
+      "sum": "8cb993d89d13119f582c77a4c734be5bdfeee5557e6cfe850ea1a2f23fa94686",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.4.1/node-v24.4.1-win-arm64.zip",
+      "size": 0
+    }
+  ],
+  "22.17.1": [
+    {
+      "version": "22.17.1",
+      "lts": true,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v22.17.1-win-arm64.7z",
+      "file_type": "7z",
+      "sum": "6cc39aee7c832b1de1c7c44f1f4746351fc38d7880af67aa5238503eb647d830",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.1/node-v22.17.1-win-arm64.7z",
+      "size": 0
+    },
+    {
+      "version": "22.17.1",
+      "lts": true,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v22.17.1-win-arm64.zip",
+      "file_type": "zip",
+      "sum": "588d42c7c90eecf14ed4fc126a64cc70993e3a002f93e26be9c979cdc516b0d3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.17.1/node-v22.17.1-win-arm64.zip",
+      "size": 0
+    }
+  ],
+  "20.19.4": [
+    {
+      "version": "20.19.4",
+      "lts": true,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v20.19.4-win-arm64.7z",
+      "file_type": "7z",
+      "sum": "8bc6b30ab6e23c49bfffe64512041a43170b6a0e8ec875d636fa77f32b56d094",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.4/node-v20.19.4-win-arm64.7z",
+      "size": 0
+    },
+    {
+      "version": "20.19.4",
+      "lts": true,
+      "os": "win",
+      "arch": "arm64",
+      "file_name": "node-v20.19.4-win-arm64.zip",
+      "file_type": "zip",
+      "sum": "1554251027d777d3dbb276af0553b2e9f89822a1579067216bc0b9522a3a22d3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.4/node-v20.19.4-win-arm64.zip",
+      "size": 0
+    }
   ]
 }
