@@ -282,7 +282,20 @@
     }
   ],
   "jdk-11.0.28+6": [],
-  "jdk-17.0.16+8": [],
+  "jdk-17.0.16+8": [
+    {
+      "version": "jdk-17.0.16+8",
+      "lts": false,
+      "os": "linux",
+      "arch": "riscv64",
+      "file_name": "OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.16_8.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "42cc01235222a27576de8331a532da200ce36c9d155c93e9e0b4d565dcaf684a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.16_8.tar.gz",
+      "size": 185810317
+    }
+  ],
   "jdk-21.0.8+9": [
     {
       "version": "jdk-21.0.8+9",
@@ -296,5 +309,6 @@
       "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.8_9.tar.gz",
       "size": 203092492
     }
-  ]
+  ],
+  "jdk8u462-b08": []
 }
