@@ -47,16 +47,16 @@
   "20": [],
   "21": [
     {
-      "version": "jdk-21.0.7+6",
+      "version": "jdk-21.0.8+9",
       "lts": true,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.8_9.tar.gz",
       "file_type": "tar.gz",
-      "sum": "646d31f3825fd511e12489b703b751fe175e3036658537e3a331c167024274a2",
+      "sum": "c4949ed2d75915be1c11329b04d0077b9b569eabeeb3d32c1bdf638d526fb082",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz",
-      "size": 201367423
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.8_9.tar.gz",
+      "size": 201510755
     }
   ],
   "22": [

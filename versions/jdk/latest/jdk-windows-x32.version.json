@@ -1,28 +1,28 @@
 {
   "8": [
     {
-      "version": "jdk8u452-b09",
+      "version": "jdk8u462-b08",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b09.msi",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.msi",
       "file_type": "msi",
-      "sum": "80891cf6ff349b75a2e91613abed6ee6046ca5880c18637bcdba1659f76cdfaa",
+      "sum": "bde76537146dddddafa6bcaeb603af173e4144084f8ab3337d575da84604a72b",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b09.msi",
-      "size": 89382912
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.msi",
+      "size": 89260032
     },
     {
-      "version": "jdk8u452-b09",
+      "version": "jdk8u462-b08",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b09.zip",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.zip",
       "file_type": "zip",
-      "sum": "dcbb3537438d4ba0a51c7e76ea59e451fd5465774f1567cdde55981e168f8902",
+      "sum": "a14fe48dfb47400b89a2b5b15bb0553139cb6c39b37df7821619fa1af43d3828",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_x86-32_windows_hotspot_8u452b09.zip",
-      "size": 107346930
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.zip",
+      "size": 107357949
     }
   ],
   "11": [
@@ -79,28 +79,28 @@
   ],
   "17": [
     {
-      "version": "jdk-17.0.15+6",
+      "version": "jdk-17.0.16+8",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.msi",
+      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.16_8.msi",
       "file_type": "msi",
-      "sum": "5c3fdc60d120714955f2ba899e4f3791060fc3c4e5c6d3849dead5b7c1a3a591",
+      "sum": "3e3516535d75af5fa14471300980ca86be209ed7fbf31a3c24c6f5c5c96ffc50",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.msi",
-      "size": 164438016
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.16_8.msi",
+      "size": 164331520
     },
     {
-      "version": "jdk-17.0.15+6",
+      "version": "jdk-17.0.16+8",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.zip",
+      "file_name": "OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.16_8.zip",
       "file_type": "zip",
-      "sum": "a002de2ff40b743435b3ce494aff83d20c0ea47572fc0711703f7bded9379137",
+      "sum": "ca382202d08d57aff7816a2b51fe1f152d99576e0e3fabab57949cc2e40d4661",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_6.zip",
-      "size": 185938214
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.16_8.zip",
+      "size": 185977565
     }
   ],
   "18": [
