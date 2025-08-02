@@ -1,16 +1,16 @@
 {
   "8": [
     {
-      "version": "jdk8u452-b09",
+      "version": "jdk8u462-b08",
       "lts": false,
       "os": "linux",
       "arch": "arm",
-      "file_name": "OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
+      "file_name": "OpenJDK8U-jdk_arm_linux_hotspot_8u462b08.tar.gz",
       "file_type": "tar.gz",
-      "sum": "a467f86d0dc4c9077edeac5eeae0622a556399180628eee6969c745afb1deaf0",
+      "sum": "c4f29a65ca6c4c211e3af645e3fcbd9e8f0c2b8ab2b738973237f08e4dc38310",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk_arm_linux_hotspot_8u452b09.tar.gz",
-      "size": 98397468
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_arm_linux_hotspot_8u462b08.tar.gz",
+      "size": 98402076
     }
   ],
   "11": [
@@ -43,16 +43,16 @@
   ],
   "17": [
     {
-      "version": "jdk-17.0.15+6",
+      "version": "jdk-17.0.16+8",
       "lts": false,
       "os": "linux",
       "arch": "arm",
-      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
+      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.16_8.tar.gz",
       "file_type": "tar.gz",
-      "sum": "8a3c859355f898c119d154e4caf867263e0e4c8065a91d63ae10666c19bc1108",
+      "sum": "bc8ba665df25378cfca76b2d2ca6821ba32c4d45934aa5beea5b542d6658f5d6",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jdk_arm_linux_hotspot_17.0.15_6.tar.gz",
-      "size": 188980452
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_arm_linux_hotspot_17.0.16_8.tar.gz",
+      "size": 189023051
     }
   ],
   "18": [
