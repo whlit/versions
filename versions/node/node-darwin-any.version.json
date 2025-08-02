@@ -7358,5 +7358,33 @@
       "url": "https://nodejs.org/dist/v20.19.4/node-v20.19.4.pkg",
       "size": 0
     }
+  ],
+  "24.5.0": [
+    {
+      "version": "24.5.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.5.0.pkg",
+      "file_type": "pkg",
+      "sum": "9e4c4c623d1cecdaf5c1d9b1da6d58d4ab274aea2a33670dcc3066dcbc035c5c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.5.0/node-v24.5.0.pkg",
+      "size": 0
+    }
+  ],
+  "22.18.0": [
+    {
+      "version": "22.18.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.18.0.pkg",
+      "file_type": "pkg",
+      "sum": "6dcf25409694feab54e7c634f30cc722f0a31941c81d9d9715e880cb64ef5c35",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.18.0/node-v22.18.0.pkg",
+      "size": 0
+    }
   ]
 }
