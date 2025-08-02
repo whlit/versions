@@ -580,8 +580,34 @@
       "size": 194464350
     }
   ],
-  "jdk-11.0.28+6": [],
-  "jdk-17.0.16+8": [],
+  "jdk-11.0.28+6": [
+    {
+      "version": "jdk-11.0.28+6",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.28_6.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ac3f94fdcc5372e90f44fad9cd03ec0e3fd3535fea06c120f85e4a7534c6de04",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.28%2B6/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.28_6.tar.gz",
+      "size": 168504742
+    }
+  ],
+  "jdk-17.0.16+8": [
+    {
+      "version": "jdk-17.0.16+8",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK17U-jdk_s390x_linux_hotspot_17.0.16_8.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "03dd99d34d2d1b88395765df3acbec2cb81de286f64b1d9e6df3682bee365168",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_s390x_linux_hotspot_17.0.16_8.tar.gz",
+      "size": 180335638
+    }
+  ],
   "jdk-21.0.8+9": [
     {
       "version": "jdk-21.0.8+9",
