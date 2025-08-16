@@ -7386,5 +7386,19 @@
       "url": "https://nodejs.org/dist/v22.18.0/node-v22.18.0.pkg",
       "size": 0
     }
+  ],
+  "24.6.0": [
+    {
+      "version": "24.6.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.6.0.pkg",
+      "file_type": "pkg",
+      "sum": "8cfbc75e8682f89bb10d9f3339bea7d6e3c83ec7941894c73e17c9b863c10708",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.6.0/node-v24.6.0.pkg",
+      "size": 0
+    }
   ]
 }
