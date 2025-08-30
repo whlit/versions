@@ -13670,5 +13670,57 @@
       "url": "https://nodejs.org/dist/v24.6.0/node-v24.6.0-darwin-x64.tar.xz",
       "size": 0
     }
+  ],
+  "24.7.0": [
+    {
+      "version": "24.7.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v24.7.0-darwin-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "b99548ef56ec86da2ce50eff041d97e14077b77b517c4bcce0925d14c26cbee3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-darwin-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "24.7.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v24.7.0-darwin-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "3db45b8cc33a6ccac4c79be069c8fd5a735b55ed2e6da138dbed4bcce82f93aa",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.7.0/node-v24.7.0-darwin-x64.tar.xz",
+      "size": 0
+    }
+  ],
+  "22.19.0": [
+    {
+      "version": "22.19.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v22.19.0-darwin-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3cfed4795cd97277559763c5f56e711852d2cc2420bda1cea30c8aa9ac77ce0c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-darwin-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.19.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v22.19.0-darwin-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "41796082f45db51738d1902cae84fa4f699ff6d2550321361424e8bfe6ea1939",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.19.0/node-v22.19.0-darwin-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
