@@ -7442,5 +7442,19 @@
       "url": "https://nodejs.org/dist/v20.19.5/node-v20.19.5.pkg",
       "size": 0
     }
+  ],
+  "24.8.0": [
+    {
+      "version": "24.8.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.8.0.pkg",
+      "file_type": "pkg",
+      "sum": "3f386cde016bd4424000c645d5887347998723810ddc08127c423c03f1e55d1d",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.8.0/node-v24.8.0.pkg",
+      "size": 0
+    }
   ]
 }
