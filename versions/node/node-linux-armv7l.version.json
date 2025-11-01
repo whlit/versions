@@ -13506,5 +13506,33 @@
       "url": "https://nodejs.org/dist/v22.21.0/node-v22.21.0-linux-armv7l.tar.xz",
       "size": 0
     }
+  ],
+  "25.1.0": [],
+  "24.11.0": [],
+  "22.21.1": [
+    {
+      "version": "22.21.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.21.1-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "40d3d09aee556abc297dd782864fcc6b9e60acd438ff0660ba9ddcd569c00920",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.21.1",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.21.1-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "69faec17156bc240a7e7590bcfb236194e4c09412387ac94318e8b30f72155e0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-linux-armv7l.tar.xz",
+      "size": 0
+    }
   ]
 }

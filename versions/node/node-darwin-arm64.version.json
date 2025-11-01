@@ -5486,5 +5486,83 @@
       "url": "https://nodejs.org/dist/v22.21.0/node-v22.21.0-darwin-arm64.tar.xz",
       "size": 0
     }
+  ],
+  "25.1.0": [
+    {
+      "version": "25.1.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v25.1.0-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "811dcf54580d9eef0abfed9f65457545d2aac8e24853b6e638194fcba0257168",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.1.0/node-v25.1.0-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.1.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v25.1.0-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f7fc6aae11d635291ca95740045d31ee08f368f44c6acb610f9e78e6643a7714",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.1.0/node-v25.1.0-darwin-arm64.tar.xz",
+      "size": 0
+    }
+  ],
+  "24.11.0": [
+    {
+      "version": "24.11.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v24.11.0-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0be2ab2816a4fa02d1acff014a434f29f56d8d956f5af6a98b70ced6c5f4d201",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.11.0/node-v24.11.0-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "24.11.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v24.11.0-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "30bbe12b71f5b89ba44e15dc0cfaf3c733538d46ee375691534b7bbe622225cc",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.11.0/node-v24.11.0-darwin-arm64.tar.xz",
+      "size": 0
+    }
+  ],
+  "22.21.1": [
+    {
+      "version": "22.21.1",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v22.21.1-darwin-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c170d6554fba83d41d25a76cdbad85487c077e51fa73519e41ac885aa429d8af",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-darwin-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.21.1",
+      "lts": true,
+      "os": "darwin",
+      "arch": "arm64",
+      "file_name": "node-v22.21.1-darwin-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "39f53ffcf1604291e85974c8588bb290c14b358ac085e342920e703651d63c5e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.21.1/node-v22.21.1-darwin-arm64.tar.xz",
+      "size": 0
+    }
   ]
 }
