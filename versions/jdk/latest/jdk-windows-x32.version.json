@@ -27,28 +27,28 @@
   ],
   "11": [
     {
-      "version": "jdk-11.0.28+6",
+      "version": "jdk-11.0.29+7",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.28_6.msi",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.29_7.msi",
       "file_type": "msi",
-      "sum": "2d8fd994e252b0bafebb4d86b564b7552a67c824397e52b1a3c221a56325c5c3",
+      "sum": "0b2e49c16d02659e3232a8d3ed4936df8a12af1ff34a87204430da8c3de4ac31",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.28%2B6/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.28_6.msi",
-      "size": 156565504
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.29_7.msi",
+      "size": 156614656
     },
     {
-      "version": "jdk-11.0.28+6",
+      "version": "jdk-11.0.29+7",
       "lts": false,
       "os": "windows",
       "arch": "x32",
-      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.28_6.zip",
+      "file_name": "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.29_7.zip",
       "file_type": "zip",
-      "sum": "21835a3a761932d93a79759dc1c823112d54a3288f0f04e65a188eaf45cc6d69",
+      "sum": "0b5bb836546f86aab9ffe53a14ae51f4801c5a020383d7ea88a054091676698c",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.28%2B6/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.28_6.zip",
-      "size": 178259825
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.29_7.zip",
+      "size": 178311906
     }
   ],
   "16": [

@@ -4,16 +4,16 @@
   "16": [],
   "17": [
     {
-      "version": "jdk-17.0.16+8",
+      "version": "jdk-17.0.17+10",
       "lts": false,
       "os": "linux",
       "arch": "riscv64",
-      "file_name": "OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.16_8.tar.gz",
+      "file_name": "OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.17_10.tar.gz",
       "file_type": "tar.gz",
-      "sum": "42cc01235222a27576de8331a532da200ce36c9d155c93e9e0b4d565dcaf684a",
+      "sum": "fba21763f6553efb65d774f51ab6a347e67a69eb2bb2d26980cdf2ee0f35a6db",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.16_8.tar.gz",
-      "size": 185810317
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jdk_riscv64_linux_hotspot_17.0.17_10.tar.gz",
+      "size": 189000347
     }
   ],
   "18": [],
