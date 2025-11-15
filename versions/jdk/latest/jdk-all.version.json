@@ -3,30 +3,6 @@
     {
       "version": "jdk8u462-b08",
       "lts": false,
-      "os": "windows",
-      "arch": "x32",
-      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.msi",
-      "file_type": "msi",
-      "sum": "bde76537146dddddafa6bcaeb603af173e4144084f8ab3337d575da84604a72b",
-      "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.msi",
-      "size": 89260032
-    },
-    {
-      "version": "jdk8u462-b08",
-      "lts": false,
-      "os": "windows",
-      "arch": "x32",
-      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.zip",
-      "file_type": "zip",
-      "sum": "a14fe48dfb47400b89a2b5b15bb0553139cb6c39b37df7821619fa1af43d3828",
-      "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u462b08.zip",
-      "size": 107357949
-    },
-    {
-      "version": "jdk8u462-b08",
-      "lts": false,
       "os": "solaris",
       "arch": "sparcv9",
       "file_name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u462b08.tar.gz",
@@ -167,6 +143,30 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_arm_linux_hotspot_8u472b08.tar.gz",
       "size": 98421696
+    },
+    {
+      "version": "jdk8u472-b08",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u472b08.msi",
+      "file_type": "msi",
+      "sum": "daff0b3a7892ec99635f54554070ede99c175c157f683bc99c6d9008e81dfe4f",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u472b08.msi",
+      "size": 89251840
+    },
+    {
+      "version": "jdk8u472-b08",
+      "lts": false,
+      "os": "windows",
+      "arch": "x32",
+      "file_name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u472b08.zip",
+      "file_type": "zip",
+      "sum": "15df042dcb03bac23a0b2d8d010bf26c49e1247a9a7b58deea19c85d29039f2d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u472b08.zip",
+      "size": 107347973
     }
   ],
   "11": [
