@@ -13528,5 +13528,31 @@
       "url": "https://nodejs.org/dist/v24.11.1/node-v24.11.1-linux-ppc64le.tar.xz",
       "size": 0
     }
+  ],
+  "25.2.1": [
+    {
+      "version": "25.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v25.2.1-linux-ppc64le.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "0ffdbbd4355f40221423af6f043a9370e1b6d2efb3ec27eb4e10e47adffa427f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-linux-ppc64le.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.2.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "node-v25.2.1-linux-ppc64le.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "14d1b9bc689499f29e045c479b3d89de997f59f2301e7cdc9ce8c72cb774c631",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-linux-ppc64le.tar.xz",
+      "size": 0
+    }
   ]
 }

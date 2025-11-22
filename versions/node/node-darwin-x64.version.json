@@ -14034,5 +14034,31 @@
       "url": "https://nodejs.org/dist/v24.11.1/node-v24.11.1-darwin-x64.tar.xz",
       "size": 0
     }
+  ],
+  "25.2.1": [
+    {
+      "version": "25.2.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v25.2.1-darwin-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c266da5a9075a56e1aa02460ce8df96fca9e796c388abe94a8df4949945df6b6",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-darwin-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.2.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v25.2.1-darwin-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "c81a585ef93e781dc51c37f3f307480bfb7765b6ce3e69d3bad28f742e56fb81",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1-darwin-x64.tar.xz",
+      "size": 0
+    }
   ]
 }

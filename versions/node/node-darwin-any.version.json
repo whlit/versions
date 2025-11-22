@@ -7596,5 +7596,19 @@
       "url": "https://nodejs.org/dist/v24.11.1/node-v24.11.1.pkg",
       "size": 0
     }
+  ],
+  "25.2.1": [
+    {
+      "version": "25.2.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v25.2.1.pkg",
+      "file_type": "pkg",
+      "sum": "8412d3daa7f2f371fe1bc53eed78c36ec5b0e7cefa3ddf7df2e2325d45f2b675",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1.pkg",
+      "size": 0
+    }
   ]
 }
