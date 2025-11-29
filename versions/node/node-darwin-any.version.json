@@ -7610,5 +7610,19 @@
       "url": "https://nodejs.org/dist/v25.2.1/node-v25.2.1.pkg",
       "size": 0
     }
+  ],
+  "20.19.6": [
+    {
+      "version": "20.19.6",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v20.19.6.pkg",
+      "file_type": "pkg",
+      "sum": "4d4065292b93bd19729267cb7df52a37019d90f3ce1fdcf78ecaf72aba253f0b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.19.6/node-v20.19.6.pkg",
+      "size": 0
+    }
   ]
 }
