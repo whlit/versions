@@ -1,30 +1,6 @@
 {
   "8": [
     {
-      "version": "jdk8u462-b08",
-      "lts": false,
-      "os": "solaris",
-      "arch": "sparcv9",
-      "file_name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u462b08.tar.gz",
-      "file_type": "tar.gz",
-      "sum": "5f0d729b4e2cea228eebb905aa14643355a6a54e3a591e357abd91106d02b4a3",
-      "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u462b08.tar.gz",
-      "size": 115276050
-    },
-    {
-      "version": "jdk8u462-b08",
-      "lts": false,
-      "os": "solaris",
-      "arch": "x64",
-      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u462b08.tar.gz",
-      "file_type": "tar.gz",
-      "sum": "40e9c44d1ea14b45b0ba7e1e5f687f971e9cb944c65791fd5fb0fa8d19d180f7",
-      "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u462b08.tar.gz",
-      "size": 111688517
-    },
-    {
       "version": "jdk8u472-b08",
       "lts": false,
       "os": "alpine-linux",
@@ -167,6 +143,30 @@
       "sum_type": "sha256",
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x86-32_windows_hotspot_8u472b08.zip",
       "size": 107347973
+    },
+    {
+      "version": "jdk8u472-b08",
+      "lts": false,
+      "os": "solaris",
+      "arch": "sparcv9",
+      "file_name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u472b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "9674251e979ec694cb6128e3e6336d4e89451bea7038beea2fc52718da7f709d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u472b08.tar.gz",
+      "size": 115279155
+    },
+    {
+      "version": "jdk8u472-b08",
+      "lts": false,
+      "os": "solaris",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u472b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "37d5730c158e1a18096aedcf59c739f6e96b2f8a1394a97bb7f129f388b6d050",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_x64_solaris_hotspot_8u472b08.tar.gz",
+      "size": 111666960
     }
   ],
   "11": [
