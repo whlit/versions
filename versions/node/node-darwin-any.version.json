@@ -7624,5 +7624,19 @@
       "url": "https://nodejs.org/dist/v20.19.6/node-v20.19.6.pkg",
       "size": 0
     }
+  ],
+  "24.12.0": [
+    {
+      "version": "24.12.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.12.0.pkg",
+      "file_type": "pkg",
+      "sum": "b1659be3795c70073d72f5c3fb5834f080fec445a72e2f30a7796f65d6ba686c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.12.0/node-v24.12.0.pkg",
+      "size": 0
+    }
   ]
 }
