@@ -7638,5 +7638,61 @@
       "url": "https://nodejs.org/dist/v24.12.0/node-v24.12.0.pkg",
       "size": 0
     }
+  ],
+  "25.3.0": [
+    {
+      "version": "25.3.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v25.3.0.pkg",
+      "file_type": "pkg",
+      "sum": "09bd3f5619aed0dc5f3aaf9de50cea52ffbabc79b5bda36e8e88dbed26405710",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.3.0/node-v25.3.0.pkg",
+      "size": 0
+    }
+  ],
+  "24.13.0": [
+    {
+      "version": "24.13.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.13.0.pkg",
+      "file_type": "pkg",
+      "sum": "b62d61eb92a1fdcc3fc4951fc087f206eb6f46d088bd9a6630892f4eb5203d13",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.13.0/node-v24.13.0.pkg",
+      "size": 0
+    }
+  ],
+  "22.22.0": [
+    {
+      "version": "22.22.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.22.0.pkg",
+      "file_type": "pkg",
+      "sum": "0e437be47d67d916c2b94073321dfdaffef85ef6e527d509588d00994e9036af",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.22.0/node-v22.22.0.pkg",
+      "size": 0
+    }
+  ],
+  "20.20.0": [
+    {
+      "version": "20.20.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v20.20.0.pkg",
+      "file_type": "pkg",
+      "sum": "8dae9c0d296e86150f9138c0077ef020fb384fd913d1a671baa3663e14367ec0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v20.20.0/node-v20.20.0.pkg",
+      "size": 0
+    }
   ]
 }
