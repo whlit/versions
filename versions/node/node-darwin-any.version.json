@@ -7694,5 +7694,19 @@
       "url": "https://nodejs.org/dist/v20.20.0/node-v20.20.0.pkg",
       "size": 0
     }
+  ],
+  "25.4.0": [
+    {
+      "version": "25.4.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v25.4.0.pkg",
+      "file_type": "pkg",
+      "sum": "f1db8a93f7d9280205c61ebcc199cdfced821cf07f65651d4d24d1f98aa993ec",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.4.0/node-v25.4.0.pkg",
+      "size": 0
+    }
   ]
 }
