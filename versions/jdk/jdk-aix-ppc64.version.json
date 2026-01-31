@@ -613,5 +613,22 @@
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.29_7.tar.gz",
       "size": 179667055
     }
-  ]
+  ],
+  "jdk-17.0.18+8": [],
+  "jdk-21.0.10+7": [
+    {
+      "version": "jdk-21.0.10+7",
+      "lts": true,
+      "os": "aix",
+      "arch": "ppc64",
+      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.10_7.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "daa1936b09e1963fa6ed2aaf5578e569eb7a0646c6f980a348aced6f9e3fd501",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.10_7.tar.gz",
+      "size": 201461054
+    }
+  ],
+  "jdk8u482-b08": [],
+  "jdk-11.0.30+7": []
 }
