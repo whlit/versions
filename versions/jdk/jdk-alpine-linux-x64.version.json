@@ -941,7 +941,20 @@
       "size": 207463576
     }
   ],
-  "jdk8u482-b08": [],
+  "jdk8u482-b08": [
+    {
+      "version": "jdk8u482-b08",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u482b08.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "149565c3de89ef9ceb640312ff77aadea79fb82fa946ae9aab4d024ba25eb47d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u482b08.tar.gz",
+      "size": 101406763
+    }
+  ],
   "jdk-11.0.30+7": [
     {
       "version": "jdk-11.0.30+7",
