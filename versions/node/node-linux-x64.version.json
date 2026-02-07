@@ -14268,5 +14268,31 @@
       "url": "https://nodejs.org/dist/v25.5.0/node-v25.5.0-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "25.6.0": [
+    {
+      "version": "25.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v25.6.0-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a218fdaee14cb399f6b33925d4615a4046ba8db144f6e883c3b81e78937429eb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.6.0/node-v25.6.0-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.6.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v25.6.0-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "f61908298ba1c8e1802ac00283cee678e0eb4035e1c74f094b06b1620423fcf2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.6.0/node-v25.6.0-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
