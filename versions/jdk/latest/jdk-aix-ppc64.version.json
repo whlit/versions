@@ -1,45 +1,45 @@
 {
   "8": [
     {
-      "version": "jdk8u472-b08",
+      "version": "jdk8u482-b08",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u472b08.tar.gz",
+      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u482b08.tar.gz",
       "file_type": "tar.gz",
-      "sum": "71c006f0d6f6e7d654a4c91ac2a6cc86bbceb641bb685452d102e7bd0cea8f7d",
+      "sum": "be2072fd614b31ef3261b6695df879853f03393b5a029852ebeda992892942ba",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_ppc64_aix_hotspot_8u472b08.tar.gz",
-      "size": 105216419
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_ppc64_aix_hotspot_8u482b08.tar.gz",
+      "size": 105556996
     }
   ],
   "11": [
     {
-      "version": "jdk-11.0.29+7",
+      "version": "jdk-11.0.30+7",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.29_7.tar.gz",
+      "file_name": "OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.30_7.tar.gz",
       "file_type": "tar.gz",
-      "sum": "e668ffde477773ed63dd7d43623a68a6847291d8fb7463d351cd3b3f8d8737e7",
+      "sum": "0ad51ffbfa7650a793267450f27e2d34b592bb213a74ffd4f39aa8effe845e61",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.29_7.tar.gz",
-      "size": 179667055
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.30_7.tar.gz",
+      "size": 180726501
     }
   ],
   "16": [],
   "17": [
     {
-      "version": "jdk-17.0.17+10",
+      "version": "jdk-17.0.18+8",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.17_10.tar.gz",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.18_8.tar.gz",
       "file_type": "tar.gz",
-      "sum": "2923c2dbf25f5f1dbd1d8ec695f8c03453cb5537778d8cb1cee07603dcbb7cc6",
+      "sum": "ce8381f8b990f2559509c2828fa6d93c0f9a3dbadce6544bda3c780f6c313da4",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.17_10.tar.gz",
-      "size": 183431012
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.18_8.tar.gz",
+      "size": 183462717
     }
   ],
   "18": [],

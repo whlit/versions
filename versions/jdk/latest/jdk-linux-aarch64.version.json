@@ -1,30 +1,30 @@
 {
   "8": [
     {
-      "version": "jdk8u472-b08",
+      "version": "jdk8u482-b08",
       "lts": false,
       "os": "linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u472b08.tar.gz",
+      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u482b08.tar.gz",
       "file_type": "tar.gz",
-      "sum": "e2aff19d85d2441e409d6cbdf12ef7c2acabb0de73bca4207947135dcaa935a2",
+      "sum": "ada72fbf191fb287b4c1e54be372b64c40c27c2ffbfa01f880c92af11f4e7c94",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u472-b08/OpenJDK8U-jdk_aarch64_linux_hotspot_8u472b08.tar.gz",
-      "size": 102200754
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_aarch64_linux_hotspot_8u482b08.tar.gz",
+      "size": 102593427
     }
   ],
   "11": [
     {
-      "version": "jdk-11.0.29+7",
+      "version": "jdk-11.0.30+7",
       "lts": false,
       "os": "linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.29_7.tar.gz",
+      "file_name": "OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.30_7.tar.gz",
       "file_type": "tar.gz",
-      "sum": "71e00cd0ab4371a4e9d67d1a2ca3e8ed2f126dff6a6ab152a6ecdec60100fbdd",
+      "sum": "3c8fb6754deced4e08a03524b6af1df4f3df451f1832f3dcd3a6848fd54b8d08",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.29_7.tar.gz",
-      "size": 191497108
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.30_7.tar.gz",
+      "size": 192273922
     }
   ],
   "16": [
