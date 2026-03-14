@@ -7834,5 +7834,19 @@
       "url": "https://nodejs.org/dist/v20.20.1/node-v20.20.1.pkg",
       "size": 0
     }
+  ],
+  "25.8.1": [
+    {
+      "version": "25.8.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v25.8.1.pkg",
+      "file_type": "pkg",
+      "sum": "06560beed6b74fea37e5c52b65e958718b659a07c36e9b36e0a12ef40a7fd106",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.8.1/node-v25.8.1.pkg",
+      "size": 0
+    }
   ]
 }
