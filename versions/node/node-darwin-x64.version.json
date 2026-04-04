@@ -14606,5 +14606,31 @@
       "url": "https://nodejs.org/dist/v20.20.2/node-v20.20.2-darwin-x64.tar.xz",
       "size": 0
     }
+  ],
+  "25.9.0": [
+    {
+      "version": "25.9.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v25.9.0-darwin-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "7d737b53ce191142bfa1c17cfa5b070d96e84eebf76b8dd06d84981cbdc3f7e3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-darwin-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.9.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "x64",
+      "file_name": "node-v25.9.0-darwin-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "824d667ee88ca3e10e9917c9032937e6d1f5042aeb32affd145702d9ff877704",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-darwin-x64.tar.xz",
+      "size": 0
+    }
   ]
 }

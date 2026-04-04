@@ -7904,5 +7904,19 @@
       "url": "https://nodejs.org/dist/v20.20.2/node-v20.20.2.pkg",
       "size": 0
     }
+  ],
+  "25.9.0": [
+    {
+      "version": "25.9.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v25.9.0.pkg",
+      "file_type": "pkg",
+      "sum": "36f46d727cf2ac0df953ad1a154d48feede7a4aefb937dd9810306b3a6dbd2ce",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0.pkg",
+      "size": 0
+    }
   ]
 }

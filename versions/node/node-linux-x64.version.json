@@ -14606,5 +14606,31 @@
       "url": "https://nodejs.org/dist/v20.20.2/node-v20.20.2-linux-x64.tar.xz",
       "size": 0
     }
+  ],
+  "25.9.0": [
+    {
+      "version": "25.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v25.9.0-linux-x64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "134e55b2408448a219760fe04dc44d6851f9de8a79549021ffd870e9082d9e7b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-linux-x64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "25.9.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "node-v25.9.0-linux-x64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1d8db7d6e291d167e8c467ae4094be175e1a0b3969c7ae1f8955b9f7824f7b2e",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0-linux-x64.tar.xz",
+      "size": 0
+    }
   ]
 }
