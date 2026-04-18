@@ -7918,5 +7918,19 @@
       "url": "https://nodejs.org/dist/v25.9.0/node-v25.9.0.pkg",
       "size": 0
     }
+  ],
+  "24.15.0": [
+    {
+      "version": "24.15.0",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v24.15.0.pkg",
+      "file_type": "pkg",
+      "sum": "179cdd07168002ed8395ed63d43dc12e4ac1ab8d375f608eabfb9aff2706ff53",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.15.0/node-v24.15.0.pkg",
+      "size": 0
+    }
   ]
 }
