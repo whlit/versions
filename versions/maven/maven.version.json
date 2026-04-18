@@ -51,6 +51,32 @@
       "size": 0
     }
   ],
+  "3.9.15": [
+    {
+      "version": "3.9.15",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.15-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "33d81e0ec785f0207e3e5e3ffb61863e1dca5784c15ac3fb5ff105f69cffbea484eb8d473ea60467a63f7b0570eef8622f2fed8eee96acbe668aa313391cddb3",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.15/binaries/apache-maven-3.9.15-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.9.15",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.9.15-bin.zip",
+      "file_type": "zip",
+      "sum": "251c676eb88684d6dd86c666817979d256a335c31ad34ab0e1df17eeca1cd504a6c890e906a46d04e51cc7a4fb02f33a75971ef750558034e0a81c257be02267",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.9.15/binaries/apache-maven-3.9.15-bin.zip",
+      "size": 0
+    }
+  ],
   "4.0.0-rc-5": [
     {
       "version": "4.0.0-rc-5",
