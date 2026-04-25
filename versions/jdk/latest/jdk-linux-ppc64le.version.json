@@ -43,16 +43,16 @@
   ],
   "17": [
     {
-      "version": "jdk-17.0.18+8",
+      "version": "jdk-17.0.19+10",
       "lts": false,
       "os": "linux",
       "arch": "ppc64le",
-      "file_name": "OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.18_8.tar.gz",
+      "file_name": "OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.19_10.tar.gz",
       "file_type": "tar.gz",
-      "sum": "5ab89fbde560e1a09386f389dd7881715b896f49c6e9aa974f72d551337dba5e",
+      "sum": "c9d8dc52960ff00aa8c321e211cc5284a2151cffdedeac998f5297066cbad245",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.18_8.tar.gz",
-      "size": 192490430
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_ppc64le_linux_hotspot_17.0.19_10.tar.gz",
+      "size": 192838916
     }
   ],
   "18": [

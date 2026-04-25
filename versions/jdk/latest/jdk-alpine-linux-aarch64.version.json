@@ -8,16 +8,16 @@
   "20": [],
   "21": [
     {
-      "version": "jdk-21.0.10+7",
+      "version": "jdk-21.0.11+10",
       "lts": true,
       "os": "alpine-linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
+      "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz",
       "file_type": "tar.gz",
-      "sum": "19eba6c3877612157ef1f46deb92745b4567cfcd64b79f15449c68cd2b7501e3",
+      "sum": "c8d63598d1dc0a656033515ed258bd6db37506a05407d9f65cd23b95c21027b5",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
-      "size": 205325516
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz",
+      "size": 205612996
     }
   ],
   "22": [
