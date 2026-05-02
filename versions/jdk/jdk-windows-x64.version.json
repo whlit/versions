@@ -1796,5 +1796,58 @@
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.30_7.zip",
       "size": 199408909
     }
+  ],
+  "jdk-17.0.19+10": [],
+  "jdk-21.0.11+10": [
+    {
+      "version": "jdk-21.0.11+10",
+      "lts": true,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.msi",
+      "file_type": "msi",
+      "sum": "93a9c20f4ce967d78992edc5e6fdcc250a56019080553d5d20846decb51d9c01",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.msi",
+      "size": 179359744
+    },
+    {
+      "version": "jdk-21.0.11+10",
+      "lts": true,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.zip",
+      "file_type": "zip",
+      "sum": "d3625e7cadf23787ea540229544b6e2ab494b3b54da1801879e583e1dfee0a64",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_windows_hotspot_21.0.11_10.zip",
+      "size": 205073954
+    }
+  ],
+  "jdk-11.0.31+11": [
+    {
+      "version": "jdk-11.0.31+11",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.31_11.msi",
+      "file_type": "msi",
+      "sum": "432d897f39766288a5747ec5f4927136ce89b743df2ab436cf7d230fbbcd596a",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_x64_windows_hotspot_11.0.31_11.msi",
+      "size": 175124480
+    },
+    {
+      "version": "jdk-11.0.31+11",
+      "lts": false,
+      "os": "windows",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.31_11.zip",
+      "file_type": "zip",
+      "sum": "5695bd8fed700acb74e0c13945fc6d7564441a31d345c100b82ee1aac553a6b7",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_x64_windows_hotspot_11.0.31_11.zip",
+      "size": 199471318
+    }
   ]
 }

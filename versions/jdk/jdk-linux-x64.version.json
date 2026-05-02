@@ -996,5 +996,19 @@
       "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_x64_linux_hotspot_21.0.11_10.tar.gz",
       "size": 207513939
     }
+  ],
+  "jdk-11.0.31+11": [
+    {
+      "version": "jdk-11.0.31+11",
+      "lts": false,
+      "os": "linux",
+      "arch": "x64",
+      "file_name": "OpenJDK11U-jdk_x64_linux_hotspot_11.0.31_11.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "1e9de64586b519c0a981319489257cabedd9457599f3823424a87c3158fbe939",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_x64_linux_hotspot_11.0.31_11.tar.gz",
+      "size": 195644280
+    }
   ]
 }
