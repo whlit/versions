@@ -2,55 +2,55 @@
   "8": [],
   "11": [
     {
-      "version": "jdk-11.0.30+7",
+      "version": "jdk-11.0.31+11",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.30_7.pkg",
+      "file_name": "OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_11.pkg",
       "file_type": "pkg",
-      "sum": "ed352d5851b89872399b15ab309f2367b56a71d70fbc75a34f29b77e2c4e7107",
+      "sum": "7ff35af5d5d1c4a2540c4b826b817e06ba3b367cf141eeb7ea3d3b481c6ac42d",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.30_7.pkg",
-      "size": 184949647
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_11.pkg",
+      "size": 184994915
     },
     {
-      "version": "jdk-11.0.30+7",
+      "version": "jdk-11.0.31+11",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.30_7.tar.gz",
+      "file_name": "OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_11.tar.gz",
       "file_type": "tar.gz",
-      "sum": "d7b52d25d6f7aae2d4d85191d84bc132b80d061006dcd5f76ca79f277c3acb28",
+      "sum": "e3377bbe07f4396ba03adcfc5f3d71d151d6a7b858abdf1d0dd20ac4d8d709b0",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.30_7.tar.gz",
-      "size": 184599096
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_aarch64_mac_hotspot_11.0.31_11.tar.gz",
+      "size": 184652768
     }
   ],
   "16": [],
   "17": [
     {
-      "version": "jdk-17.0.18+8",
+      "version": "jdk-17.0.19+10",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.18_8.pkg",
+      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.pkg",
       "file_type": "pkg",
-      "sum": "5eebbdbb9d132db80b6ca035ac651531e0ff10fae3fa01afb444c998e5163ca7",
+      "sum": "e709b76af0a28d1a0ebffe042a6c90082ef56343508c57fa4955227d8937f6e4",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.18_8.pkg",
-      "size": 186080382
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.pkg",
+      "size": 186243115
     },
     {
-      "version": "jdk-17.0.18+8",
+      "version": "jdk-17.0.19+10",
       "lts": false,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.18_8.tar.gz",
+      "file_name": "OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.tar.gz",
       "file_type": "tar.gz",
-      "sum": "d81de06d938384fe76c4aa3c13395933aa11e2d19b0428743f810db06b05e312",
+      "sum": "8fa1eff40bb637a33613b2ccb8b12c70dc3661cc22cf8e784943715769a05336",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.18%2B8/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.18_8.tar.gz",
-      "size": 185658966
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jdk_aarch64_mac_hotspot_17.0.19_10.tar.gz",
+      "size": 185818964
     }
   ],
   "18": [
@@ -133,28 +133,28 @@
   ],
   "21": [
     {
-      "version": "jdk-21.0.10+7",
+      "version": "jdk-21.0.11+10",
       "lts": true,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.10_7.pkg",
+      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_10.pkg",
       "file_type": "pkg",
-      "sum": "c68958a85919328d63c52a208ca880635e33ca4fafa01f9bf0d8fe9c6b652bc0",
+      "sum": "1c1721d5df6c2ab2edd8d2801bac07a8895b051e51b1946b1897d0a712138115",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.10_7.pkg",
-      "size": 200402126
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_10.pkg",
+      "size": 200539565
     },
     {
-      "version": "jdk-21.0.10+7",
+      "version": "jdk-21.0.11+10",
       "lts": true,
       "os": "mac",
       "arch": "aarch64",
-      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.10_7.tar.gz",
+      "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_10.tar.gz",
       "file_type": "tar.gz",
-      "sum": "01ca390455216ca27bdddf8cfad51aaedb4f90e1e23aad9bfd9e90caaa2c5f1b",
+      "sum": "6ebcf221c9b41507b14c098e93c6ead6440b8d9bd154f8ec666c4c73abbdb201",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.10_7.tar.gz",
-      "size": 199896082
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.11_10.tar.gz",
+      "size": 200030394
     }
   ],
   "22": [
