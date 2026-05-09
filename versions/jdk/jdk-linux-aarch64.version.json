@@ -1010,5 +1010,19 @@
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.31_11.tar.gz",
       "size": 192356810
     }
+  ],
+  "jdk8u492-b09": [
+    {
+      "version": "jdk8u492-b09",
+      "lts": false,
+      "os": "linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3c2253b986909c20f79d6de7a0cb957f89c243df57615897836046e24d2e5257",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz",
+      "size": 102612987
+    }
   ]
 }
