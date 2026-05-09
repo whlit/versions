@@ -1,16 +1,16 @@
 {
   "8": [
     {
-      "version": "jdk8u482-b08",
+      "version": "jdk8u492-b09",
       "lts": false,
       "os": "linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u482b08.tar.gz",
+      "file_name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz",
       "file_type": "tar.gz",
-      "sum": "ada72fbf191fb287b4c1e54be372b64c40c27c2ffbfa01f880c92af11f4e7c94",
+      "sum": "3c2253b986909c20f79d6de7a0cb957f89c243df57615897836046e24d2e5257",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk_aarch64_linux_hotspot_8u482b08.tar.gz",
-      "size": 102593427
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_aarch64_linux_hotspot_8u492b09.tar.gz",
+      "size": 102612987
     }
   ],
   "11": [
