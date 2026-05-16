@@ -7960,5 +7960,19 @@
       "url": "https://nodejs.org/dist/v26.0.0/node-v26.0.0.pkg",
       "size": 0
     }
+  ],
+  "22.22.3": [
+    {
+      "version": "22.22.3",
+      "lts": true,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v22.22.3.pkg",
+      "file_type": "pkg",
+      "sum": "17b494e467956af08d23c092ba10534c2991306360a97d37eac0a66ce4e7981c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.22.3/node-v22.22.3.pkg",
+      "size": 0
+    }
   ]
 }
