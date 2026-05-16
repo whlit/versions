@@ -271,5 +271,34 @@
     }
   ],
   "jdk8u482-b08": [],
-  "jdk-11.0.30+7": []
+  "jdk-11.0.30+7": [],
+  "jdk-17.0.19+10": [],
+  "jdk-21.0.11+10": [
+    {
+      "version": "jdk-21.0.11+10",
+      "lts": true,
+      "os": "windows",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.msi",
+      "file_type": "msi",
+      "sum": "a8b1c7577b03846cad19c11bd4b22bef44992f184a5f3425b96542c10954fa67",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.msi",
+      "size": 168906752
+    },
+    {
+      "version": "jdk-21.0.11+10",
+      "lts": true,
+      "os": "windows",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.zip",
+      "file_type": "zip",
+      "sum": "a6ef0829c261f856ef93d64724be6bc8fd8355c2bbddbd26d6544478a8353f87",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.11_10.zip",
+      "size": 192674418
+    }
+  ],
+  "jdk-11.0.31+11": [],
+  "jdk8u492-b09": []
 }
