@@ -8002,5 +8002,19 @@
       "url": "https://nodejs.org/dist/v24.16.0/node-v24.16.0.pkg",
       "size": 0
     }
+  ],
+  "26.3.0": [
+    {
+      "version": "26.3.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v26.3.0.pkg",
+      "file_type": "pkg",
+      "sum": "0eefec8d427dd5d4e282660344ee5b482e8bf5b09d13fd572f456d0da47217e0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.3.0/node-v26.3.0.pkg",
+      "size": 0
+    }
   ]
 }
