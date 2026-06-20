@@ -13763,5 +13763,36 @@
       "url": "https://nodejs.org/dist/v22.22.3/node-v22.22.3-linux-armv7l.tar.xz",
       "size": 0
     }
+  ],
+  "26.2.0": [],
+  "24.16.0": [],
+  "26.3.0": [],
+  "26.3.1": [],
+  "24.17.0": [],
+  "22.23.0": [
+    {
+      "version": "22.23.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.23.0-linux-armv7l.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "2a6ac877b2381711c55178052a6f481171e0964c2f8d33d0cfe36d8e35f1c2c0",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.0/node-v22.23.0-linux-armv7l.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "22.23.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "armv7l",
+      "file_name": "node-v22.23.0-linux-armv7l.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "6f983135f5bbf1bf017686c93bbabcb616473578f75ef43c773c1556b404a50a",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.0/node-v22.23.0-linux-armv7l.tar.xz",
+      "size": 0
+    }
   ]
 }
