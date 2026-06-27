@@ -24672,5 +24672,57 @@
       "url": "https://nodejs.org/dist/v22.23.0/node-v22.23.0-win-x86.zip",
       "size": 0
     }
+  ],
+  "26.4.0": [],
+  "24.18.0": [],
+  "22.23.1": [
+    {
+      "version": "22.23.1",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.23.1-win-x86.7z",
+      "file_type": "7z",
+      "sum": "6b757e4bc3d293fe926a1be2727ab02d7411b95ece6c94a60d1d5de2279e846f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.1/node-v22.23.1-win-x86.7z",
+      "size": 0
+    },
+    {
+      "version": "22.23.1",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "win-x86/node.exe",
+      "file_type": "exe",
+      "sum": "b1c3e891f327f59594345068505b052da6c93dbb19e5e5af631202eeb0c4015b",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.1/win-x86/node.exe",
+      "size": 0
+    },
+    {
+      "version": "22.23.1",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.23.1-x86.msi",
+      "file_type": "msi",
+      "sum": "de75961b3162771f8f071608226fabc5029174c279a49c2b88621a8091acffa3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.1/node-v22.23.1-x86.msi",
+      "size": 0
+    },
+    {
+      "version": "22.23.1",
+      "lts": true,
+      "os": "win",
+      "arch": "x86",
+      "file_name": "node-v22.23.1-win-x86.zip",
+      "file_type": "zip",
+      "sum": "e298b368aad86c571447a3650db3ce19063373ffd39d6d73d014a5d9ad31dc62",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v22.23.1/node-v22.23.1-win-x86.zip",
+      "size": 0
+    }
   ]
 }
