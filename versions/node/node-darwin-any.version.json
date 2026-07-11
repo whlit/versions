@@ -8100,5 +8100,19 @@
       "url": "https://nodejs.org/dist/v22.23.1/node-v22.23.1.pkg",
       "size": 0
     }
+  ],
+  "26.5.0": [
+    {
+      "version": "26.5.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v26.5.0.pkg",
+      "file_type": "pkg",
+      "sum": "b901ba0326c1175dedff80a5b9647f437958e4dc9031324e6bfd8df6a0e80e4c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.5.0/node-v26.5.0.pkg",
+      "size": 0
+    }
   ]
 }
