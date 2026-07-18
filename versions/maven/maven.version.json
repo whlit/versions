@@ -1,4 +1,30 @@
 {
+  "3.10.0-rc-1": [
+    {
+      "version": "3.10.0-rc-1",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.10.0-rc-1-bin.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "97ee4410a92589c300ac55ae84cfed4972093d2dc9f5488baf857123e2f7b9301f7e5c568e4fc839628787665d0fb33278236459496ed9c3b79d30c7c81ac402",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.10.0-rc-1/binaries/apache-maven-3.10.0-rc-1-bin.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "3.10.0-rc-1",
+      "lts": false,
+      "os": "any",
+      "arch": "any",
+      "file_name": "apache-maven-3.10.0-rc-1-bin.zip",
+      "file_type": "zip",
+      "sum": "eb7b531581cc4a23cd6ddf177c442a0b5dab65d657966282970fcda541dedc5f6dd2f2688bf4caa7cf85eca7ae7f2e8aa34d9b3223de59175d1347d7ad274399",
+      "sum_type": "sha512",
+      "url": "https://downloads.apache.org/maven/maven-3/3.10.0-rc-1/binaries/apache-maven-3.10.0-rc-1-bin.zip",
+      "size": 0
+    }
+  ],
   "3.9.16": [
     {
       "version": "3.9.16",
