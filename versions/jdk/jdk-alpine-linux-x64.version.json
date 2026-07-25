@@ -1024,5 +1024,21 @@
       "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u492b09.tar.gz",
       "size": 101410189
     }
-  ]
+  ],
+  "jdk-11.0.32+9": [],
+  "jdk-17.0.20+8": [
+    {
+      "version": "jdk-17.0.20+8",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK17U-jdk_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c8bb5bc6984762dbce2ab7403d90832b6897c07f36f8706e4a315aa7a566d04d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk_x64_alpine-linux_hotspot_17.0.20_8.tar.gz",
+      "size": 192423943
+    }
+  ],
+  "jdk-21.0.12+8": []
 }
