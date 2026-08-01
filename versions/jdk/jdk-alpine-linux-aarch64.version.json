@@ -307,5 +307,24 @@
       "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.11%2B10/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.11_10.tar.gz",
       "size": 205612996
     }
-  ]
+  ],
+  "jdk-11.0.31+11": [],
+  "jdk8u492-b09": [],
+  "jdk-11.0.32+9": [],
+  "jdk-17.0.20+8": [],
+  "jdk-21.0.12+8": [
+    {
+      "version": "jdk-21.0.12+8",
+      "lts": true,
+      "os": "alpine-linux",
+      "arch": "aarch64",
+      "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "a32f7655011640ed8fb4347fffa2588cb7538de2f2e82027845816740560e2b1",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz",
+      "size": 205565634
+    }
+  ],
+  "jdk8u502-b07": []
 }
