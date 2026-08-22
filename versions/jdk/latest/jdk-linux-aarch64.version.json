@@ -99,16 +99,16 @@
   ],
   "21": [
     {
-      "version": "jdk-21.0.12+8",
+      "version": "jdk-21.0.12.1+1",
       "lts": true,
       "os": "linux",
       "arch": "aarch64",
-      "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.12_8.tar.gz",
+      "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.12.1_1.tar.gz",
       "file_type": "tar.gz",
-      "sum": "eba38e871b02d407897bfe017ea35352dfc1420ef6d2112425b0c67325ca509d",
+      "sum": "23e37e026f12f3e706f18938ff611db3032d075b09d0879a25d06718c773e223",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.12_8.tar.gz",
-      "size": 205638274
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.12.1_1.tar.gz",
+      "size": 205641175
     }
   ],
   "22": [
