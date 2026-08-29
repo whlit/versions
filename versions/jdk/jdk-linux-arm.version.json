@@ -781,5 +781,35 @@
     }
   ],
   "jdk-21.0.12+8": [],
-  "jdk8u502-b07": []
+  "jdk8u502-b07": [],
+  "jdk-17.0.20.1+1": [
+    {
+      "version": "jdk-17.0.20.1+1",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm",
+      "file_name": "OpenJDK17U-jdk_arm_linux_hotspot_17.0.20.1_1.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "e66816375d9ff7e18e622b370f0b523dd45a91ab4c6dcd17d6c8708e17ab80e9",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_arm_linux_hotspot_17.0.20.1_1.tar.gz",
+      "size": 190045891
+    }
+  ],
+  "jdk-21.0.12.1+1": [],
+  "jdk8u504-b01": [],
+  "jdk-11.0.32.1+1": [
+    {
+      "version": "jdk-11.0.32.1+1",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm",
+      "file_name": "OpenJDK11U-jdk_arm_linux_hotspot_11.0.32.1_1.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "95cd974d9155650255cb8747a44df8170b00f932ac7f63fec0598bf2ea5706e0",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_arm_linux_hotspot_11.0.32.1_1.tar.gz",
+      "size": 183207070
+    }
+  ]
 }
