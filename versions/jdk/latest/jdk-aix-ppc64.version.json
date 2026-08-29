@@ -1,45 +1,45 @@
 {
   "8": [
     {
-      "version": "jdk8u502-b07",
+      "version": "jdk8u504-b01",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u502b07.tar.gz",
+      "file_name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u504b01.tar.gz",
       "file_type": "tar.gz",
-      "sum": "8e93fc38b288db88d795b046817630bab7e799b3023e7a60714bf487d1617128",
+      "sum": "3f9bce2f4d63e698b2d90f35bab9d72eb0da0334b8e64a9545a55f5eae95e354",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u502-b07/OpenJDK8U-jdk_ppc64_aix_hotspot_8u502b07.tar.gz",
-      "size": 105781076
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jdk_ppc64_aix_hotspot_8u504b01.tar.gz",
+      "size": 105791946
     }
   ],
   "11": [
     {
-      "version": "jdk-11.0.32+9",
+      "version": "jdk-11.0.32.1+1",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32_9.tar.gz",
+      "file_name": "OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32.1_1.tar.gz",
       "file_type": "tar.gz",
-      "sum": "b3c2fbf7a5d3fa3504fcf27d066ae2914ee3cf62d3772af515e7c47c70a9d04b",
+      "sum": "59c1036df4bebdf4b1c4d81b0b4799695f4957cab2a5443d94a14549a296e166",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32_9.tar.gz",
-      "size": 180824842
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_ppc64_aix_hotspot_11.0.32.1_1.tar.gz",
+      "size": 180829763
     }
   ],
   "16": [],
   "17": [
     {
-      "version": "jdk-17.0.20+8",
+      "version": "jdk-17.0.20.1+1",
       "lts": false,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.20_8.tar.gz",
+      "file_name": "OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.20.1_1.tar.gz",
       "file_type": "tar.gz",
-      "sum": "b3eebe8aa9bb568350f187908e09ced2e7e7f9134ca2708b63b1ebdbdfcd6a5f",
+      "sum": "43f321629004afc92aad40f62fee83120163ad74381f4d799c2902f3af6bcc62",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.20_8.tar.gz",
-      "size": 183672752
+      "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_ppc64_aix_hotspot_17.0.20.1_1.tar.gz",
+      "size": 183686018
     }
   ],
   "18": [],
@@ -47,16 +47,16 @@
   "20": [],
   "21": [
     {
-      "version": "jdk-21.0.12+8",
+      "version": "jdk-21.0.12.1+1",
       "lts": true,
       "os": "aix",
       "arch": "ppc64",
-      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.12_8.tar.gz",
+      "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.12.1_1.tar.gz",
       "file_type": "tar.gz",
-      "sum": "fcdc197ac2120ee71313a7614ee9556e9b2168a2978b0dda72f7778129b9d1fb",
+      "sum": "fc34ea8ea37f77287c5e515553678aef1193d8cabf5c621ffcc13a6341f509aa",
       "sum_type": "sha256",
-      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.12_8.tar.gz",
-      "size": 201707430
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.12.1_1.tar.gz",
+      "size": 201721429
     }
   ],
   "22": [
