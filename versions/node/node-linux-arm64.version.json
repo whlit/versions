@@ -15152,5 +15152,83 @@
       "url": "https://nodejs.org/dist/v24.19.0/node-v24.19.0-linux-arm64.tar.xz",
       "size": 0
     }
+  ],
+  "26.8.1": [
+    {
+      "version": "26.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v26.8.1-linux-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "d5f973ce975e4bd03e6c2038260f7e9201615aa8e1ee293c72f8dcc2a6d9fddb",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.1/node-v26.8.1-linux-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "26.8.1",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v26.8.1-linux-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "23c1b4d19e2f12a7d06fe8aa3d6e0e4923cf77a47e13c5ccdf32fadaa33960f2",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.1/node-v26.8.1-linux-arm64.tar.xz",
+      "size": 0
+    }
+  ],
+  "26.8.0": [
+    {
+      "version": "26.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v26.8.0-linux-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "c358e4c9bd4cd1a4521fa2ae140c88637a3679fc3e99cd1aa6bca1ec5131f13f",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.0/node-v26.8.0-linux-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "26.8.0",
+      "lts": false,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v26.8.0-linux-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "7810e03acad8a592bb565e7875ccdb8b426d159888d462666a3130df64bde3e8",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.0/node-v26.8.0-linux-arm64.tar.xz",
+      "size": 0
+    }
+  ],
+  "24.20.0": [
+    {
+      "version": "24.20.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v24.20.0-linux-arm64.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "3515603e2487879a39bc75716f1a2affd027500c64ba50e845cf72cb33219013",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-linux-arm64.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "24.20.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "arm64",
+      "file_name": "node-v24.20.0-linux-arm64.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "5f4ddab610c1ab2016b3c227cebdbf6d9495161487e4739c7b90090595f465f7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-linux-arm64.tar.xz",
+      "size": 0
+    }
   ]
 }
