@@ -824,5 +824,18 @@
     }
   ],
   "jdk8u504-b01": [],
-  "jdk-11.0.32.1+1": []
+  "jdk-11.0.32.1+1": [
+    {
+      "version": "jdk-11.0.32.1+1",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.32.1_1.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "4f51e08f4b0faa3c114c76ee4999bec81457713362b3c7208469e8c08cfbf89d",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.32.1_1.tar.gz",
+      "size": 169538356
+    }
+  ]
 }

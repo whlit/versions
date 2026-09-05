@@ -1109,7 +1109,20 @@
       "size": 207668898
     }
   ],
-  "jdk8u504-b01": [],
+  "jdk8u504-b01": [
+    {
+      "version": "jdk8u504-b01",
+      "lts": false,
+      "os": "alpine-linux",
+      "arch": "x64",
+      "file_name": "OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u504b01.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "f76b7c98a593f15bbfc9042866141185d63aa87e0afde3b7e48d2c4789a2def5",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u504-b01/OpenJDK8U-jdk_x64_alpine-linux_hotspot_8u504b01.tar.gz",
+      "size": 101404284
+    }
+  ],
   "jdk-11.0.32.1+1": [
     {
       "version": "jdk-11.0.32.1+1",
