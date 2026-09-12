@@ -13666,5 +13666,57 @@
       "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-linux-s390x.tar.xz",
       "size": 0
     }
+  ],
+  "26.8.2": [
+    {
+      "version": "26.8.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v26.8.2-linux-s390x.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "ad3e7fd0134016eb9bda3653d6ef37d9f3609ec6e25a0d122e6c33fdbb2bb0d7",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.2/node-v26.8.2-linux-s390x.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "26.8.2",
+      "lts": false,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v26.8.2-linux-s390x.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "1eb6ce1ac6f236ee41599a6248031e827936c3f7a98d349366dcfc1344749e80",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.8.2/node-v26.8.2-linux-s390x.tar.xz",
+      "size": 0
+    }
+  ],
+  "24.21.0": [
+    {
+      "version": "24.21.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v24.21.0-linux-s390x.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "5f2fa37422e0c75de35c1686fe51d78324f2c2a8fe2cc239a41d9c000a29d938",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.21.0/node-v24.21.0-linux-s390x.tar.gz",
+      "size": 0
+    },
+    {
+      "version": "24.21.0",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "node-v24.21.0-linux-s390x.tar.xz",
+      "file_type": "tar.xz",
+      "sum": "2ef7e2ecbf7a6c2f3d08d106f6b2f279419c6dac89fe91b8cad193af7890082c",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v24.21.0/node-v24.21.0-linux-s390x.tar.xz",
+      "size": 0
+    }
   ]
 }
