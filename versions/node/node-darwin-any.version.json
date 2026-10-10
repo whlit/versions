@@ -8310,5 +8310,33 @@
       "url": "https://nodejs.org/dist/v22.23.3/node-v22.23.3.pkg",
       "size": 0
     }
+  ],
+  "26.11.1": [
+    {
+      "version": "26.11.1",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v26.11.1.pkg",
+      "file_type": "pkg",
+      "sum": "82c03bfa061f9592cf1f7f1ab2446b0975bf544c5487ccc0b3a6eb91c0bc06e3",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.11.1/node-v26.11.1.pkg",
+      "size": 0
+    }
+  ],
+  "26.11.0": [
+    {
+      "version": "26.11.0",
+      "lts": false,
+      "os": "darwin",
+      "arch": "any",
+      "file_name": "node-v26.11.0.pkg",
+      "file_type": "pkg",
+      "sum": "994cf7dcd044781f1ab67190ba30da16d8d48d81f111edb81c0845ea24a79142",
+      "sum_type": "sha256",
+      "url": "https://nodejs.org/dist/v26.11.0/node-v26.11.0.pkg",
+      "size": 0
+    }
   ]
 }
