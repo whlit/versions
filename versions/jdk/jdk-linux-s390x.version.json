@@ -837,5 +837,20 @@
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.32.1_1.tar.gz",
       "size": 169538356
     }
+  ],
+  "jdk-17.0.21+9": [],
+  "jdk-21.0.13+9": [
+    {
+      "version": "jdk-21.0.13+9",
+      "lts": true,
+      "os": "linux",
+      "arch": "s390x",
+      "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.13_9.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "597271ef81f7e4d0e2b86aa6e4d484af194253bdf238908a8394b78970dff713",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B9/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.13_9.tar.gz",
+      "size": 194586336
+    }
   ]
 }

@@ -1097,5 +1097,20 @@
       "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.32.1_1.tar.gz",
       "size": 177897021
     }
+  ],
+  "jdk-17.0.21+9": [],
+  "jdk-21.0.13+9": [
+    {
+      "version": "jdk-21.0.13+9",
+      "lts": true,
+      "os": "linux",
+      "arch": "ppc64le",
+      "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.13_9.tar.gz",
+      "file_type": "tar.gz",
+      "sum": "cfaedcc659213833ead9c2a50987d8dcbd0e7a2d82217abb43acb64c0dd3d8cc",
+      "sum_type": "sha256",
+      "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13%2B9/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.13_9.tar.gz",
+      "size": 206637359
+    }
   ]
 }
